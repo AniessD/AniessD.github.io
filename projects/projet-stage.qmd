@@ -1,6 +1,6 @@
 ---
 title: "Optimisation des consommations de data"
-description: "Identifier et chiffrer des opportunités d'optimisation de forfait"
+description: "Identification et chiffrage des opportunités d'optimisation de forfait"
 image: ../images/couverture_stage.png
 categories: [python, Jupyter, AWS]
 date: 2026-03
