@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/projet-veille.html",
       "/projects/projet-detection-billet.html",
       "/projects/projet-etude-eau-potable.html",
       "/projects/projet-stage.html",

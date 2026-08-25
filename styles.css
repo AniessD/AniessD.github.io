@@ -171,3 +171,8 @@ a:hover {
   border-left: 2px solid var(--primary) !important; /* Barre verticale terracotta */
 }
 
+/* Centrer toutes les légendes d'images */
+figure figcaption,
+.figure-caption {
+  text-align: center !important;
+}

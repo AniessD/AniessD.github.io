@@ -4,161 +4,49 @@
     "href": "projects.html",
     "title": "Projets",
     "section": "",
-    "text": "Détection de faux billets\n\n\n\npython\n\nJupyter\n\nMachine learning\n\n\n\nRéalisation d’une application de détection automatique de faux billets à partir de données géométriques\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse de l’accès mondial à l’eau potable\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\n\n\nConception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimisation des consommations de data\n\n\n\npython\n\nJupyter\n\nAWS\n\n\n\nIdentifier et chiffrer des opportunités d’optimisation de forfait\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des profils socio-démographiques des étudiants d’OpenClassrooms\n\n\n\ndbt\n\nSQL\n\n\n\nComparaison des profils des étudiants d’OpenClassrooms avec des étudiants au niveau national\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude sur l’alimentation dans le monde\n\n\n\npython\n\nJupyter\n\n\n\nY a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Veille métier et technologique : Méthodes de gestion des stocks\n\n\n\nNotion\n\nFeedly\n\n\n\nRéalisation d’une veille dans l’objectif d’améliorer un projet existant\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDétection de faux billets\n\n\n\npython\n\nJupyter\n\nMachine learning\n\n\n\nRéalisation d’une application de détection automatique de faux billets à partir de données géométriques\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse de l’accès mondial à l’eau potable\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\n\n\nConception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimisation des consommations de data\n\n\n\npython\n\nJupyter\n\nAWS\n\n\n\nIdentification et chiffrage des opportunités d’optimisation de forfait\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des profils socio-démographiques des étudiants d’OpenClassrooms\n\n\n\ndbt\n\nSQL\n\n\n\nComparaison des profils des étudiants d’OpenClassrooms avec des étudiants au niveau national\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude sur l’alimentation dans le monde\n\n\n\npython\n\nJupyter\n\n\n\nY a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/projet-sousnutrition.html",
-    "href": "projects/projet-sousnutrition.html",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html",
+    "href": "projects/projet-stage.html",
+    "title": "Optimisation des consommations de data",
     "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
   },
   {
-    "objectID": "projects/projet-sousnutrition.html#contexte",
-    "href": "projects/projet-sousnutrition.html#contexte",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html#contexte",
+    "href": "projects/projet-stage.html#contexte",
+    "title": "Optimisation des consommations de data",
     "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
   },
   {
-    "objectID": "projects/projet-sousnutrition.html#démarche",
-    "href": "projects/projet-sousnutrition.html#démarche",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html#démarche",
+    "href": "projects/projet-stage.html#démarche",
+    "title": "Optimisation des consommations de data",
     "section": "Démarche",
-    "text": "Démarche\nIl consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d’une mission simulée au sein de la FAO. L’objectif est de comprendre :\n\nla disponibilité alimentaire mondiale,\nl’utilisation des ressources,\nla répartition des ressources entre les pays,\nle rôle de l’aide alimentaire"
+    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\n3 sujets principaux analysés :\n\nHors-forfait\nSurconsommation de data\nSous-consommation de data\n\n\nPremières réflexions pour caractériser ces situations en fonction de critères :\n\nOccasionnel / Fréquent / Régulier\nNombre de mois / Fréquence moyenne / Nombre de mois consécutif\n\n\n\nMéthodologie de scoring\n\nDéveloppement d’un algorithme de scoring par carte SIM pour identifier les profils d’usage (surconsommation / sous-consommation) et recommander automatiquement le forfait le plus adapté.\nCritères retenus pour le score :\n- Nombre de mois\n- Fréquence\n- Dernier mois\n- Jour de dépassement (surconsommation)\n- Proportion de dépassement (surconsommation)\n- Proportion sous-consommation (sous-consommation)\n\nPrototype\n\nExpérimentation :\n- Jupyter comme laboratoire pour validation de la méthode de scoring\n- Création de la méthode de proposition de forfait puis vérification de sa cohérence\nFlexibilité :\n- Tous les éléments de calcul sont paramétrables pour pouvoir adapter l’algo à toutes les situations"
   },
   {
-    "objectID": "projects/projet-sousnutrition.html#résultats",
-    "href": "projects/projet-sousnutrition.html#résultats",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html#résultats",
+    "href": "projects/projet-stage.html#résultats",
+    "title": "Optimisation des consommations de data",
     "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de conclure que :\n\n535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale\nLa disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes\nLes pays recevant le plus d’aide ne sont pas ceux ayant le plus fort taux de sous-nutrition"
+    "text": "Résultats\nLe projet s’est concrétisé par la livraison d’un module automatisé d’analyse et d’optimisation des forfaits. Voici son intégration au sein de l’infrastructure globale de Strapp Mobile :\n\n\n\nArchitecture"
   },
   {
-    "objectID": "projects/projet-sousnutrition.html#réalisations",
-    "href": "projects/projet-sousnutrition.html#réalisations",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html#réalisations",
+    "href": "projects/projet-stage.html#réalisations",
+    "title": "Optimisation des consommations de data",
     "section": "Réalisations",
-    "text": "Réalisations\n\n\nCalcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python\n\n#Transfert des données avec les végétaux dans un nouveau dataframe\ndispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]\ndispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()\ndispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')\n\n#Calcul du nombre de kcal disponible pour les végétaux\ndispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']\ndispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()\nprint(\"En 2017, la disponibilité en produits végétaux s’élevait à\",round(dispo_mondiale_vege/1000000000,1), \"milliards de kcal/jour à l’échelle mondiale.\")\n\n#Calcul du nombre d'humains pouvant être nourris avec les végétaux\nnb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940\npourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)\nprint(\"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir\", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),\"milliards d’humains (soit près de\", pourcentage_population,\"% de la population mondiale).\")\n\n\n\n\n\n\n\nTipSortie d’exécution\n\n\n\nEn 2017, la disponibilité en produits végétaux s’élevait à 17449.5 milliards de kcal/jour à l’échelle mondiale.\nSur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir 5.9 milliards d’humains (soit près de 78.7 % de la population mondiale)."
+    "text": "Réalisations\n\n\n\nFonction lambda\n\n\n\n\n Fonction de calcul du jour de dépassement en cas de surconsommation de data\n\ndef calcul_jour_depassement(df_cdr, df_cartessim, dernier_forfait):\n    cdr_data = df_cdr.loc[df_cdr['type'] == 'data',['date', 'dataKo', 'iccid']]\n    del df_cdr\n\n    # Lien avec id cartes sim (inner join pour exclure les iccid inconnus)\n    sim_iccid = df_cartessim[['_id', 'iccid_text']]\n    cdr_data = pd.merge(cdr_data, sim_iccid, left_on='iccid', right_on='iccid_text', how='inner')\n    cdr_data = cdr_data[['date', 'dataKo', '_id']]\n\n    # Calcul somme cumulée de data consommée par mois\n    cdr_data = cdr_data.sort_values(['_id', 'date'])\n    cdr_data['Mois concerné'] = cdr_data['date'].dt.to_period('M').dt.to_timestamp()\n    cdr_data['data_cumsum_ko'] = cdr_data.groupby(['_id', 'Mois concerné'])['dataKo'].cumsum()\n    cdr_data.drop(columns='dataKo', inplace=True)\n    cdr_data['data_cumsum_go'] = round(cdr_data['data_cumsum_ko'] / config_base.KO_PAR_GO, 2)\n    cdr_data.drop(columns='data_cumsum_ko', inplace=True)\n\n    # Lien avec forfait utilisé (pour la surconsommation, on étudie la conso sur la période entière par rapport au dernier forfait, même si le forfait a changé entre temps)\n    cdr_data = pd.merge(cdr_data, dernier_forfait[['SIM', 'data_go_number']], left_on='_id', right_on='SIM', how='inner')\n    cdr_data = cdr_data[['SIM', 'date', 'data_cumsum_go', 'data_go_number']]\n\n    # Flag puis filtre sur lignes où la somme cumulée de la conso dépasse le forfait\n    mask = cdr_data['data_cumsum_go'] &gt;= cdr_data['data_go_number'] * config_surconsommation.seuil_surconso\n    cdr_data = cdr_data.loc[mask, ['SIM', 'date']]\n\n    # Isolement du jour\n    cdr_data['jour_depassement'] = cdr_data['date'].dt.day\n\n    # Création df jour dépassement par carte sim (avec quantile configuré)\n    jour_depassement = cdr_data.groupby(\"SIM\")['jour_depassement'].quantile(config_surconsommation.percentile_jour_depassement).reset_index(name=\"jour_depassement\")\n\n    return jour_depassement"
   },
   {
-    "objectID": "projects/projet-sousnutrition.html#stack",
-    "href": "projects/projet-sousnutrition.html#stack",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-stage.html#stack",
+    "href": "projects/projet-stage.html#stack",
+    "title": "Optimisation des consommations de data",
     "section": "Stack",
-    "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html",
-    "href": "projects/projet-etude-eau-potable.html",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#contexte",
-    "href": "projects/projet-etude-eau-potable.html#contexte",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#démarche",
-    "href": "projects/projet-etude-eau-potable.html#démarche",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Démarche",
-    "text": "Démarche\nLe dashboard comporte 3 pages principales :\n\nMondial\n\n\nKPI mondial du nombre de décès liés à l’eau insalubre.\nGraphiques temporels agrégés pour une comparaison macro entre continents.\nCartographie mondiale dynamique.\n\n\nContinent\n\n\nSegmentation qualitative par Stabilité Politique (“Pays stable” / “Pays instable”).\nHistogramme combiné mettant en évidence la répartition de l’accès à l’eau par pays en fonction du volume de population.\nNuage de points croisant la stabilité politique et l’efficacité de la politique eau.\n\n\nPays\n\n\nRépartition du taux de mortalité par genre.\nAnalyse de l’évolution temporelle (2000-2017) des services “basiques” vs “safe”.\nGraphiques en courbes et barres empilées différenciant l’accès aux services d’eau en zones urbaines et rurales."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#résultats",
-    "href": "projects/projet-etude-eau-potable.html#résultats",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de conclure que :\n\n870 000 personnes sont décédées en 2016 des suites de la consommation d’eau impropre\nl’Afrique est le continent ayant les pourcentages d’accès à l’eau les moins élevés au niveau mondial\nla République Unie de Tanzanie a un taux de mortalité moyen lié à l’eau en 2016 de 38.4 pour 100 000 habitants"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#réalisations",
-    "href": "projects/projet-etude-eau-potable.html#réalisations",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nSchéma en constellation\n\n\n\n\n Mesure DAX calculant le taux moyen d’accès aux services d’eau basiques\n\naverage_basic_drinking_services_rate_if_mortality = \nCALCULATE(\n    AVERAGE(BasicAndSafelyManagedDrinkingWaterServices[Population using at least basic drinking-water services (%)]),\n    BasicAndSafelyManagedDrinkingWaterServices[Zone] = \"Total\",\n    KEEPFILTERS(MortalityRateAttributedToWater)\n)"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#stack",
-    "href": "projects/projet-etude-eau-potable.html#stack",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Stack",
-    "text": "Stack\nPower BI · DAX · Power Query\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "À propos",
-    "section": "",
-    "text": "Agnès Drouard\n\n\nAprès une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique.\nRécemment formée au métier de Data Analyst via un parcours chez OpenClassrooms, j’accompagne aujourd’hui les entreprises dans la structuration, l’analyse et la valorisation de leurs données. Du nettoyage à la modélisation décisionnelle, je peux intervenir sur l’ensemble de la chaîne de valeurs.\nMon objectif est d’aider les équipes opérationnelles et stratégiques à piloter leur activité grâce à des indicateurs fiables, des tableaux de bord lisibles ou encore des outils sur mesure."
-  },
-  {
-    "objectID": "index.html#qui-je-suis",
-    "href": "index.html#qui-je-suis",
-    "title": "À propos",
-    "section": "",
-    "text": "Après une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique."
-  },
-  {
-    "objectID": "index.html#compétences",
-    "href": "index.html#compétences",
-    "title": "À propos",
-    "section": "Compétences",
-    "text": "Compétences\n\nLangages : SQL, Python (pandas, NumPy)\nData Visualisation : Power BI (DAX, Power Query)\nInfrastructures & Outils : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt\nAnalyse & Modélisation : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)"
-  },
-  {
-    "objectID": "index.html#me-contacter",
-    "href": "index.html#me-contacter",
-    "title": "À propos",
-    "section": "Me contacter",
-    "text": "Me contacter\nUn projet d’analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?\n\n\n\n\n\n\n Nantes & Remote\n agnesdrouard90@gmail.com\n LinkedIn\n GitHub\n   Malt"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html",
-    "href": "projects/projet-detection-billet.html",
-    "title": "Détection de faux billets",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#contexte",
-    "href": "projects/projet-detection-billet.html#contexte",
-    "title": "Détection de faux billets",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#démarche",
-    "href": "projects/projet-detection-billet.html#démarche",
-    "title": "Détection de faux billets",
-    "section": "Démarche",
-    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\nAnalyses univariées (distribution, outliers avec z-score et IQR)\nAnalyses multivariées (corrélations entre variables, tests de Mann-Whitney)\n\nD’après ces premières analyses, 3 variables semblent plus discriminantes pour la détection de faux billets : Marge en bas, Marge en haut et Longueur.\n\nPré-traitement\n\n\nSéparation du jeu de données en train/test (80/20)\nImputation des valeurs manquantes (moyenne par type de billets car moins de 2.5% de valeurs manquantes)\nStandardisation des données\n\n\nTest des modèles\n\n\nRégression logistique (modèle supervisé)\nKNN (modèle supervisé)\nRandom forest (modèle supervisé)\nK-means (modèle non supervisé)\n\nPour chaque modèle, les résultats sont analysés dans un premier temps via une matrice de confusion (temporaire car seuil t non fixé à ce stade). Le meilleur modèle supervisé est ensuite choisi en comparant les scores ROC-AUC et PR-AUC. Ce modèle est optimisé en comparant ses résultats à différents seuils t. Pour finir, il est comparé au modèle non supervisé K-means en comparant leurs scores Accuracy, Precision, Rappel et F1.\n\nCréation de l’application\n\n\nExport du pipeline complet (prétraitement + modèle) au format .joblib\nCréation du script .py avec chargement du .joblib\n2 options d’utilisation :\n\nanalyse d’un seul billet en rentrant directement ses métriques\nanalyse de plusieurs billets grâce à un fichier .csv"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#résultats",
-    "href": "projects/projet-detection-billet.html#résultats",
-    "title": "Détection de faux billets",
-    "section": "Résultats",
-    "text": "Résultats\nLe meilleur modèle supervisé pour ce projet est la régression logistique, avec un score ROC-AUC de 99.96% et un score PR-AUC de 99.98% sur le jeu de test. Il reste le meilleur modèle face au modèle non supervisé (K-means) avec accuracy : 99.33%, precision : 99.5%, rappel : 99.5% et score F1 : 99.5%."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#réalisations",
-    "href": "projects/projet-detection-billet.html#réalisations",
-    "title": "Détection de faux billets",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n Evaluation du modèle KNN en fonction du nombre de voisins k\n\n#Entraînement du modèle en faisant varier le nombre de voisins k\n\nroc_auc_clf_knn_train_scores = []\npr_auc_clf_knn_train_scores = []\nroc_auc_clf_knn_test_scores = []\npr_auc_clf_knn_test_scores = []\n\nneighbors = range(1,11,2)\n\nfor k in neighbors :\n    \n    clf_knn = KNeighborsClassifier(n_neighbors=k).fit(X_train_scaled, y_train)\n\n    #prédiction des données\n    y_train_pred_proba = clf_knn.predict_proba(X_train_scaled)[:, 1]\n    y_test_pred_proba = clf_knn.predict_proba(X_test_scaled)[:, 1]\n\n    #Calcul des scores ROC-AUC et PR-AUC\n    roc_auc_clf_knn_train = roc_auc_score(y_train, y_train_pred_proba)\n    pr_auc_clf_knn_train = average_precision_score(y_train, y_train_pred_proba)\n    roc_auc_clf_knn_test = roc_auc_score(y_test, y_test_pred_proba)\n    pr_auc_clf_knn_test = average_precision_score(y_test, y_test_pred_proba)\n\n    roc_auc_clf_knn_train_scores.append(roc_auc_clf_knn_train)\n    pr_auc_clf_knn_train_scores.append(pr_auc_clf_knn_train)\n    roc_auc_clf_knn_test_scores.append(roc_auc_clf_knn_test)\n    pr_auc_clf_knn_test_scores.append(pr_auc_clf_knn_test)\n\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_train_scores, marker = 'o', label = 'roc_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_train_scores, marker = 'o', label = 'pr_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_test_scores, marker = 'o', label = 'roc_auc_clf_knn_test')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_test_scores, marker = 'o', label = 'pr_auc_clf_knn_test')\n\nplt.legend()\nplt.title('Evolution des scores ROC-AUC et PR-AUC train et test en fonction du nombre de voisins k')\nplt.xlabel('Nombre de voisins k')\nplt.ylabel('Score')\nplt.show()\n\n\n\n\nEvaluation du modèle KNN\n\n\n\n\n Fonction de prédiction de plusieurs billets dans l’application\n\ndef predire_plusieurs_billets(pipeline,lien_csv):\n    \n    with open(lien_csv, 'r', encoding='utf-8') as f:\n        premiere_ligne = f.readline()\n        \n    separateur = ';' if ';' in premiere_ligne else ','\n    \n    X_raw = pd.read_csv(lien_csv, sep=separateur)\n\n    colonnes_attendues = [\"diagonal\", \"height_left\", \"height_right\", \"margin_low\", \"margin_up\", \"length\"]\n\n    X_filled = X_raw.dropna(subset=colonnes_attendues)\n\n    nb_lignes_supp = X_raw.shape[0] - X_filled.shape[0]\n    \n    if nb_lignes_supp &gt; 0 : \n        print(f\"\\nAttention : {nb_lignes_supp} billet(s) du fichier csv contienne(nt) des valeurs manquantes. Il n'est pas possible de détecter si ce(s) billet(s) sont vrai(s) ou faux. Il(s) a/ont donc été supprimé(s) du tableau de résultats.\\n\")\n\n    X = X_filled[colonnes_attendues]\n\n    y = pipeline.predict(X)\n\n    df_resultat = X_filled.copy()\n    df_resultat['Résultat_binaire'] = y\n    df_resultat['Résultat'] = df_resultat['Résultat_binaire'].map({False : \"Faux billet\", True : 'Vrai billet'})\n\n    return df_resultat"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#stack",
-    "href": "projects/projet-detection-billet.html#stack",
-    "title": "Détection de faux billets",
-    "section": "Stack",
-    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+    "text": "Stack\npython · Jupyter · AWS\nRetour à la liste de projets →"
   },
   {
     "objectID": "projects/projet-socio-demographique.html",
@@ -203,45 +91,199 @@
     "text": "Stack\nSQL · dbt\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
   },
   {
-    "objectID": "projects/projet-stage.html",
-    "href": "projects/projet-stage.html",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html",
+    "href": "projects/projet-detection-billet.html",
+    "title": "Détection de faux billets",
     "section": "",
-    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects/projet-stage.html#contexte",
-    "href": "projects/projet-stage.html#contexte",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html#contexte",
+    "href": "projects/projet-detection-billet.html#contexte",
+    "title": "Détection de faux billets",
     "section": "",
-    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects/projet-stage.html#démarche",
-    "href": "projects/projet-stage.html#démarche",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html#démarche",
+    "href": "projects/projet-detection-billet.html#démarche",
+    "title": "Détection de faux billets",
     "section": "Démarche",
-    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\n3 sujets principaux analysés :\n\nHors-forfait\nSurconsommation de data\nSous-consommation de data\n\n\nPremières réflexions pour caractériser ces situations en fonction de critères :\n\nOccasionnel / Fréquent / Régulier\nNombre de mois / Fréquence moyenne / Nombre de mois consécutif\n\n\n\nMéthodologie de scoring\n\nDéveloppement d’un algorithme de scoring par carte SIM pour identifier les profils d’usage (surconsommation / sous-consommation) et recommander automatiquement le forfait le plus adapté.\nCritères retenus pour le score :\n- Nombre de mois\n- Fréquence\n- Dernier mois\n- Jour de dépassement (surconsommation)\n- Proportion de dépassement (surconsommation)\n- Proportion sous-consommation (sous-consommation)\n\nPrototype\n\nExpérimentation :\n- Jupyter comme laboratoire pour validation de la méthode de scoring\n- Création de la méthode de proposition de forfait puis vérification de sa cohérence\nFlexibilité :\n- Tous les éléments de calcul sont paramétrables pour pouvoir adapter l’algo à toutes les situations"
+    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\nAnalyses univariées (distribution, outliers avec z-score et IQR)\nAnalyses multivariées (corrélations entre variables, tests de Mann-Whitney)\n\nD’après ces premières analyses, 3 variables semblent plus discriminantes pour la détection de faux billets : Marge en bas, Marge en haut et Longueur.\n\nPré-traitement\n\n\nSéparation du jeu de données en train/test (80/20)\nImputation des valeurs manquantes (moyenne par type de billets car moins de 2.5% de valeurs manquantes)\nStandardisation des données\n\n\nTest des modèles\n\n\nRégression logistique (modèle supervisé)\nKNN (modèle supervisé)\nRandom forest (modèle supervisé)\nK-means (modèle non supervisé)\n\nPour chaque modèle, les résultats sont analysés dans un premier temps via une matrice de confusion (temporaire car seuil t non fixé à ce stade). Le meilleur modèle supervisé est ensuite choisi en comparant les scores ROC-AUC et PR-AUC. Ce modèle est optimisé en comparant ses résultats à différents seuils t. Pour finir, il est comparé au modèle non supervisé K-means en comparant leurs scores Accuracy, Precision, Rappel et F1.\n\nCréation de l’application\n\n\nExport du pipeline complet (prétraitement + modèle) au format .joblib\nCréation du script .py avec chargement du .joblib\n2 options d’utilisation :\n\nanalyse d’un seul billet en rentrant directement ses métriques\nanalyse de plusieurs billets grâce à un fichier .csv"
   },
   {
-    "objectID": "projects/projet-stage.html#résultats",
-    "href": "projects/projet-stage.html#résultats",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html#résultats",
+    "href": "projects/projet-detection-billet.html#résultats",
+    "title": "Détection de faux billets",
     "section": "Résultats",
-    "text": "Résultats\nLe projet s’est concrétisé par la livraison d’un module automatisé d’analyse et d’optimisation des forfaits. Voici son intégration au sein de l’infrastructure globale de Strapp Mobile :\n\n\n\nArchitecture"
+    "text": "Résultats\nLe meilleur modèle supervisé pour ce projet est la régression logistique, avec un score ROC-AUC de 99.96% et un score PR-AUC de 99.98% sur le jeu de test. Il reste le meilleur modèle face au modèle non supervisé (K-means) avec accuracy : 99.33%, precision : 99.5%, rappel : 99.5% et score F1 : 99.5%."
   },
   {
-    "objectID": "projects/projet-stage.html#réalisations",
-    "href": "projects/projet-stage.html#réalisations",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html#réalisations",
+    "href": "projects/projet-detection-billet.html#réalisations",
+    "title": "Détection de faux billets",
     "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nFonction lambda\n\n\n\n\n Fonction de calcul du jour de dépassement en cas de surconsommation de data\n\ndef calcul_jour_depassement(df_cdr, df_cartessim, dernier_forfait):\n    cdr_data = df_cdr.loc[df_cdr['type'] == 'data',['date', 'dataKo', 'iccid']]\n    del df_cdr\n\n    # Lien avec id cartes sim (inner join pour exclure les iccid inconnus)\n    sim_iccid = df_cartessim[['_id', 'iccid_text']]\n    cdr_data = pd.merge(cdr_data, sim_iccid, left_on='iccid', right_on='iccid_text', how='inner')\n    cdr_data = cdr_data[['date', 'dataKo', '_id']]\n\n    # Calcul somme cumulée de data consommée par mois\n    cdr_data = cdr_data.sort_values(['_id', 'date'])\n    cdr_data['Mois concerné'] = cdr_data['date'].dt.to_period('M').dt.to_timestamp()\n    cdr_data['data_cumsum_ko'] = cdr_data.groupby(['_id', 'Mois concerné'])['dataKo'].cumsum()\n    cdr_data.drop(columns='dataKo', inplace=True)\n    cdr_data['data_cumsum_go'] = round(cdr_data['data_cumsum_ko'] / config_base.KO_PAR_GO, 2)\n    cdr_data.drop(columns='data_cumsum_ko', inplace=True)\n\n    # Lien avec forfait utilisé (pour la surconsommation, on étudie la conso sur la période entière par rapport au dernier forfait, même si le forfait a changé entre temps)\n    cdr_data = pd.merge(cdr_data, dernier_forfait[['SIM', 'data_go_number']], left_on='_id', right_on='SIM', how='inner')\n    cdr_data = cdr_data[['SIM', 'date', 'data_cumsum_go', 'data_go_number']]\n\n    # Flag puis filtre sur lignes où la somme cumulée de la conso dépasse le forfait\n    mask = cdr_data['data_cumsum_go'] &gt;= cdr_data['data_go_number'] * config_surconsommation.seuil_surconso\n    cdr_data = cdr_data.loc[mask, ['SIM', 'date']]\n\n    # Isolement du jour\n    cdr_data['jour_depassement'] = cdr_data['date'].dt.day\n\n    # Création df jour dépassement par carte sim (avec quantile configuré)\n    jour_depassement = cdr_data.groupby(\"SIM\")['jour_depassement'].quantile(config_surconsommation.percentile_jour_depassement).reset_index(name=\"jour_depassement\")\n\n    return jour_depassement"
+    "text": "Réalisations\n\n\n Evaluation du modèle KNN en fonction du nombre de voisins k\n\n#Entraînement du modèle en faisant varier le nombre de voisins k\n\nroc_auc_clf_knn_train_scores = []\npr_auc_clf_knn_train_scores = []\nroc_auc_clf_knn_test_scores = []\npr_auc_clf_knn_test_scores = []\n\nneighbors = range(1,11,2)\n\nfor k in neighbors :\n    \n    clf_knn = KNeighborsClassifier(n_neighbors=k).fit(X_train_scaled, y_train)\n\n    #prédiction des données\n    y_train_pred_proba = clf_knn.predict_proba(X_train_scaled)[:, 1]\n    y_test_pred_proba = clf_knn.predict_proba(X_test_scaled)[:, 1]\n\n    #Calcul des scores ROC-AUC et PR-AUC\n    roc_auc_clf_knn_train = roc_auc_score(y_train, y_train_pred_proba)\n    pr_auc_clf_knn_train = average_precision_score(y_train, y_train_pred_proba)\n    roc_auc_clf_knn_test = roc_auc_score(y_test, y_test_pred_proba)\n    pr_auc_clf_knn_test = average_precision_score(y_test, y_test_pred_proba)\n\n    roc_auc_clf_knn_train_scores.append(roc_auc_clf_knn_train)\n    pr_auc_clf_knn_train_scores.append(pr_auc_clf_knn_train)\n    roc_auc_clf_knn_test_scores.append(roc_auc_clf_knn_test)\n    pr_auc_clf_knn_test_scores.append(pr_auc_clf_knn_test)\n\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_train_scores, marker = 'o', label = 'roc_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_train_scores, marker = 'o', label = 'pr_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_test_scores, marker = 'o', label = 'roc_auc_clf_knn_test')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_test_scores, marker = 'o', label = 'pr_auc_clf_knn_test')\n\nplt.legend()\nplt.title('Evolution des scores ROC-AUC et PR-AUC train et test en fonction du nombre de voisins k')\nplt.xlabel('Nombre de voisins k')\nplt.ylabel('Score')\nplt.show()\n\n\n\n\nEvaluation du modèle KNN\n\n\n\n\n Fonction de prédiction de plusieurs billets dans l’application\n\ndef predire_plusieurs_billets(pipeline,lien_csv):\n    \n    with open(lien_csv, 'r', encoding='utf-8') as f:\n        premiere_ligne = f.readline()\n        \n    separateur = ';' if ';' in premiere_ligne else ','\n    \n    X_raw = pd.read_csv(lien_csv, sep=separateur)\n\n    colonnes_attendues = [\"diagonal\", \"height_left\", \"height_right\", \"margin_low\", \"margin_up\", \"length\"]\n\n    X_filled = X_raw.dropna(subset=colonnes_attendues)\n\n    nb_lignes_supp = X_raw.shape[0] - X_filled.shape[0]\n    \n    if nb_lignes_supp &gt; 0 : \n        print(f\"\\nAttention : {nb_lignes_supp} billet(s) du fichier csv contienne(nt) des valeurs manquantes. Il n'est pas possible de détecter si ce(s) billet(s) sont vrai(s) ou faux. Il(s) a/ont donc été supprimé(s) du tableau de résultats.\\n\")\n\n    X = X_filled[colonnes_attendues]\n\n    y = pipeline.predict(X)\n\n    df_resultat = X_filled.copy()\n    df_resultat['Résultat_binaire'] = y\n    df_resultat['Résultat'] = df_resultat['Résultat_binaire'].map({False : \"Faux billet\", True : 'Vrai billet'})\n\n    return df_resultat"
   },
   {
-    "objectID": "projects/projet-stage.html#stack",
-    "href": "projects/projet-stage.html#stack",
-    "title": "Optimisation des consommations de data",
+    "objectID": "projects/projet-detection-billet.html#stack",
+    "href": "projects/projet-detection-billet.html#stack",
+    "title": "Détection de faux billets",
     "section": "Stack",
-    "text": "Stack\npython · Jupyter · AWS\nRetour à la liste de projets →"
+    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Agnès Drouard\n\n\nAprès une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique.\nRécemment formée au métier de Data Analyst via un parcours chez OpenClassrooms, j’accompagne aujourd’hui les entreprises dans la structuration, l’analyse et la valorisation de leurs données. Du nettoyage à la modélisation décisionnelle, je peux intervenir sur l’ensemble de la chaîne de valeurs.\nMon objectif est d’aider les équipes opérationnelles et stratégiques à piloter leur activité grâce à des indicateurs fiables, des tableaux de bord lisibles ou encore des outils sur mesure."
+  },
+  {
+    "objectID": "index.html#qui-je-suis",
+    "href": "index.html#qui-je-suis",
+    "title": "À propos",
+    "section": "",
+    "text": "Après une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique."
+  },
+  {
+    "objectID": "index.html#compétences",
+    "href": "index.html#compétences",
+    "title": "À propos",
+    "section": "Compétences",
+    "text": "Compétences\n\nLangages : SQL, Python (pandas, NumPy)\nData Visualisation : Power BI (DAX, Power Query)\nInfrastructures & Outils : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt\nAnalyse & Modélisation : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)"
+  },
+  {
+    "objectID": "index.html#me-contacter",
+    "href": "index.html#me-contacter",
+    "title": "À propos",
+    "section": "Me contacter",
+    "text": "Me contacter\nUn projet d’analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?\n\n\n\n\n\n\n Nantes & Remote\n agnesdrouard90@gmail.com\n LinkedIn\n GitHub\n   Malt"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html",
+    "href": "projects/projet-etude-eau-potable.html",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#contexte",
+    "href": "projects/projet-etude-eau-potable.html#contexte",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#démarche",
+    "href": "projects/projet-etude-eau-potable.html#démarche",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Démarche",
+    "text": "Démarche\nLe dashboard comporte 3 pages principales :\n\nMondial\n\n\nKPI mondial du nombre de décès liés à l’eau insalubre.\nGraphiques temporels agrégés pour une comparaison macro entre continents.\nCartographie mondiale dynamique.\n\n\nContinent\n\n\nSegmentation qualitative par Stabilité Politique (“Pays stable” / “Pays instable”).\nHistogramme combiné mettant en évidence la répartition de l’accès à l’eau par pays en fonction du volume de population.\nNuage de points croisant la stabilité politique et l’efficacité de la politique eau.\n\n\nPays\n\n\nRépartition du taux de mortalité par genre.\nAnalyse de l’évolution temporelle (2000-2017) des services “basiques” vs “safe”.\nGraphiques en courbes et barres empilées différenciant l’accès aux services d’eau en zones urbaines et rurales."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#résultats",
+    "href": "projects/projet-etude-eau-potable.html#résultats",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Résultats",
+    "text": "Résultats\nL’analyse a permis de conclure que :\n\n870 000 personnes sont décédées en 2016 des suites de la consommation d’eau impropre\nl’Afrique est le continent ayant les pourcentages d’accès à l’eau les moins élevés au niveau mondial\nla République Unie de Tanzanie a un taux de mortalité moyen lié à l’eau en 2016 de 38.4 pour 100 000 habitants"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#réalisations",
+    "href": "projects/projet-etude-eau-potable.html#réalisations",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n\nSchéma en constellation\n\n\n\n\n Mesure DAX calculant le taux moyen d’accès aux services d’eau basiques\n\naverage_basic_drinking_services_rate_if_mortality = \nCALCULATE(\n    AVERAGE(BasicAndSafelyManagedDrinkingWaterServices[Population using at least basic drinking-water services (%)]),\n    BasicAndSafelyManagedDrinkingWaterServices[Zone] = \"Total\",\n    KEEPFILTERS(MortalityRateAttributedToWater)\n)"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#stack",
+    "href": "projects/projet-etude-eau-potable.html#stack",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Stack",
+    "text": "Stack\nPower BI · DAX · Power Query\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html",
+    "href": "projects/projet-sousnutrition.html",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#contexte",
+    "href": "projects/projet-sousnutrition.html#contexte",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#démarche",
+    "href": "projects/projet-sousnutrition.html#démarche",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "Démarche",
+    "text": "Démarche\nIl consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d’une mission simulée au sein de la FAO. L’objectif est de comprendre :\n\nla disponibilité alimentaire mondiale,\nl’utilisation des ressources,\nla répartition des ressources entre les pays,\nle rôle de l’aide alimentaire"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#résultats",
+    "href": "projects/projet-sousnutrition.html#résultats",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "Résultats",
+    "text": "Résultats\nL’analyse a permis de conclure que :\n\n535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale\nLa disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes\nLes pays recevant le plus d’aide ne sont pas ceux ayant le plus fort taux de sous-nutrition"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#réalisations",
+    "href": "projects/projet-sousnutrition.html#réalisations",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\nCalcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python\n\n#Transfert des données avec les végétaux dans un nouveau dataframe\ndispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]\ndispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()\ndispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')\n\n#Calcul du nombre de kcal disponible pour les végétaux\ndispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']\ndispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()\nprint(\"En 2017, la disponibilité en produits végétaux s’élevait à\",round(dispo_mondiale_vege/1000000000,1), \"milliards de kcal/jour à l’échelle mondiale.\")\n\n#Calcul du nombre d'humains pouvant être nourris avec les végétaux\nnb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940\npourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)\nprint(\"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir\", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),\"milliards d’humains (soit près de\", pourcentage_population,\"% de la population mondiale).\")\n\n\n\n\n\n\n\nTipSortie d’exécution\n\n\n\nEn 2017, la disponibilité en produits végétaux s’élevait à 17449.5 milliards de kcal/jour à l’échelle mondiale.\nSur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir 5.9 milliards d’humains (soit près de 78.7 % de la population mondiale)."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#stack",
+    "href": "projects/projet-sousnutrition.html#stack",
+    "title": "Etude sur l’alimentation dans le monde",
+    "section": "Stack",
+    "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-veille.html",
+    "href": "projects/projet-veille.html",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
+  },
+  {
+    "objectID": "projects/projet-veille.html#contexte",
+    "href": "projects/projet-veille.html#contexte",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
+  },
+  {
+    "objectID": "projects/projet-veille.html#démarche",
+    "href": "projects/projet-veille.html#démarche",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Démarche",
+    "text": "Démarche\nL’objectif est de réaliser une veille métier et technologique précise afin d’améliorer un projet existant : Optimiser la gestion des données d’une boutique. Dans ce projet, il a été mis en évidence une problématique de gestion des stocks. Cette veille doit donc répondre à ce besoin précis : Centraliser, analyser et évaluer des méthodes de gestion des stocks\nLa démarche est la suivante :\n\n1. Veille\n\nLa veille brute est réalisée sur Feedly grâce aux suivis de différentes sources en lien avec la gestion des stocks\nDès qu’un article ou autre élément est considéré comme pertinent, il est envoyé vers la base de données Méthodes de gestion des stocks en 1 clic via l’extension Notion Web Clipper\nL’article arrive automatiquement dans la liste avec le statut A résumer\n\n\n\n2. Statut de suivi\n\nA résumer : Article capturé, en attente de lecture approfondie et prise de notes\nSynthétisé : Méthode analysée, les différents éléments d’évaluation sont complétés\nNon retenu : Méthode analysée mais non retenue pour le projet (explications dans Limites)\n\n\n\n3. Traitement\nChaque entrée doit être résumée avec les éléments suivants pour pouvoir évaluer son utilité :\n\nType : S’agit-il d’une méthode Métier (ex : Wilson) ou d’une méthode Technologique (ex : script Python)\nDescription : Résumé court de l’article expliquant la méthode\nDifficulté de mise en place : Faible / Moyenne / Difficile, à évaluer en fonction du projet\nFiabilité : Faible / Moyenne / Forte, à évaluer en fonction du projet\nLimites : Description courte des limites de la méthode au regard du projet"
+  },
+  {
+    "objectID": "projects/projet-veille.html#résultats",
+    "href": "projects/projet-veille.html#résultats",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Résultats",
+    "text": "Résultats\nLa veille est concrétisée par la livraison d’une base de données Notion comprenant la liste des sources étudiées lors de la veille, ainsi que leurs utilisations potentielles dans le projet. Ce travail s’inscrit dans le cadre d’un projet global de formalisation incluant un cahier des charges fonctionnel, un guide d’utilisation et un compte rendu final.\n\n\n\nSommaire du projet complet sur Notion"
+  },
+  {
+    "objectID": "projects/projet-veille.html#réalisations",
+    "href": "projects/projet-veille.html#réalisations",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Réalisations",
+    "text": "Réalisations"
+  },
+  {
+    "objectID": "projects/projet-veille.html#stack",
+    "href": "projects/projet-veille.html#stack",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Stack",
+    "text": "Stack\nNotion · Feedly\nRetour à la liste de projets →"
   }
 ]

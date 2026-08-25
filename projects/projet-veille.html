@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-10-01">
-<meta name="description" content="Y a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?">
+<meta name="dcterms.date" content="2026-08-01">
+<meta name="description" content="Réalisation d’une veille dans l’objectif d’améliorer un projet existant">
 
-<title>Etude sur l’alimentation dans le monde – Agnès Drouard | Data Analyst</title>
+<title>Veille métier et technologique : Méthodes de gestion des stocks – Agnès Drouard | Data Analyst</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,41 +27,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -163,7 +128,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
    
   <ul>
   <li><a href="#contexte" id="toc-contexte" class="nav-link active" data-scroll-target="#contexte">Contexte</a></li>
-  <li><a href="#démarche" id="toc-démarche" class="nav-link" data-scroll-target="#démarche">Démarche</a></li>
+  <li><a href="#démarche" id="toc-démarche" class="nav-link" data-scroll-target="#démarche">Démarche</a>
+  <ul class="collapse">
+  <li><a href="#veille" id="toc-veille" class="nav-link" data-scroll-target="#veille">1. Veille</a></li>
+  <li><a href="#statut-de-suivi" id="toc-statut-de-suivi" class="nav-link" data-scroll-target="#statut-de-suivi">2. Statut de suivi</a></li>
+  <li><a href="#traitement" id="toc-traitement" class="nav-link" data-scroll-target="#traitement">3. Traitement</a></li>
+  </ul></li>
   <li><a href="#résultats" id="toc-résultats" class="nav-link" data-scroll-target="#résultats">Résultats</a></li>
   <li><a href="#réalisations" id="toc-réalisations" class="nav-link" data-scroll-target="#réalisations">Réalisations</a></li>
   <li><a href="#stack" id="toc-stack" class="nav-link" data-scroll-target="#stack">Stack</a></li>
@@ -175,16 +145,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Etude sur l’alimentation dans le monde</h1>
+<h1 class="title">Veille métier et technologique : Méthodes de gestion des stocks</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">python</div>
-    <div class="quarto-category">Jupyter</div>
+    <div class="quarto-category">Notion</div>
+    <div class="quarto-category">Feedly</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Y a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?
+    Réalisation d’une veille dans l’objectif d’améliorer un projet existant
   </div>
 </div>
 
@@ -195,7 +165,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 1, 2025</p>
+      <p class="date">August 1, 2026</p>
     </div>
   </div>
   
@@ -209,68 +179,59 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="contexte" class="level2">
 <h2 class="anchored" data-anchor-id="contexte">Contexte</h2>
-<p>Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms.</p>
+<p>Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins.</p>
 </section>
 <section id="démarche" class="level2">
 <h2 class="anchored" data-anchor-id="démarche">Démarche</h2>
-<p>Il consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d’une mission simulée au sein de la FAO. L’objectif est de comprendre :</p>
+<p>L’objectif est de réaliser une veille métier et technologique précise afin d’améliorer un projet existant : <strong>Optimiser la gestion des données d’une boutique</strong>. Dans ce projet, il a été mis en évidence une problématique de gestion des stocks. Cette veille doit donc répondre à ce besoin précis : <strong>Centraliser, analyser et évaluer des méthodes de gestion des stocks</strong></p>
+<p>La démarche est la suivante :</p>
+<section id="veille" class="level3">
+<h3 class="anchored" data-anchor-id="veille">1. Veille</h3>
 <ul>
-<li>la disponibilité alimentaire mondiale,</li>
-<li>l’utilisation des ressources,</li>
-<li>la répartition des ressources entre les pays,</li>
-<li>le rôle de l’aide alimentaire</li>
+<li>La veille brute est réalisée sur <strong>Feedly</strong> grâce aux suivis de différentes sources en lien avec la gestion des stocks</li>
+<li>Dès qu’un article ou autre élément est considéré comme pertinent, il est envoyé vers la base de données <em>Méthodes de gestion des stocks</em> en 1 clic via l’extension <code>Notion Web Clipper</code></li>
+<li>L’article arrive automatiquement dans la liste avec le statut <code>A résumer</code></li>
 </ul>
+</section>
+<section id="statut-de-suivi" class="level3">
+<h3 class="anchored" data-anchor-id="statut-de-suivi">2. Statut de suivi</h3>
+<ul>
+<li><code>A résumer</code> : Article capturé, en attente de lecture approfondie et prise de notes</li>
+<li><code>Synthétisé</code> : Méthode analysée, les différents éléments d’évaluation sont complétés</li>
+<li><code>Non retenu</code> : Méthode analysée mais non retenue pour le projet (explications dans <strong>Limites</strong>)</li>
+</ul>
+</section>
+<section id="traitement" class="level3">
+<h3 class="anchored" data-anchor-id="traitement">3. Traitement</h3>
+<p>Chaque entrée doit être résumée avec les éléments suivants pour pouvoir évaluer son utilité :</p>
+<ul>
+<li><strong>Type</strong> : S’agit-il d’une méthode <code>Métier</code> (ex : Wilson) ou d’une méthode <code>Technologique</code> (ex : script Python)</li>
+<li><strong>Description</strong> : Résumé court de l’article expliquant la méthode</li>
+<li><strong>Difficulté de mise en place</strong> : <code>Faible</code> / <code>Moyenne</code> / <code>Difficile</code>, à évaluer en fonction du projet</li>
+<li><strong>Fiabilité</strong> : <code>Faible</code> / <code>Moyenne</code> / <code>Forte</code>, à évaluer en fonction du projet</li>
+<li><strong>Limites</strong> : Description courte des limites de la méthode au regard du projet</li>
+</ul>
+</section>
 </section>
 <section id="résultats" class="level2">
 <h2 class="anchored" data-anchor-id="résultats">Résultats</h2>
-<p>L’analyse a permis de conclure que :</p>
-<ul>
-<li>535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale</li>
-<li>La disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes</li>
-<li>Les pays recevant le plus d’aide ne sont pas ceux ayant le plus fort taux de sous-nutrition</li>
-</ul>
+<p>La veille est concrétisée par la livraison d’une base de données Notion comprenant la liste des sources étudiées lors de la veille, ainsi que leurs utilisations potentielles dans le projet. Ce travail s’inscrit dans le cadre d’un projet global de formalisation incluant un cahier des charges fonctionnel, un guide d’utilisation et un compte rendu final.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/sommaire_veille.png" class="img-fluid figure-img"></p>
+<figcaption>Sommaire du projet complet sur Notion</figcaption>
+</figure>
+</div>
 </section>
 <section id="réalisations" class="level2">
 <h2 class="anchored" data-anchor-id="réalisations">Réalisations</h2>
-<details>
-<summary>
-<b>Calcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python</b>
-</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Transfert des données avec les végétaux dans un nouveau dataframe</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>dispo_alimentaire_vege <span class="op">=</span> dispo_alimentaire.loc[dispo_alimentaire[<span class="st">'Origine'</span>] <span class="op">==</span> <span class="st">'vegetale'</span>,[<span class="st">'Zone'</span>,<span class="st">'Disponibilité alimentaire (Kcal/personne/jour)'</span>]]</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>dispo_alimentaire_vege_pays <span class="op">=</span> dispo_alimentaire_vege.groupby(<span class="st">'Zone'</span>)[<span class="st">'Disponibilité alimentaire (Kcal/personne/jour)'</span>].<span class="bu">sum</span>().reset_index()</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>dispo_alimentaire_vege_pays_pop <span class="op">=</span> pd.merge(dispo_alimentaire_vege_pays,population_2017,on<span class="op">=</span><span class="st">'Zone'</span>,how<span class="op">=</span><span class="st">'inner'</span>)</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">#Calcul du nombre de kcal disponible pour les végétaux</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>dispo_alimentaire_vege_pays_pop[<span class="st">'dispo_vege_total_pays'</span>] <span class="op">=</span> dispo_alimentaire_vege_pays_pop[<span class="st">'Disponibilité alimentaire (Kcal/personne/jour)'</span>] <span class="op">*</span> dispo_alimentaire_vege_pays_pop[<span class="st">'Population'</span>]</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>dispo_mondiale_vege <span class="op">=</span> dispo_alimentaire_vege_pays_pop[<span class="st">'dispo_vege_total_pays'</span>].<span class="bu">sum</span>()</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"En 2017, la disponibilité en produits végétaux s’élevait à"</span>,<span class="bu">round</span>(dispo_mondiale_vege<span class="op">/</span><span class="dv">1000000000</span>,<span class="dv">1</span>), <span class="st">"milliards de kcal/jour à l’échelle mondiale."</span>)</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">#Calcul du nombre d'humains pouvant être nourris avec les végétaux</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>nb_pers_pouvant_etre_nourries_vege <span class="op">=</span> dispo_mondiale_vege<span class="op">/</span><span class="dv">2940</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>pourcentage_population <span class="op">=</span> <span class="bu">round</span>(nb_pers_pouvant_etre_nourries_vege<span class="op">/</span>sous_nutrition_pop[<span class="st">'Population'</span>].<span class="bu">sum</span>()<span class="op">*</span><span class="dv">100</span>,<span class="dv">1</span>)</span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir"</span>, <span class="bu">round</span>(nb_pers_pouvant_etre_nourries_vege<span class="op">/</span><span class="dv">1000000000</span>,<span class="dv">1</span>),<span class="st">"milliards d’humains (soit près de"</span>, pourcentage_population,<span class="st">"</span><span class="sc">% d</span><span class="st">e la population mondiale)."</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</details>
-<div class="callout callout-style-default callout-tip callout-titled" title="Sortie d'exécution">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Sortie d’exécution
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>En 2017, la disponibilité en produits végétaux s’élevait à <strong>17449.5 milliards de kcal/jour</strong> à l’échelle mondiale.</p>
-<p>Sur la base d’un besoin moyen de <strong>2 940 kcal/jour/personne</strong>, la seule production végétale mondiale aurait permis de nourrir <strong>5.9 milliards d’humains</strong> (soit près de <strong>78.7 %</strong> de la population mondiale).</p>
-</div>
-</div>
+<iframe src="https://cooperative-editorial-60d.notion.site/ebd//3b1fa881b0e6801f9224f7a1aa46023d?v=3b1fa881b0e6801a9b5b000c354c9a0e" width="100%" height="600" style="border: 1px solid var(--border-color); border-radius: 8px;">
+</iframe>
 </section>
 <section id="stack" class="level2">
 <h2 class="anchored" data-anchor-id="stack">Stack</h2>
-<p><code>python</code> · <code>Jupyter</code></p>
-<p><a href="https://github.com/AniessD/OC_notebook_etude_sante_publique">Voir le projet complet sur GitHub →</a><br>
-<a href="../projects.html">Retour à la liste de projets →</a></p>
+<p><code>Notion</code> · <code>Feedly</code></p>
+<p><a href="../projects.html">Retour à la liste de projets →</a></p>
 
 
 </section>
