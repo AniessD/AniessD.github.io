@@ -1,0 +1,68 @@
+---
+title: "Etude sur l'alimentation dans le monde"
+description: "Y a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?"
+image: ../images/couverture_projet_sousnutrition.png
+categories: [python, Jupyter]
+date: 2025-10
+---
+
+## Contexte
+
+Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. 
+
+## Démarche
+
+Il consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d'une mission simulée au sein de la FAO. L'objectif est de comprendre :
+
+- la disponibilité alimentaire mondiale,
+- l'utilisation des ressources,
+- la répartition des ressources entre les pays,
+- le rôle de l'aide alimentaire
+
+## Résultats
+
+L'analyse a permis de conclure que : 
+
+- 535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale
+- La disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes
+- Les pays recevant le plus d'aide ne sont pas ceux ayant le plus fort taux de sous-nutrition
+
+## Réalisations
+
+<details>
+<summary><b>Calcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python</b></summary>
+
+```python
+#Transfert des données avec les végétaux dans un nouveau dataframe
+dispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]
+dispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()
+dispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')
+
+#Calcul du nombre de kcal disponible pour les végétaux
+dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']
+dispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()
+print("En 2017, la disponibilité en produits végétaux s’élevait à",round(dispo_mondiale_vege/1000000000,1), "milliards de kcal/jour à l’échelle mondiale.")
+
+#Calcul du nombre d'humains pouvant être nourris avec les végétaux
+nb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940
+pourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)
+print("Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),"milliards d’humains (soit près de", pourcentage_population,"% de la population mondiale).")
+```
+</details>
+
+::: {.callout-tip title="Sortie d'exécution"}
+En 2017, la disponibilité en produits végétaux s’élevait à **17449.5 milliards de kcal/jour** à l’échelle mondiale.
+
+Sur la base d’un besoin moyen de **2 940 kcal/jour/personne**, la seule production végétale mondiale aurait permis de nourrir **5.9 milliards d’humains** (soit près de **78.7 %** de la population mondiale).
+
+:::
+
+## Stack
+
+`python` · `Jupyter`
+
+
+[Voir le projet complet sur GitHub →](https://github.com/AniessD/OC_notebook_etude_sante_publique)  
+[Retour à la liste de projets →](../projects.qmd)
+
+

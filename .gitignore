@@ -1,0 +1,10 @@
+# Cache Quarto
+.quarto/
+
+# Dossier du site généré
+/_site/
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,53 @@
+
+---
+title: "À propos"
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](../images/Photo2.png){.rounded-circle fig-alt="Photo d'Agnès Drouard" width="100%"}
+:::
+
+::: {.column width="5%"}
+<!-- Espace de séparation -->
+:::
+
+::: {.column width="65%"}
+<span class="eyebrow">Agnès Drouard</span>
+
+## Qui je suis
+
+Après une carrière de dix ans en gestion de la qualité et logistique dans l'agroalimentaire, j'ai réorienté mon parcours vers l'analyse de données pour transformer la donnée brute en leviers de décision concrets. 
+
+Cette double expérience métier et technique me permet d'aborder les projets data avec une approche très pragmatique.
+:::
+
+::::
+
+Récemment formée au métier de Data Analyst via un parcours chez OpenClassrooms, j'accompagne aujourd'hui les entreprises dans la structuration, l'analyse et la valorisation de leurs données. Du nettoyage à la modélisation décisionnelle, je peux intervenir sur l'ensemble de la chaîne de valeurs.
+
+Mon objectif est d'aider les équipes opérationnelles et stratégiques à piloter leur activité grâce à des indicateurs fiables, des tableaux de bord lisibles ou encore des outils sur mesure.
+
+
+## Compétences
+
+- **Langages** : SQL, Python (pandas, NumPy)
+- **Data Visualisation** : Power BI (DAX, Power Query)
+- **Infrastructures & Outils** : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt
+- **Analyse & Modélisation** : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)
+
+## Me contacter
+
+Un projet d'analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-geo-alt-fill"></i> Nantes & Remote  
+<i class="bi bi-envelope-fill"></i> [agnesdrouard90@gmail.com](mailto:agnesdrouard90@gmail.com)  
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/agnes-drouard/)  
+<i class="bi bi-github"></i> [GitHub](https://github.com/AniessD)  
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: -0.125em;">
+  <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
+</svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
+:::
+
