@@ -2,7 +2,7 @@
 title: "Veille métier et technologique"
 description: "Réalisation d'une veille dans l'objectif d'améliorer un projet existant"
 image: ../images/couverture_veille.jpg
-categories: [Notion, Feedly]
+categories: [Notion, Feedly, Formation]
 date: 2026-08
 ---
 
@@ -15,7 +15,7 @@ Il est utilisé comme exemple de réalisation d'une veille métier et technologi
 ## Démarche
 
 L'objectif est de réaliser une veille métier et technologique précise afin d'améliorer un projet existant : 
-**Optimiser la gestion des données d'une boutique**.
+[Optimisation de la gestion des données d'une boutique.](projet-gestion-boutique.qmd)  
 Dans ce projet, il a été mis en évidence une problématique de gestion des stocks. Cette veille doit donc répondre à 
 ce besoin précis : **Centraliser, analyser et évaluer des méthodes de gestion des stocks**
 
@@ -49,7 +49,7 @@ La veille est concrétisée par la livraison d'une base de données Notion compr
 ainsi que leurs utilisations potentielles dans le projet.
 Ce travail s'inscrit dans le cadre d'un projet global de formalisation incluant un cahier des charges fonctionnel, un guide d'utilisation et un compte rendu final.
 
-![Sommaire du projet complet sur Notion ](../images/sommaire_veille.png){fig-align="center"}
+![Sommaire du projet complet sur Notion ](../images/sommaire_veille.png){fig-align="center" fig-alt="Sommaire du projet complet sur Notion"}
 
 ## Réalisations
 
@@ -57,7 +57,13 @@ Ce travail s'inscrit dans le cadre d'un projet global de formalisation incluant 
 title: "Veille métier et technologique : Méthodes de gestion des stocks"
 ---
 
-<iframe src="https://cooperative-editorial-60d.notion.site/ebd//3b1fa881b0e6801f9224f7a1aa46023d?v=3b1fa881b0e6801a9b5b000c354c9a0e" width="100%" height="600" style="border: 1px solid var(--border-color); border-radius: 8px;"></iframe>
+<iframe 
+    src="https://cooperative-editorial-60d.notion.site/ebd//3b1fa881b0e6801f9224f7a1aa46023d?v=3b1fa881b0e6801a9b5b000c354c9a0e" 
+    title="Veille métier et technologique : Méthodes de gestion des stocks"
+    width="100%" 
+    height="600" 
+    style="border: 1px solid var(--border-color); border-radius: 8px;">
+</iframe>
 
 ## Stack
 

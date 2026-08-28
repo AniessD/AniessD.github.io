@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Agnès Drouard | Data Analyst"
+  description: "Data analyst freelance — analyse de données, dashboards et modélisation décisionnelle pour transformer vos données en décisions."
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +16,9 @@ format:
     theme: 
       - flatly
     css: styles.css
-    include-in-header: fonts.html
+    include-in-header:
+      - fonts.html
+      - fix-accessibility.html
     toc: true
     toc-title: "Sur cette page" 
     language: fr

@@ -1,12 +1,13 @@
 
 ---
 title: "À propos"
+description-meta: "Data analyst freelance à Nantes. Analyse exploratoire, dashboards Power BI, modélisation décisionnelle."
 ---
 
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](../images/Photo2.png){.rounded-circle fig-alt="Photo d'Agnès Drouard" width="100%"}
+![](images/photo_reduite.webp){.rounded-circle fig-alt="Photo d'Agnès Drouard" width="100%"}
 :::
 
 ::: {.column width="5%"}
@@ -37,6 +38,69 @@ Mon objectif est d'aider les équipes opérationnelles et stratégiques à pilot
 - **Infrastructures & Outils** : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt
 - **Analyse & Modélisation** : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)
 
+
+## Expériences professionnelles
+
+::: {.mb-5}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/strapp_mobile.png){width="55px" fig-alt="Logo Strapp Mobile" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Data Analyst - Strapp Mobile {.h4 .m-0 .fw-bold .lh-1}
+[*Stage · mars 2026 - avril 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+
+- **Modélisation statistique & scoring (Jupyter) :** Méthodologie de calcul multicritères (AHP) pour scorer les consommations data et automatiser les recommandations de forfaits.
+- **Industrialisation (AWS) :** Scripts Python (GitLab) connectés à MongoDB pour automatiser le traitement via Lambda et SQS.
+:::
+
+::: {.mb-5}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/val_nantais.png){width="55px" fig-alt="Logo Val Nantais" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Responsable approvisionnement - Val Nantais {.h4 .m-0 .fw-bold .lh-1}
+[*CDI · juillet 2024 - novembre 2024*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+
+- Analyse des besoins d’approvisionnement et modélisation des plannings en fonction des contraintes contractuelles et opérationnelles
+- Suivi des indicateurs de performance (délais, litiges, coûts)
+- Coordination des flux (transport, emballages) et achats hors contrat
+:::
+
+::: {.mb-5}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/eurial.png){width="55px" fig-alt="Logo Eurial" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Responsable ordonnancement - Eurial {.h4 .m-0 .fw-bold .lh-1}
+[*CDI · février 2021 - juin 2024*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+
+- Indicateur de performance d’approvisionnement et modélisation de scénarios d’optimisation
+- Mise en place et suivi des indicateurs de performance d’ordonnancement pour piloter l’activité au quotidien
+- Construction et suivi du programme hebdomadaire d’approvisionnement (analyse des volumes, contraintes, écarts)
+:::
+
+::: {.mb-5}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/ldc.jpg){width="55px" fig-alt="Logo LDC" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Assistante Qualité - LDC Traiteur {.h4 .m-0 .fw-bold .lh-1}
+[*CDI · octobre 2014 - avril 2019*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+
+- Construction et automatisation (VBA) des bases de données risques matières premières
+- Cadrage fonctionnel et tests du logiciel interne de gestion des matières premières
+- Gestion des données fournisseurs et matières premières
+:::
+
+
 ## Me contacter
 
 Un projet d'analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?
@@ -50,4 +114,9 @@ Un projet d'analyse de données, une question sur mes réalisations ou une oppor
   <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
 </svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
 :::
+
+---
+
+
+
 

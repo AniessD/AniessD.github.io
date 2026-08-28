@@ -1,13 +1,40 @@
 ---
 title: "Projets"
-listing:
-  contents: projects
-  type: grid
-  grid-columns: 3
-  fields: [image, title, description, categories, date]
-  sort: "date desc"
-  categories: true
-  sort-ui: false
-  filter-ui: false
+description-meta: "Études de cas en data analyse :  analyses Python, dashboards Power BI, modélisation SQL/dbt."
 page-layout: full
+listing:
+
+  - id: pro-listings
+    contents: projects
+    type: grid
+    grid-columns: 3
+    include:
+      categories: 'Expérience pro'
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+
+  - id: formation-listings
+    contents: projects
+    type: grid
+    grid-columns: 3
+    include:
+      categories: 'Formation'
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
 ---
+
+## Expérience professionnelle
+
+::: {#pro-listings}
+:::
+
+## Projets de formation
+
+::: {#formation-listings}
+:::

@@ -2,8 +2,8 @@
 title: "Optimisation des consommations de data"
 description: "Identification et chiffrage des opportunités d'optimisation de forfait"
 image: ../images/couverture_stage.png
-categories: [python, Jupyter, AWS]
-date: 2026-03
+categories: [python, Jupyter, AWS, Expérience pro]
+date: 2026-04
 ---
 
 ## Contexte
@@ -47,11 +47,11 @@ Flexibilité :
 
 Le projet s'est concrétisé par la livraison d'un module automatisé d'analyse et d'optimisation des forfaits. Voici son intégration au sein de l'infrastructure globale de Strapp Mobile :
 
-![Architecture ](../images/architecture_stage.png){fig-align="center"}
+![Architecture ](../images/architecture_stage.png){fig-align="center" fig-alt="Architecture"}
 
 ## Réalisations
 
-![Fonction lambda ](../images/fonction_lambda.png){fig-align="center"}
+![Fonction lambda ](../images/fonction_lambda.png){fig-align="center" fig-alt="Fonction lambda"}
 
 <details>
 <summary><b> Fonction de calcul du jour de dépassement en cas de surconsommation de data</b></summary>

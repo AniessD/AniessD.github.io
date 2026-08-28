@@ -2,7 +2,7 @@
 title: "Analyse de l'accès mondial à l'eau potable"
 description: "Conception d'un tableau de bord interactif permettant d'identifier les pays rencontrant des difficultés d'accès à l'eau potable et de cibler les pays où concentrer les efforts."
 image: ../images/couverture_projet_eau.png
-categories: [Power BI, DAX, Power Query]
+categories: [Power BI, DAX, Power Query, Formation]
 date: 2026-05
 ---
 
@@ -39,7 +39,7 @@ L'analyse a permis de conclure que :
 
 ## Réalisations
 
-![Schéma en constellation](../images/schema_eau.png){fig-align="center"}
+![Schéma en constellation](../images/schema_eau.png){fig-align="center" fig-alt="Schéma en constellation"}
 
 <details>
 <summary><b> Mesure DAX calculant le taux moyen d'accès aux services d'eau basiques</b></summary>

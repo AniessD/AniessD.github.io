@@ -2,7 +2,7 @@
 title: "Détection de faux billets"
 description: "Réalisation d'une application de détection automatique de faux billets à partir de données géométriques"
 image: ../images/couverture_detection_billet.png
-categories: [python, Jupyter, Machine learning]
+categories: [python, Jupyter, Machine learning, Formation]
 date: 2026-07
 ---
 
@@ -92,7 +92,7 @@ plt.show()
 ```
 </details>
 
-![Evaluation du modèle KNN ](../images/evaluation_knn.png){fig-align="center"}
+![Evaluation du modèle KNN ](../images/evaluation_knn.png){fig-align="center" fig-alt="Evaluation du modèle KNN"}
 
 <details>
 <summary><b> Fonction de prédiction de plusieurs billets dans l'application</b></summary>

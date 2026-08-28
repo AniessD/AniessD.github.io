@@ -2,7 +2,7 @@
 title: "Etude sur l'alimentation dans le monde"
 description: "Y a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?"
 image: ../images/couverture_projet_sousnutrition.png
-categories: [python, Jupyter]
+categories: [python, Jupyter, Formation]
 date: 2025-10
 ---
 

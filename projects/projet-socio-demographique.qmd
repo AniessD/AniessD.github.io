@@ -2,8 +2,8 @@
 title: "Analyse des profils socio-démographiques des étudiants d'OpenClassrooms"
 description: "Comparaison des profils des étudiants d'OpenClassrooms avec des étudiants au niveau national"
 image: ../images/couverture_projet_sociodemographique.png
-categories: [dbt, SQL]
-date: 2026-02
+categories: [dbt, SQL, Formation]
+date: 2026-03
 ---
 
 ## Contexte
@@ -40,7 +40,7 @@ La comparaison des populations entre OpenClassrooms et national m'a permis de pr
 
 ## Réalisations
 
-![Workflow commenté](../images/Workflow dbt commenté.png){fig-align="center"}
+![Workflow commenté](../images/Workflow dbt commenté.png){fig-align="center" fig-alt="Workflow commenté"}
 
 <details>
 <summary><b> Requête pour obtenir la table plate finale (SQL)</b></summary>
