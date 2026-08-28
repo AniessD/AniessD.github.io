@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-03-01">
+<meta name="dcterms.date" content="2026-04-01">
 <meta name="description" content="Identification et chiffrage des opportunités d’optimisation de forfait">
 
 <title>Optimisation des consommations de data – Agnès Drouard | Data Analyst</title>
@@ -116,6 +116,176 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
 
+<script>
+
+(function() {
+
+  var FOCUSABLE_SELECTOR = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+
+
+
+  function fixAriaHidden() {
+
+    document.querySelectorAll('[aria-hidden="true"]').forEach(function(el) {
+
+      // Si l'élément lui-même est focusable, on ne fait que retirer aria-hidden
+
+      // (aria-hidden ne doit jamais être posé sur un élément focusable, cf. spec ARIA)
+
+      if (el.matches(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+        return;
+
+      }
+
+      // Si un descendant est focusable, l'élément parent ne doit pas être aria-hidden
+
+      if (el.querySelector(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+      }
+
+    });
+
+  }
+
+
+
+  // Exécution au chargement initial
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixAriaHidden);
+
+  } else {
+
+    fixAriaHidden();
+
+  }
+
+
+
+  // Ré-exécution si Quarto/Bootstrap/le widget de recherche modifient le DOM après coup
+
+  var observer = new MutationObserver(fixAriaHidden);
+
+  observer.observe(document.documentElement, {
+
+    attributes: true,
+
+    childList: true,
+
+    subtree: true,
+
+    attributeFilter: ['aria-hidden']
+
+  });
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixProjectImagesAlt() {
+
+    // 1. Sur les cartes de listings (page Projets)
+
+    document.querySelectorAll('.quarto-grid-item, .quarto-post').forEach(function(card) {
+
+      var img = card.querySelector('img');
+
+      var title = card.querySelector('.listing-title, .entry-title');
+
+      if (img && title && !img.hasAttribute('alt')) {
+
+        img.setAttribute('alt', 'Image de couverture : ' + title.textContent.trim());
+
+      }
+
+    });
+
+
+
+    // 2. Sur la page du projet elle-même (bannière/image de présentation)
+
+    var mainImg = document.querySelector('.quarto-title-block-image img, .quarto-title-meta-contents img');
+
+    var pageTitle = document.querySelector('h1.title');
+
+    if (mainImg && pageTitle && !mainImg.hasAttribute('alt')) {
+
+      mainImg.setAttribute('alt', 'Image de couverture du projet ' + pageTitle.textContent.trim());
+
+    }
+
+  }
+
+
+
+  // Exécution au chargement
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixProjectImagesAlt);
+
+  } else {
+
+    fixProjectImagesAlt();
+
+  }
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixListingHeadings() {
+
+    // Transforme les <h5> des cartes de listing Quarto en <h3>
+
+    document.querySelectorAll('h5.card-title.listing-title').forEach(function(el) {
+
+      var h3 = document.createElement('h3');
+
+      h3.className = el.className; // Conserve toutes les classes CSS d'origine
+
+      h3.innerHTML = el.innerHTML;
+
+      el.parentNode.replaceChild(h3, el);
+
+    });
+
+  }
+
+
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixListingHeadings);
+
+  } else {
+
+    fixListingHeadings();
+
+  }
+
+})();
+
+</script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -180,6 +350,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div class="quarto-category">python</div>
     <div class="quarto-category">Jupyter</div>
     <div class="quarto-category">AWS</div>
+    <div class="quarto-category">Expérience pro</div>
   </div>
   </div>
 
@@ -196,7 +367,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 1, 2026</p>
+      <p class="date">April 1, 2026</p>
     </div>
   </div>
   
@@ -256,7 +427,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Le projet s’est concrétisé par la livraison d’un module automatisé d’analyse et d’optimisation des forfaits. Voici son intégration au sein de l’infrastructure globale de Strapp Mobile :</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/architecture_stage.png" class="img-fluid figure-img"></p>
+<p><img src="../images/architecture_stage.png" class="img-fluid figure-img" alt="Architecture"></p>
 <figcaption>Architecture</figcaption>
 </figure>
 </div>
@@ -265,7 +436,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="réalisations">Réalisations</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/fonction_lambda.png" class="img-fluid figure-img"></p>
+<p><img src="../images/fonction_lambda.png" class="img-fluid figure-img" alt="Fonction lambda"></p>
 <figcaption>Fonction lambda</figcaption>
 </figure>
 </div>

@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Études de cas en data analyse : analyses Python, dashboards Power BI, modélisation SQL/dbt.">
 
 <title>Projets – Agnès Drouard | Data Analyst</title>
 <style>
@@ -78,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-pro-listings .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -91,7 +92,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-pro-listings'] = new List('listing-pro-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-formation-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-formation-listings'] = new List('listing-formation-listings', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -109,6 +138,176 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+
+<script>
+
+(function() {
+
+  var FOCUSABLE_SELECTOR = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+
+
+
+  function fixAriaHidden() {
+
+    document.querySelectorAll('[aria-hidden="true"]').forEach(function(el) {
+
+      // Si l'élément lui-même est focusable, on ne fait que retirer aria-hidden
+
+      // (aria-hidden ne doit jamais être posé sur un élément focusable, cf. spec ARIA)
+
+      if (el.matches(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+        return;
+
+      }
+
+      // Si un descendant est focusable, l'élément parent ne doit pas être aria-hidden
+
+      if (el.querySelector(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+      }
+
+    });
+
+  }
+
+
+
+  // Exécution au chargement initial
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixAriaHidden);
+
+  } else {
+
+    fixAriaHidden();
+
+  }
+
+
+
+  // Ré-exécution si Quarto/Bootstrap/le widget de recherche modifient le DOM après coup
+
+  var observer = new MutationObserver(fixAriaHidden);
+
+  observer.observe(document.documentElement, {
+
+    attributes: true,
+
+    childList: true,
+
+    subtree: true,
+
+    attributeFilter: ['aria-hidden']
+
+  });
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixProjectImagesAlt() {
+
+    // 1. Sur les cartes de listings (page Projets)
+
+    document.querySelectorAll('.quarto-grid-item, .quarto-post').forEach(function(card) {
+
+      var img = card.querySelector('img');
+
+      var title = card.querySelector('.listing-title, .entry-title');
+
+      if (img && title && !img.hasAttribute('alt')) {
+
+        img.setAttribute('alt', 'Image de couverture : ' + title.textContent.trim());
+
+      }
+
+    });
+
+
+
+    // 2. Sur la page du projet elle-même (bannière/image de présentation)
+
+    var mainImg = document.querySelector('.quarto-title-block-image img, .quarto-title-meta-contents img');
+
+    var pageTitle = document.querySelector('h1.title');
+
+    if (mainImg && pageTitle && !mainImg.hasAttribute('alt')) {
+
+      mainImg.setAttribute('alt', 'Image de couverture du projet ' + pageTitle.textContent.trim());
+
+    }
+
+  }
+
+
+
+  // Exécution au chargement
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixProjectImagesAlt);
+
+  } else {
+
+    fixProjectImagesAlt();
+
+  }
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixListingHeadings() {
+
+    // Transforme les <h5> des cartes de listing Quarto en <h3>
+
+    document.querySelectorAll('h5.card-title.listing-title').forEach(function(el) {
+
+      var h3 = document.createElement('h3');
+
+      h3.className = el.className; // Conserve toutes les classes CSS d'origine
+
+      h3.innerHTML = el.innerHTML;
+
+      el.parentNode.replaceChild(h3, el);
+
+    });
+
+  }
+
+
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixListingHeadings);
+
+  } else {
+
+    fixListingHeadings();
+
+  }
+
+})();
+
+</script>
 
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -181,8 +380,15 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QVdT">AWS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="REFY">DAX <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGJ0">dbt <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmVlZGx5">Feedly <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SnVweXRlcg==">Jupyter <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TWFjaGluZSUyMGxlYXJuaW5n">Machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tm90aW9u">Notion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG93ZXIlMjBCSQ==">Power BI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG93ZXIlMjBRdWVyeQ==">Power Query <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHl0aG9u">python <span class="quarto-category-count">(3)</span></div><div class="category" data-category="U1FM">SQL <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#expérience-professionnelle" id="toc-expérience-professionnelle" class="nav-link active" data-scroll-target="#expérience-professionnelle">Expérience professionnelle</a></li>
+  <li><a href="#projets-de-formation" id="toc-projets-de-formation" class="nav-link" data-scroll-target="#projets-de-formation">Projets de formation</a></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div><div class="category" data-category="QVdT">AWS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="REFY">DAX <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGJ0">dbt <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXhwJUMzJUE5cmllbmNlJTIwcHJv">Expérience pro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmVlZGx5">Feedly <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9ybWF0aW9u">Formation <span class="quarto-category-count">(10)</span></div><div class="category" data-category="SnVweXRlcg==">Jupyter <span class="quarto-category-count">(6)</span></div><div class="category" data-category="TWFjaGluZSUyMGxlYXJuaW5n">Machine learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Tm90aW9u">Notion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG93ZXIlMjBCSQ==">Power BI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UG93ZXIlMjBRdWVyeQ==">Power Query <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHl0aG9u">python <span class="quarto-category-count">(6)</span></div><div class="category" data-category="U1FM">SQL <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -205,101 +411,11 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<section id="expérience-professionnelle" class="level2">
+<h2 class="anchored" data-anchor-id="expérience-professionnelle">Expérience professionnelle</h2>
+<div id="listing-pro-listings" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Tm90aW9uJTJDRmVlZGx5" data-listing-date-sort="1785535200000" data-listing-file-modified-sort="1787667205526" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="380">
-<a href="./projects/projet-veille.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/couverture_veille.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Veille métier et technologique : Méthodes de gestion des stocks
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Tm90aW9u'); return false;">Notion</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RmVlZGx5'); return false;">Feedly</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Réalisation d’une veille dans l’objectif d’améliorer un projet existant</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Aug 1, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ01hY2hpbmUlMjBsZWFybmluZw==" data-listing-date-sort="1782856800000" data-listing-file-modified-sort="1787663921871" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="670">
-<a href="./projects/projet-detection-billet.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/couverture_detection_billet.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Détection de faux billets
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">python</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMGxlYXJuaW5n'); return false;">Machine learning</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Réalisation d’une application de détection automatique de faux billets à partir de données géométriques</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jul 1, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="UG93ZXIlMjBCSSUyQ0RBWCUyQ1Bvd2VyJTIwUXVlcnk=" data-listing-date-sort="1777586400000" data-listing-file-modified-sort="1787663921872" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
-<a href="./projects/projet-etude-eau-potable.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/couverture_projet_eau.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Analyse de l’accès mondial à l’eau potable
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBCSQ=='); return false;">Power BI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('REFY'); return false;">DAX</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBRdWVyeQ=='); return false;">Power Query</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Conception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 1, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ0FXUw==" data-listing-date-sort="1772319600000" data-listing-file-modified-sort="1787665367406" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="505">
+<div class="g-col-1" data-index="0" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ0FXUyUyQ0V4cCVDMyVBOXJpZW5jZSUyMHBybw==" data-listing-date-sort="1774994400000" data-listing-file-modified-sort="1787925159139" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="508">
 <a href="./projects/projet-stage.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -317,19 +433,155 @@ Optimisation des consommations de data
 
 <div class="listing-category" onclick="window.quartoListingCategory('QVdT'); return false;">AWS</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('RXhwJUMzJUE5cmllbmNlJTIwcHJv'); return false;">Expérience pro</div>
+
 </div>
 <div class="card-text listing-description delink">
 <p>Identification et chiffrage des opportunités d’optimisation de forfait</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Mar 1, 2026
+Apr 1, 2026
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="ZGJ0JTJDU1FM" data-listing-date-sort="1769900400000" data-listing-file-modified-sort="1787663921872" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="690">
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="projets-de-formation" class="level2">
+<h2 class="anchored" data-anchor-id="projets-de-formation">Projets de formation</h2>
+<div id="listing-formation-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Tm90aW9uJTJDRmVlZGx5JTJDRm9ybWF0aW9u" data-listing-date-sort="1785535200000" data-listing-file-modified-sort="1787925493400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="418">
+<a href="./projects/projet-veille.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_veille.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Veille métier et technologique : Méthodes de gestion des stocks
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Tm90aW9u'); return false;">Notion</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmVlZGx5'); return false;">Feedly</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Réalisation d’une veille dans l’objectif d’améliorer un projet existant</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ01hY2hpbmUlMjBsZWFybmluZyUyQ0Zvcm1hdGlvbg==" data-listing-date-sort="1782856800000" data-listing-file-modified-sort="1787913473902" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="674">
+<a href="./projects/projet-detection-billet.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_detection_billet.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Détection de faux billets
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">python</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMGxlYXJuaW5n'); return false;">Machine learning</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Réalisation d’une application de détection automatique de faux billets à partir de données géométriques</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jul 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ01hY2hpbmUlMjBsZWFybmluZyUyQ0Zvcm1hdGlvbg==" data-listing-date-sort="1780264800000" data-listing-file-modified-sort="1787920401313" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1249">
+<a href="./projects/projet-etude-marche.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_marche.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Etude de marché pour développement à l’international
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">python</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMGxlYXJuaW5n'); return false;">Machine learning</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Analyse du marché international de la volaille pour définir un pays ou un groupe de pays propice au développement d’une entreprise à l’export.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="UG93ZXIlMjBCSSUyQ0RBWCUyQ1Bvd2VyJTIwUXVlcnklMkNGb3JtYXRpb24=" data-listing-date-sort="1777586400000" data-listing-file-modified-sort="1787913475974" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
+<a href="./projects/projet-etude-eau-potable.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_projet_eau.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Analyse de l’accès mondial à l’eau potable
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBCSQ=='); return false;">Power BI</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('REFY'); return false;">DAX</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBRdWVyeQ=='); return false;">Power Query</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Conception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="ZGJ0JTJDU1FMJTJDRm9ybWF0aW9u" data-listing-date-sort="1772319600000" data-listing-file-modified-sort="1787925146512" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="692">
 <a href="./projects/projet-socio-demographique.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -345,9 +597,41 @@ Analyse des profils socio-démographiques des étudiants d’OpenClassrooms
 
 <div class="listing-category" onclick="window.quartoListingCategory('U1FM'); return false;">SQL</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
 </div>
 <div class="card-text listing-description delink">
 <p>Comparaison des profils des étudiants d’OpenClassrooms avec des étudiants au niveau national</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ0Zvcm1hdGlvbg==" data-listing-date-sort="1769900400000" data-listing-file-modified-sort="1787921454412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="391">
+<a href="./projects/projet-ventes-librairie.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_librairie.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Analyse des ventes d’une librairie en ligne
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">python</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Analyse des performances globales du site, des comportements clients, des produits stratégiques (top/flop) et propositions d’axes d’amélioration marketing.</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -357,7 +641,97 @@ Feb 1, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="cHl0aG9uJTJDSnVweXRlcg==" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1787663921873" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
+<div class="g-col-1" data-index="6" data-categories="UG93ZXIlMjBCSSUyQ0RBWCUyQ1Bvd2VyJTIwUXVlcnklMkNGb3JtYXRpb24=" data-listing-date-sort="1767222000000" data-listing-file-modified-sort="1787922874871" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
+<a href="./projects/projet-suivi-avancement.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_projets.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Suivi de l’avancement de projets
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBCSQ=='); return false;">Power BI</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('REFY'); return false;">DAX</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXIlMjBRdWVyeQ=='); return false;">Power Query</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Conception d’un tableau de bord interactif permettant à une entreprise de visualiser l’avancement de ses projets.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ0Zvcm1hdGlvbg==" data-listing-date-sort="1764543600000" data-listing-file-modified-sort="1787925010381" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<a href="./projects/projet-gestion-boutique.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_boutique.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Optimisation de la gestion des données d’une boutique
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">python</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Amélioration de la qualité des données d’une boutique afin de fournir les indicateurs clés.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 1, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="U1FMJTJDRm9ybWF0aW9u" data-listing-date-sort="1761951600000" data-listing-file-modified-sort="1787926070208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="444">
+<a href="./projects/projet-bdd-immobiliere.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/couverture_immobilier.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Création et utilisation d’une base de données immobilière
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('U1FM'); return false;">SQL</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Création d’une bdd immobilière complète à partir de données publiques pour analyser le marché immobilier français.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 1, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="cHl0aG9uJTJDSnVweXRlciUyQ0Zvcm1hdGlvbg==" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1787913480785" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
 <a href="./projects/projet-sousnutrition.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -373,6 +747,8 @@ Etude sur l’alimentation dans le monde
 
 <div class="listing-category" onclick="window.quartoListingCategory('SnVweXRlcg=='); return false;">Jupyter</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9ybWF0aW9u'); return false;">Formation</div>
+
 </div>
 <div class="card-text listing-description delink">
 <p>Y a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?</p>
@@ -387,7 +763,13 @@ Oct 1, 2025
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

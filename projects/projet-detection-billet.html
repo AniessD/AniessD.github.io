@@ -116,6 +116,176 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
 
+<script>
+
+(function() {
+
+  var FOCUSABLE_SELECTOR = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+
+
+
+  function fixAriaHidden() {
+
+    document.querySelectorAll('[aria-hidden="true"]').forEach(function(el) {
+
+      // Si l'élément lui-même est focusable, on ne fait que retirer aria-hidden
+
+      // (aria-hidden ne doit jamais être posé sur un élément focusable, cf. spec ARIA)
+
+      if (el.matches(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+        return;
+
+      }
+
+      // Si un descendant est focusable, l'élément parent ne doit pas être aria-hidden
+
+      if (el.querySelector(FOCUSABLE_SELECTOR)) {
+
+        el.removeAttribute('aria-hidden');
+
+      }
+
+    });
+
+  }
+
+
+
+  // Exécution au chargement initial
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixAriaHidden);
+
+  } else {
+
+    fixAriaHidden();
+
+  }
+
+
+
+  // Ré-exécution si Quarto/Bootstrap/le widget de recherche modifient le DOM après coup
+
+  var observer = new MutationObserver(fixAriaHidden);
+
+  observer.observe(document.documentElement, {
+
+    attributes: true,
+
+    childList: true,
+
+    subtree: true,
+
+    attributeFilter: ['aria-hidden']
+
+  });
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixProjectImagesAlt() {
+
+    // 1. Sur les cartes de listings (page Projets)
+
+    document.querySelectorAll('.quarto-grid-item, .quarto-post').forEach(function(card) {
+
+      var img = card.querySelector('img');
+
+      var title = card.querySelector('.listing-title, .entry-title');
+
+      if (img && title && !img.hasAttribute('alt')) {
+
+        img.setAttribute('alt', 'Image de couverture : ' + title.textContent.trim());
+
+      }
+
+    });
+
+
+
+    // 2. Sur la page du projet elle-même (bannière/image de présentation)
+
+    var mainImg = document.querySelector('.quarto-title-block-image img, .quarto-title-meta-contents img');
+
+    var pageTitle = document.querySelector('h1.title');
+
+    if (mainImg && pageTitle && !mainImg.hasAttribute('alt')) {
+
+      mainImg.setAttribute('alt', 'Image de couverture du projet ' + pageTitle.textContent.trim());
+
+    }
+
+  }
+
+
+
+  // Exécution au chargement
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixProjectImagesAlt);
+
+  } else {
+
+    fixProjectImagesAlt();
+
+  }
+
+})();
+
+</script>
+
+
+
+<script>
+
+(function() {
+
+  function fixListingHeadings() {
+
+    // Transforme les <h5> des cartes de listing Quarto en <h3>
+
+    document.querySelectorAll('h5.card-title.listing-title').forEach(function(el) {
+
+      var h3 = document.createElement('h3');
+
+      h3.className = el.className; // Conserve toutes les classes CSS d'origine
+
+      h3.innerHTML = el.innerHTML;
+
+      el.parentNode.replaceChild(h3, el);
+
+    });
+
+  }
+
+
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixListingHeadings);
+
+  } else {
+
+    fixListingHeadings();
+
+  }
+
+})();
+
+</script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -180,6 +350,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div class="quarto-category">python</div>
     <div class="quarto-category">Jupyter</div>
     <div class="quarto-category">Machine learning</div>
+    <div class="quarto-category">Formation</div>
   </div>
   </div>
 
@@ -304,7 +475,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </details>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/evaluation_knn.png" class="img-fluid figure-img"></p>
+<p><img src="../images/evaluation_knn.png" class="img-fluid figure-img" alt="Evaluation du modèle KNN"></p>
 <figcaption>Evaluation du modèle KNN</figcaption>
 </figure>
 </div>

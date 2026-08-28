@@ -2,11 +2,16 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/projet-stage.html",
       "/projects/projet-veille.html",
       "/projects/projet-detection-billet.html",
+      "/projects/projet-etude-marche.html",
       "/projects/projet-etude-eau-potable.html",
-      "/projects/projet-stage.html",
       "/projects/projet-socio-demographique.html",
+      "/projects/projet-ventes-librairie.html",
+      "/projects/projet-suivi-avancement.html",
+      "/projects/projet-gestion-boutique.html",
+      "/projects/projet-bdd-immobiliere.html",
       "/projects/projet-sousnutrition.html"
     ]
   }
