@@ -266,6 +266,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<script>
+
+(function() {
+
+  function fixNavbarRole() {
+
+    var toggler = document.querySelector('.navbar-toggler[role="menu"]');
+
+    if (toggler) {
+
+      toggler.removeAttribute('role'); // le rôle implicite de <button> suffit
+
+    }
+
+  }
+
+
+
+  if (document.readyState === 'loading') {
+
+    document.addEventListener('DOMContentLoaded', fixNavbarRole);
+
+  } else {
+
+    fixNavbarRole();
+
+  }
+
+})();
+
+</script>
+
+
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
