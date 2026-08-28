@@ -277,17 +277,31 @@ ul.task-list li input[type="checkbox"] {
 
   function fixListingHeadings() {
 
-    // Transforme les <h5> des cartes de listing Quarto en <h3>
+    // Liste des sélecteurs h5 générés par Quarto à passer en h3
 
-    document.querySelectorAll('h5.card-title.listing-title').forEach(function(el) {
+    var selectors = [
 
-      var h3 = document.createElement('h3');
+      'h5.card-title.listing-title',
 
-      h3.className = el.className; // Conserve toutes les classes CSS d'origine
+      'h5.quarto-listing-category-title'
 
-      h3.innerHTML = el.innerHTML;
+    ];
 
-      el.parentNode.replaceChild(h3, el);
+
+
+    selectors.forEach(function(selector) {
+
+      document.querySelectorAll(selector).forEach(function(el) {
+
+        var h3 = document.createElement('h3');
+
+        h3.className = el.className; // Conserve le style CSS d'origine
+
+        h3.innerHTML = el.innerHTML;
+
+        el.parentNode.replaceChild(h3, el);
+
+      });
 
     });
 
