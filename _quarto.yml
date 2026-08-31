@@ -11,6 +11,10 @@ website:
       - href : projects.qmd
         text: Projets
 
+  page-footer:
+    left: "© 2026 Agnès Drouard"
+    right: "Construit avec Quarto"
+
 format:
   html:
     theme: 

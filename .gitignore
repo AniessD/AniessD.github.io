@@ -8,3 +8,6 @@
 .ipynb_checkpoints/
 /.quarto/
 **/*.quarto_ipynb
+
+#Page mentions légales (en attente lancement entreprise)
+/mentions-legales.qmd
