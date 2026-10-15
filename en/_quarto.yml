@@ -1,0 +1,34 @@
+project:
+  type: website
+  pre-render: python ../copy_assets.py
+
+website:
+  title: "Agnès Drouard | Data Analyst"
+  description: "Freelance data analyst — data analysis, dashboards and decision modelling to turn your data into decisions."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: globe
+        menu:
+          - text: "Français"
+            href: ../index.html
+          - text: "English"
+            href: index.qmd
+  page-footer:
+    left: "© 2026 Agnès Drouard"
+    right: Built with Quarto
+
+format:
+  html:
+    lang: en
+    theme: flatly
+    css: styles.css
+    include-in-header:
+      - fonts.html
+      - fix-accessibility.html
+    toc: true
+    toc-title: "On this page"

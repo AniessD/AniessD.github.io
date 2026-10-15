@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!en/"          # le sous-projet EN est rendu séparément
 
 website:
   title: "Agnès Drouard | Data Analyst"
@@ -8,24 +11,27 @@ website:
     left:
       - href: index.qmd
         text: Accueil
-      - href : projects.qmd
+      - href: projects.qmd
         text: Projets
-
+    right:
+      - icon: globe
+        menu:
+          - text: "Français"
+            href: index.qmd
+          - text: "English"
+            href: en/index.html
   page-footer:
     left: "© 2026 Agnès Drouard"
-    right: "Construit avec Quarto"
+    right: Construit avec Quarto
 
 format:
   html:
-    theme: 
-      - flatly
+    lang: fr
+    theme: flatly
     css: styles.css
     include-in-header:
       - fonts.html
       - fix-accessibility.html
     toc: true
-    toc-title: "Sur cette page" 
-    language: fr
-
-
+    toc-title: "Sur cette page"
 

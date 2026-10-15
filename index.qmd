@@ -19,24 +19,20 @@ description-meta: "Data analyst freelance à Nantes. Analyse exploratoire, dashb
 
 ## Qui je suis
 
-Après une carrière de dix ans en gestion de la qualité et logistique dans l'agroalimentaire, j'ai réorienté mon parcours vers l'analyse de données pour transformer la donnée brute en leviers de décision concrets. 
-
-Cette double expérience métier et technique me permet d'aborder les projets data avec une approche très pragmatique.
+Data Analyst spécialisée dans l'industrie, avec 10 ans d'expérience en supply chain et en qualité (approvisionnement, ordonnancement, traçabilité, risques matières premières), je transforme vos données de production et de logistique en outils de pilotage fiables.
 :::
 
 ::::
 
-Récemment formée au métier de Data Analyst via un parcours chez OpenClassrooms, j'accompagne aujourd'hui les entreprises dans la structuration, l'analyse et la valorisation de leurs données. Du nettoyage à la modélisation décisionnelle, je peux intervenir sur l'ensemble de la chaîne de valeurs.
-
-Mon objectif est d'aider les équipes opérationnelles et stratégiques à piloter leur activité grâce à des indicateurs fiables, des tableaux de bord lisibles ou encore des outils sur mesure.
+Pour les avoir rencontrées, je connais bien les problématiques métiers. J'ai notamment construit et automatisé des bases de données de risques sur les matières premières ou encore mis en place des KPI côté supply chain (approvisionnement et ordonnancement d’une dizaine d’usines).
 
 
 ## Compétences
 
-- **Langages** : SQL, Python (pandas, NumPy)
-- **Data Visualisation** : Power BI (DAX, Power Query)
-- **Infrastructures & Outils** : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt
-- **Analyse & Modélisation** : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)
+- **Transformation** : SQL, DBT, Snowflake
+- **BI** : Power BI, Power Query, DAX
+- **Analyse et automatisation** : Python (Pandas, NumPy, Matplotlib), Jupyter, Excel (avancé, TCD, VBA)
+- **Cloud et versioning** : AWS (Lambda, SQS), Git
 
 
 ## Expériences professionnelles

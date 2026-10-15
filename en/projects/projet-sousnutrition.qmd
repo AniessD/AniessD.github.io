@@ -1,0 +1,66 @@
+---
+title: "Study of Global Food Supply"
+description: "Are there people suffering from undernourishment in the world in 2017? If so, why?"
+image: ../images/couverture_projet_sousnutrition.png
+categories: [python, Jupyter, Training]
+date: 2025-10
+---
+
+## Context
+
+This project was carried out as part of my Data Analyst training at OpenClassrooms.
+
+## Approach
+
+The project analyzes undernourishment worldwide between 2013 and 2017, as part of a simulated mission within the FAO. The goal is to understand:
+
+- global food availability,
+- resource use,
+- the distribution of resources between countries,
+- the role of food aid
+
+## Key Results
+
+The analysis led to the following conclusions:
+
+- 535.7 million people are undernourished, or 7.1% of the world population
+- Global food availability would have been enough to feed 7.2 billion people
+- The countries receiving the most aid are not those with the highest undernourishment rates
+
+## Key Deliverables
+
+<details>
+<summary><b>Calculating the theoretical number of people who can be fed with plant-based products in Python</b></summary>
+
+```python
+# Transfer the plant-based data into a new dataframe
+dispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]
+dispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()
+dispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')
+
+# Compute the number of kcal available from plant-based products
+dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']
+dispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()
+print("En 2017, la disponibilité en produits végétaux s’élevait à",round(dispo_mondiale_vege/1000000000,1), "milliards de kcal/jour à l’échelle mondiale.")
+
+# Compute the number of people who can be fed with plant-based products
+nb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940
+pourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)
+print("Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),"milliards d’humains (soit près de", pourcentage_population,"% de la population mondiale).")
+```
+</details>
+
+::: {.callout-tip title="Execution output"}
+In 2017, the availability of plant-based products amounted to **17,449.5 billion kcal/day** worldwide.
+
+Based on an average requirement of **2,940 kcal/day/person**, global plant-based production alone would have been enough to feed **5.9 billion people** (nearly **78.7%** of the world population).
+
+:::
+
+## Tech Stack
+
+`python` · `Jupyter`
+
+
+[View the full project on GitHub →](https://github.com/AniessD/OC_notebook_etude_sante_publique)  
+[Back to projects →](../projects.qmd)

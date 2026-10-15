@@ -39,9 +39,10 @@ Le dataset final après nettoyage et jointures représentent 117 pays et 86% de 
 - Etude de l'éboulis des valeurs propores  
 - Analyse du cercle des corrélations  
 - Projection des individus sur les plans factoriels  
-- Clustering  
 
-3. K-means  
+3. Clustering  
+
+- K-means  
 - Classification hiérarchique ascendante (CAH)  
 - Visualisation et analyse des clusters  
 - Comparaison des clusters via une matrice de contingence  

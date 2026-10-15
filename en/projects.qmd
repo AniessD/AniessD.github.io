@@ -1,0 +1,54 @@
+---
+title: "Projects"
+description-meta: "Data analysis case studies: Python analysis, Power BI dashboards, SQL/dbt modeling."
+page-layout: full
+lang: en
+navbar:
+  left:
+    - href: index.en.qmd
+      text: "About"
+    - href: projects.en.qmd
+      text: "Projects"
+  right:
+    - icon: globe
+      menu:
+        - text: "Français"
+          href: projects.qmd
+        - text: "English"
+          href: projects.en.qmd
+listing:
+
+  - id: pro-listings
+    contents: projects
+    type: grid
+    grid-columns: 3
+    include:
+      categories: 'Professional Experience'
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+
+  - id: formation-listings
+    contents: projects
+    type: grid
+    grid-columns: 3
+    include:
+      categories: 'Training'
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    sort-ui: false
+    filter-ui: false
+---
+
+## Professional Experience
+
+::: {#pro-listings}
+:::
+
+## Training Projects
+
+::: {#formation-listings}
+:::
