@@ -1,0 +1,520 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "python\n\nJupyter\n\nAWS\n\nProfessional Experience\n\n\n\nIdentifying and quantifying mobile plan optimization opportunities\n\n\n\nApr 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#professional-experience",
+    "href": "projects.html#professional-experience",
+    "title": "Projects",
+    "section": "",
+    "text": "python\n\nJupyter\n\nAWS\n\nProfessional Experience\n\n\n\nIdentifying and quantifying mobile plan optimization opportunities\n\n\n\nApr 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#training-projects",
+    "href": "projects.html#training-projects",
+    "title": "Projects",
+    "section": "Training Projects",
+    "text": "Training Projects\n\n\n\n\n\n\n\n\n\n\nBusiness & Technology Watch: Inventory Management Methods\n\n\n\nNotion\n\nFeedly\n\nTraining\n\n\n\nConducting technology and business intelligence to optimize an existing project.\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounterfeit Banknote Detection\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nTraining\n\n\n\nDevelopment of an application that automatically detects counterfeit banknotes from geometric data\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarket Study for International Expansion\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nTraining\n\n\n\nAnalysis of the international poultry market to identify a country or group of countries suited to the export development of a company.\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Global Access to Safe Drinking Water\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nTraining\n\n\n\nDesign of an interactive dashboard to identify countries struggling with access to safe drinking water and to target where efforts should be concentrated.\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocio-Demographic Profile Analysis of OpenClassrooms Students\n\n\n\ndbt\n\nSQL\n\nTraining\n\n\n\nComparison of the profiles of OpenClassrooms students with students at the national level\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnline Bookstore Sales Analysis\n\n\n\npython\n\nJupyter\n\nTraining\n\n\n\nOverall site performance analysis, customer behavior study, top/flop product identification, and strategic marketing recommendations.\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject Progress Tracking\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nTraining\n\n\n\nDesign of an interactive dashboard enabling a company to monitor and visualize project progress.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimizing a Shop’s Data Management\n\n\n\npython\n\nJupyter\n\nTraining\n\n\n\nImproving the quality of a shop’s data in order to provide key performance indicators.\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nReal Estate Database Creation and Analysis\n\n\n\nSQL\n\nTraining\n\n\n\nCreation of a comprehensive real estate database from public data to analyze the French property market.\n\n\n\nNov 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of Global Food Supply\n\n\n\npython\n\nJupyter\n\nTraining\n\n\n\nAre there people suffering from undernourishment in the world in 2017? If so, why?\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projet-veille.html",
+    "href": "projects/projet-veille.html",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms. It serves as an example of conducting business and technology watch, utilizing a methodology that can be extended to other use cases."
+  },
+  {
+    "objectID": "projects/projet-veille.html#context",
+    "href": "projects/projet-veille.html#context",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms. It serves as an example of conducting business and technology watch, utilizing a methodology that can be extended to other use cases."
+  },
+  {
+    "objectID": "projects/projet-veille.html#approach",
+    "href": "projects/projet-veille.html#approach",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "Approach",
+    "text": "Approach\nThe goal was to perform targeted business and technology intelligence to improve an existing project:\nE-commerce Data Management Optimization.\nDuring that initial project, inventory management issues were highlighted. This watch directly addresses that specific need: Centralize, analyze, and evaluate inventory management methods.\nThe workflow is structured as follows:\n\n1. Intelligence Gathering\n\nRaw watch data is collected via Feedly by monitoring various relevant inventory management sources.\nWhenever an article or resource is deemed relevant, it is saved to the Inventory Management Methods database with one click using the Notion Web Clipper extension.\nThe entry automatically lands in the list with the status To Summarize.\n\n\n\n2. Status Tracking\n\nTo Summarize: Article captured, pending in-depth reading and note-taking.\nSummarized: Method analyzed, with all evaluation fields completed.\nNot Retained: Method analyzed but excluded for this project (reasons documented under Limitations).\n\n\n\n3. Processing & Evaluation\nEach entry is summarized with the following attributes to evaluate its relevance:\n\nType: Indicates whether it is a Business method (e.g., Wilson formula) or a Technology method (e.g., Python script).\nDescription: Concise summary of the article explaining the methodology.\nImplementation Difficulty: Low / Medium / High, evaluated based on project constraints.\nReliability: Low / Medium / High, evaluated based on project context.\nLimitations: Short overview of the method’s constraints regarding the project."
+  },
+  {
+    "objectID": "projects/projet-veille.html#key-results",
+    "href": "projects/projet-veille.html#key-results",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "Key Results",
+    "text": "Key Results\nThe output of this watch is a structured Notion database containing all reviewed sources alongside their potential applications within the project. This deliverable was integrated into a comprehensive project framing framework, including a functional specification document, a user guide, and a final summary report.\n\n\n\nFull project summary on Notion"
+  },
+  {
+    "objectID": "projects/projet-veille.html#key-deliverables",
+    "href": "projects/projet-veille.html#key-deliverables",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables"
+  },
+  {
+    "objectID": "projects/projet-veille.html#tech-stack",
+    "href": "projects/projet-veille.html#tech-stack",
+    "title": "Business & Technology Watch: Inventory Management Methods",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nNotion · Feedly\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-stage.html",
+    "href": "projects/projet-stage.html",
+    "title": "Data Consumption Optimization",
+    "section": "",
+    "text": "This project was carried out during a 2-month internship at Strapp Mobile (business mobile fleet management) in Nantes, France."
+  },
+  {
+    "objectID": "projects/projet-stage.html#context",
+    "href": "projects/projet-stage.html#context",
+    "title": "Data Consumption Optimization",
+    "section": "",
+    "text": "This project was carried out during a 2-month internship at Strapp Mobile (business mobile fleet management) in Nantes, France."
+  },
+  {
+    "objectID": "projects/projet-stage.html#approach",
+    "href": "projects/projet-stage.html#approach",
+    "title": "Data Consumption Optimization",
+    "section": "Approach",
+    "text": "Approach\n\nExploratory data analysis\n\n\n3 main topics analyzed:\n\nOut-of-plan usage\nData overconsumption\nData underconsumption\n\nInitial thoughts on characterizing these situations using criteria:\n\nOccasional / Frequent / Regular\nNumber of months / Average frequency / Number of consecutive months\n\n\n\nScoring methodology\n\nDevelopment of a scoring algorithm per SIM card to identify usage profiles (overconsumption / underconsumption) and automatically recommend the most suitable plan.\nCriteria used for the score: - Number of months - Frequency - Last month - Overage day (overconsumption) - Overage proportion (overconsumption) - Underconsumption proportion (underconsumption)\n\nPrototype\n\nExperimentation: - Jupyter as a lab to validate the scoring method - Creation of the plan recommendation method, then verification of its consistency\nFlexibility: - All calculation elements are configurable so the algorithm can be adapted to any situation"
+  },
+  {
+    "objectID": "projects/projet-stage.html#key-results",
+    "href": "projects/projet-stage.html#key-results",
+    "title": "Data Consumption Optimization",
+    "section": "Key Results",
+    "text": "Key Results\nThe project resulted in the delivery of an automated module for analyzing and optimizing mobile plans. Here is how it fits into Strapp Mobile’s overall infrastructure:\n\n\n\nArchitecture"
+  },
+  {
+    "objectID": "projects/projet-stage.html#key-deliverables",
+    "href": "projects/projet-stage.html#key-deliverables",
+    "title": "Data Consumption Optimization",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n\nLambda function\n\n\n\n\n Function calculating the overage day in case of data overconsumption\n\ndef calcul_jour_depassement(df_cdr, df_cartessim, dernier_forfait):\n    cdr_data = df_cdr.loc[df_cdr['type'] == 'data',['date', 'dataKo', 'iccid']]\n    del df_cdr\n\n    # Link with SIM card ids (inner join to exclude unknown iccid)\n    sim_iccid = df_cartessim[['_id', 'iccid_text']]\n    cdr_data = pd.merge(cdr_data, sim_iccid, left_on='iccid', right_on='iccid_text', how='inner')\n    cdr_data = cdr_data[['date', 'dataKo', '_id']]\n\n    # Compute cumulative data consumed per month\n    cdr_data = cdr_data.sort_values(['_id', 'date'])\n    cdr_data['Mois concerné'] = cdr_data['date'].dt.to_period('M').dt.to_timestamp()\n    cdr_data['data_cumsum_ko'] = cdr_data.groupby(['_id', 'Mois concerné'])['dataKo'].cumsum()\n    cdr_data.drop(columns='dataKo', inplace=True)\n    cdr_data['data_cumsum_go'] = round(cdr_data['data_cumsum_ko'] / config_base.KO_PAR_GO, 2)\n    cdr_data.drop(columns='data_cumsum_ko', inplace=True)\n\n    # Link with the plan used (for overconsumption, usage over the whole period is compared to the latest plan, even if the plan changed in the meantime)\n    cdr_data = pd.merge(cdr_data, dernier_forfait[['SIM', 'data_go_number']], left_on='_id', right_on='SIM', how='inner')\n    cdr_data = cdr_data[['SIM', 'date', 'data_cumsum_go', 'data_go_number']]\n\n    # Flag, then filter rows where cumulative consumption exceeds the plan\n    mask = cdr_data['data_cumsum_go'] &gt;= cdr_data['data_go_number'] * config_surconsommation.seuil_surconso\n    cdr_data = cdr_data.loc[mask, ['SIM', 'date']]\n\n    # Isolate the day\n    cdr_data['jour_depassement'] = cdr_data['date'].dt.day\n\n    # Create overage day df per SIM card (with configured quantile)\n    jour_depassement = cdr_data.groupby(\"SIM\")['jour_depassement'].quantile(config_surconsommation.percentile_jour_depassement).reset_index(name=\"jour_depassement\")\n\n    return jour_depassement"
+  },
+  {
+    "objectID": "projects/projet-stage.html#tech-stack",
+    "href": "projects/projet-stage.html#tech-stack",
+    "title": "Data Consumption Optimization",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter · AWS\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html",
+    "href": "projects/projet-socio-demographique.html",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#context",
+    "href": "projects/projet-socio-demographique.html#context",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#approach",
+    "href": "projects/projet-socio-demographique.html#approach",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "Approach",
+    "text": "Approach\nThe project architecture in dbt is as follows:\n\nStaging models (stg)\n\nCleaning of source data (OpenClassrooms and national)\nStandardization of column names\n\nIntermediate models (int)\n\nAggregation of data by dimensions\n\nFinal models (marts)\n\nStar schema with a fact table and dimension tables\nUnion of OpenClassrooms and national data\nFinal flat table gathering all the data for visualizations with Looker Studio"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#key-results",
+    "href": "projects/projet-socio-demographique.html#key-results",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "Key Results",
+    "text": "Key Results\nComparing the OpenClassrooms and national populations allowed me to propose 3 recommendations to broaden the student base at OpenClassrooms:\n\nRecruit students outside the Île-de-France region by highlighting the benefits of distance learning\nMove towards a more balanced gender distribution by strengthening recruitment efforts aimed at women\nExtend recruitment to students in initial education, in addition to the career-changer audience that already makes up the majority"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#key-deliverables",
+    "href": "projects/projet-socio-demographique.html#key-deliverables",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n\nAnnotated dbt workflow\n\n\n\n\n Query to build the final flat table (SQL)\n\n\n{{config(materialized='table')}}\n\nWITH agg_annee_origine_region as (\n    SELECT \n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_region as (\n    SELECT\n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_REGION\nFROM agg_annee_origine_region\n),\n\nagg_annee_origine_genre as (\n    SELECT \n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_genre as (\n    SELECT\n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_GENRE\nFROM agg_annee_origine_genre\n),\n\nagg_annee_origine_age as (\n    SELECT \n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_age as (\n    SELECT\n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_AGE\nFROM agg_annee_origine_age\n)\n\nSELECT \n    f.ORIGINE,\n    f.ANNEE,\n    f.ID_REGION,\n    r.LIBELLE_REGION,\n    f.ID_GENRE,\n    g.LIBELLE_GENRE,\n    f.ID_CAT_AGE,\n    a.LIBELLE_CAT_AGE,\n    f.NOMBRE_ETUDIANTS,\n    r2.POURCENTAGE_AO_REGION,\n    g2.POURCENTAGE_AO_GENRE,\n    a2.POURCENTAGE_AO_AGE\nFROM {{ ref('fct_etudiant') }} f\n    LEFT JOIN {{ ref('dim_age') }} a ON f.ID_CAT_AGE = a.ID_CAT_AGE\n    LEFT JOIN {{ ref('dim_genre') }} g ON f.ID_GENRE = g.ID_GENRE\n    LEFT JOIN {{ ref('dim_region') }} r ON f.ID_REGION = r.ID_REGION\n    LEFT JOIN pourcentage_annee_origine_region r2 ON f.ID_REGION = r2.ID_REGION AND f.ANNEE = r2.ANNEE AND f.ORIGINE = r2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_genre g2 ON f.ID_GENRE = g2.ID_GENRE AND f.ANNEE = g2.ANNEE AND f.ORIGINE = g2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_age a2 ON f.ID_CAT_AGE = a2.ID_CAT_AGE AND f.ANNEE = a2.ANNEE AND f.ORIGINE = a2.ORIGINE"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#tech-stack",
+    "href": "projects/projet-socio-demographique.html#tech-stack",
+    "title": "Socio-Demographic Profile Analysis of OpenClassrooms Students",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nSQL · dbt\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html",
+    "href": "projects/projet-etude-marche.html",
+    "title": "Market Study for International Expansion",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#context",
+    "href": "projects/projet-etude-marche.html#context",
+    "title": "Market Study for International Expansion",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#approach",
+    "href": "projects/projet-etude-marche.html#approach",
+    "title": "Market Study for International Expansion",
+    "section": "Approach",
+    "text": "Approach\nCriteria analyzed:\n\nPolitical stability score\nPoultry meat consumption (kg/person/year)\nExport rate\nImport dependency rate\nPopulation\nGDP per capita\nLogistics performance index\nDistance from France (in km)\nEase of doing business score\n\nAfter cleaning and joining, the final dataset covers 117 countries and 86% of the world population (in 2017).\n\nData preparation and cleaning\n\n\nData extraction\nData cleaning\nUnivariate analysis\nStudy of correlations between variables\n\n\nPrincipal component analysis (PCA)\n\n\nData standardization\nScree plot of eigenvalues\nAnalysis of the correlation circle\nProjection of individuals onto factorial planes\n\n\nClustering\n\n\nK-means\nHierarchical agglomerative clustering (HAC)\nVisualization and analysis of clusters\nComparison of clusters using a contingency matrix"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#key-results",
+    "href": "projects/projet-etude-marche.html#key-results",
+    "title": "Market Study for International Expansion",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis identified 2 groups of countries to prioritize for the company:\n\nLogistics hubs (Belgium, Hong Kong, Netherlands): major commercial transit zones with very high export and import rates\nPremium nearby markets: economically stable countries close to France, with an import dependency rate close to 50%\n\nA differentiated commercial strategy is recommended depending on the targeted countries."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#key-deliverables",
+    "href": "projects/projet-etude-marche.html#key-deliverables",
+    "title": "Market Study for International Expansion",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n Function displaying the projection of individuals\n\n# Function displaying the projection of individuals\ndef display_factorial_planes(   X_projected, \n                                x_y, \n                                pca=None, \n                                labels = None,\n                                clusters=None, \n                                alpha=1,\n                                figsize=[10,8], \n                                marker=\".\" ):\n    \"\"\"\n    Displays the projection of individuals\n\n    Positional arguments : \n    -------------------------------------\n    X_projected : np.array, pd.DataFrame, list of list : matrix of projected points\n    x_y : list or tuple : the x,y pair of planes to display, e.g. [0,1] for F1, F2\n\n    Optional arguments : \n    -------------------------------------\n    pca : sklearn.decomposition.PCA : a fitted PCA object, used to display the variance of each component, default = None\n    labels : list or tuple : labels of the individuals to project, default = None\n    clusters : list or tuple : list of the clusters each individual belongs to, default = None\n    alpha : float in [0,1] : transparency parameter, 0=100% transparent, 1=0% transparent, default = 1\n    figsize : list or tuple : width, height pair defining the figure size in inches, default = [10,8] \n    marker : str : marker type used to represent individuals, dots, crosses, etc., default = \".\"\n    \"\"\"\n\n    # Convert X_projected to np.array\n    X_ = np.array(X_projected)\n\n    # Handle labels\n    if  labels is None : \n        labels = []\n    try : \n        len(labels)\n    except Exception as e : \n        raise e\n\n    # Check the axis variable\n    if not len(x_y) ==2 : \n        raise AttributeError(\"2 axes sont demandées\")   \n    if max(x_y )&gt;= X_.shape[1] : \n        raise AttributeError(\"la variable axis n'est pas bonne\")   \n\n    # Define x and y\n    x, y = x_y\n\n    # Initialize the figure       \n    fig, ax = plt.subplots(1, 1, figsize=figsize)\n\n    # Check whether there are clusters\n    c = None if clusters is None else clusters\n \n    # Points    \n    # plt.scatter(   X_[:, x], X_[:, y], alpha=alpha, \n    #                     c=c, cmap=\"Set1\", marker=marker)\n    sns.scatterplot(data=None, x=X_[:, x], y=X_[:, y], hue=c)\n\n    # If a pca was provided, compute the % of variance of each axis\n    if pca : \n        v1 = str(round(100*pca.explained_variance_ratio_[x]))  + \" %\"\n        v2 = str(round(100*pca.explained_variance_ratio_[y]))  + \" %\"\n    else : \n        v1=v2= ''\n\n    # Axis names, with the percentage of inertia explained\n    ax.set_xlabel(f'F{x+1} {v1}')\n    ax.set_ylabel(f'F{y+1} {v2}')\n\n    # Max x and y values\n    x_max = np.abs(X_[:, x]).max() *1.1\n    y_max = np.abs(X_[:, y]).max() *1.1\n\n    # Bound x and y\n    ax.set_xlim(left=-x_max, right=x_max)\n    ax.set_ylim(bottom= -y_max, top=y_max)\n\n    # Display horizontal and vertical lines\n    plt.plot([-x_max, x_max], [0, 0], color='grey', alpha=0.8)\n    plt.plot([0,0], [-y_max, y_max], color='grey', alpha=0.8)\n\n    # Display point labels\n    if len(labels) : \n        for i,(_x,_y) in enumerate(X_[:,[x,y]]):\n            plt.text(_x, _y+0.05, labels[i], fontsize='14', ha='center',va='center') \n\n    # Title and display\n    plt.title(f\"Projection des individus (sur F{x+1} et F{y+1})\")\n    plt.show()\n\n\n\n\nProjection of individuals on the F1 F2 plane"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#tech-stack",
+    "href": "projects/projet-etude-marche.html#tech-stack",
+    "title": "Market Study for International Expansion",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter · Machine Learning\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html",
+    "href": "projects/projet-detection-billet.html",
+    "title": "Counterfeit Banknote Detection",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#context",
+    "href": "projects/projet-detection-billet.html#context",
+    "title": "Counterfeit Banknote Detection",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#approach",
+    "href": "projects/projet-detection-billet.html#approach",
+    "title": "Counterfeit Banknote Detection",
+    "section": "Approach",
+    "text": "Approach\n\nExploratory data analysis\n\n\nUnivariate analysis (distributions, outliers using z-score and IQR)\nMultivariate analysis (correlations between variables, Mann-Whitney tests)\n\nBased on this initial analysis, 3 variables appear to be the most discriminating for detecting counterfeit banknotes: bottom margin, top margin and length.\n\nPreprocessing\n\n\nTrain/test split of the dataset (80/20)\nImputation of missing values (mean by banknote type, as less than 2.5% of values were missing)\nData standardization\n\n\nModel testing\n\n\nLogistic regression (supervised model)\nKNN (supervised model)\nRandom forest (supervised model)\nK-means (unsupervised model)\n\nFor each model, results are first analyzed with a confusion matrix (provisional, since the threshold t has not been set at this stage). The best supervised model is then selected by comparing ROC-AUC and PR-AUC scores. This model is tuned by comparing its results at different thresholds t. Finally, it is compared with the unsupervised K-means model using Accuracy, Precision, Recall and F1 scores.\n\nBuilding the application\n\n\nExport of the full pipeline (preprocessing + model) as a .joblib file\nCreation of a .py script that loads the .joblib file\n2 ways to use it:\n\nanalyze a single banknote by entering its measurements directly\nanalyze several banknotes from a .csv file"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#key-results",
+    "href": "projects/projet-detection-billet.html#key-results",
+    "title": "Counterfeit Banknote Detection",
+    "section": "Key Results",
+    "text": "Key Results\nThe best supervised model for this project is logistic regression, with a ROC-AUC score of 99.96% and a PR-AUC score of 99.98% on the test set. It also outperforms the unsupervised model (K-means), which achieves accuracy: 99.33%, precision: 99.5%, recall: 99.5% and F1 score: 99.5%."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#key-deliverables",
+    "href": "projects/projet-detection-billet.html#key-deliverables",
+    "title": "Counterfeit Banknote Detection",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n KNN model evaluation by number of neighbors k\n\n# Train the model while varying the number of neighbors k\n\nroc_auc_clf_knn_train_scores = []\npr_auc_clf_knn_train_scores = []\nroc_auc_clf_knn_test_scores = []\npr_auc_clf_knn_test_scores = []\n\nneighbors = range(1,11,2)\n\nfor k in neighbors :\n    \n    clf_knn = KNeighborsClassifier(n_neighbors=k).fit(X_train_scaled, y_train)\n\n    # Predict probabilities\n    y_train_pred_proba = clf_knn.predict_proba(X_train_scaled)[:, 1]\n    y_test_pred_proba = clf_knn.predict_proba(X_test_scaled)[:, 1]\n\n    # Compute ROC-AUC and PR-AUC scores\n    roc_auc_clf_knn_train = roc_auc_score(y_train, y_train_pred_proba)\n    pr_auc_clf_knn_train = average_precision_score(y_train, y_train_pred_proba)\n    roc_auc_clf_knn_test = roc_auc_score(y_test, y_test_pred_proba)\n    pr_auc_clf_knn_test = average_precision_score(y_test, y_test_pred_proba)\n\n    roc_auc_clf_knn_train_scores.append(roc_auc_clf_knn_train)\n    pr_auc_clf_knn_train_scores.append(pr_auc_clf_knn_train)\n    roc_auc_clf_knn_test_scores.append(roc_auc_clf_knn_test)\n    pr_auc_clf_knn_test_scores.append(pr_auc_clf_knn_test)\n\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_train_scores, marker = 'o', label = 'roc_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_train_scores, marker = 'o', label = 'pr_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_test_scores, marker = 'o', label = 'roc_auc_clf_knn_test')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_test_scores, marker = 'o', label = 'pr_auc_clf_knn_test')\n\nplt.legend()\nplt.title('Evolution des scores ROC-AUC et PR-AUC train et test en fonction du nombre de voisins k')\nplt.xlabel('Nombre de voisins k')\nplt.ylabel('Score')\nplt.show()\n\n\n\n\nKNN model evaluation\n\n\n\n\n Function for predicting several banknotes in the application\n\ndef predire_plusieurs_billets(pipeline,lien_csv):\n    \n    with open(lien_csv, 'r', encoding='utf-8') as f:\n        premiere_ligne = f.readline()\n        \n    separateur = ';' if ';' in premiere_ligne else ','\n    \n    X_raw = pd.read_csv(lien_csv, sep=separateur)\n\n    colonnes_attendues = [\"diagonal\", \"height_left\", \"height_right\", \"margin_low\", \"margin_up\", \"length\"]\n\n    X_filled = X_raw.dropna(subset=colonnes_attendues)\n\n    nb_lignes_supp = X_raw.shape[0] - X_filled.shape[0]\n    \n    if nb_lignes_supp &gt; 0 : \n        print(f\"\\nAttention : {nb_lignes_supp} billet(s) du fichier csv contienne(nt) des valeurs manquantes. Il n'est pas possible de détecter si ce(s) billet(s) sont vrai(s) ou faux. Il(s) a/ont donc été supprimé(s) du tableau de résultats.\\n\")\n\n    X = X_filled[colonnes_attendues]\n\n    y = pipeline.predict(X)\n\n    df_resultat = X_filled.copy()\n    df_resultat['Résultat_binaire'] = y\n    df_resultat['Résultat'] = df_resultat['Résultat_binaire'].map({False : \"Faux billet\", True : 'Vrai billet'})\n\n    return df_resultat"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#tech-stack",
+    "href": "projects/projet-detection-billet.html#tech-stack",
+    "title": "Counterfeit Banknote Detection",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter · Machine Learning\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Agnès Drouard\n\n\nIndustry-focused Data Analyst with 10 years of experience in supply chain and quality (procurement, production scheduling, traceability, raw-material risk), I turn your production and logistics data into reliable decision-making tools.\nHaving dealt with these challenges firsthand, I understand the realities of the business. I have built and automated raw-material risk databases and set up supply chain KPIs (procurement and production scheduling for around ten plants)."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Industry-focused Data Analyst with 10 years of experience in supply chain and quality (procurement, production scheduling, traceability, raw-material risk), I turn your production and logistics data into reliable decision-making tools."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nData transformation: SQL, dbt, Snowflake\nBI: Power BI, Power Query, DAX\nAnalysis & automation: Python (Pandas, NumPy, Matplotlib), Jupyter, Excel (advanced, PivotTables, VBA)\nCloud & versioning: AWS (Lambda, SQS), Git"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "About",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\nData Analyst - Strapp Mobile\nInternship · March 2026 - April 2026\n\n\n\nStatistical modeling and scoring (Jupyter) : applied a multi-criteria methodology (AHP – Analytic Hierarchy Process) to score data usage and automate mobile plan recommendations\nCloud deployment (AWS) : Python scripts (GitLab) connected to MongoDB, automating data processing via Lambda and SQS\n\n\n\n\n\n\nSupply Manager - Val Nantais\nPermanent contract · July 2024 - November 2024\n\n\n\nAnalyzed supply requirements and modeled schedules based on contractual and operational constraints\nMonitored performance indicators (lead times, disputes, costs)\nCoordinated flows (transport, packaging) and off-contract purchasing\n\n\n\n\n\n\nScheduling Manager - Eurial\nPermanent contract · February 2021 - June 2024\n\n\n\nDeveloped a supply performance indicator and modeled optimization scenarios (6-month project)\nBuilt and monitored the weekly supply program (analysis of volumes, constraints, and variances)\nMonitored volume swap agreements and analyzed variances\nOn-call rotation for scheduling and transport operations\n\n\n\n\n\n\nQuality Assistant - LDC Traiteur\nPermanent contract · October 2014 - April 2019\n\n\n\nPerformed functional testing of the internal raw-material management software\nManaged supplier and raw-material data\nConducted supplier audits and monitored quality indicators"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nHave a data analysis project, a question about my work, or a collaboration opportunity?\n\n\n\n\n\n\n Nantes & Remote\n agnesdrouard90@gmail.com\n LinkedIn\n GitHub\n   Malt"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html",
+    "href": "projects/projet-bdd-immobiliere.html",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#context",
+    "href": "projects/projet-bdd-immobiliere.html#context",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#approach",
+    "href": "projects/projet-bdd-immobiliere.html#approach",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "Approach",
+    "text": "Approach\n\nData Analysis\n\n\nIdentification of relevant columns\n\nData cleaning and standardization\n\nCreation of the data dictionary\n\n\nRelational Schema Design\n\n\n3NF Normalization\n\nPrimary and foreign keys definition\n\nCardinality management\n\n\nSQLite Database Creation\n\n\nTable creation\n\nCSV imports\n\nError handling and resolution\n\n\nSQL Queries\n\n\nAggregations\n\nMultiple JOINs\n\nSubqueries\n\nWindow functions (RANK)"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#key-results",
+    "href": "projects/projet-bdd-immobiliere.html#key-results",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "Key Results",
+    "text": "Key Results\nExamples of analyses performed:\n\nNumber of apartment sales by region\n\nDistribution of apartment sales by number of rooms\n\nTop 10 departments with the highest price per m²\n\nList of municipalities with at least 50 sales\n\nAverage property value for the top 3 municipalities per department"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#key-deliverables",
+    "href": "projects/projet-bdd-immobiliere.html#key-deliverables",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n\nRelational schema\n\n\n\n\n Top 3 highest average property values by municipality (departments 06, 13, 33, 59, and 69) (SQL)\n\n\nSELECT * \nFROM (\n    SELECT *,\n        RANK() OVER (\n            PARTITION BY join2.Code_departement\n            ORDER BY join2.Moyenne_Valeur_Foncière DESC\n        ) AS rank\n    FROM (\n        SELECT \n            c.Nom_commune, \n            c.Code_departement,\n            ROUND(AVG(join1.Valeur_fonciere), 2) AS Moyenne_valeur_foncière\n        FROM (\n            SELECT * \n            FROM Bien b \n            JOIN Vente v ON b.ID_bien = v.ID_bien\n        ) join1\n        JOIN Commune c \n            ON c.Code_departement_code_commune = join1.COde_departement_code_commune\n        WHERE c.Code_departement IN ('06', '13', '33', '59', '69')\n        GROUP BY c.Nom_commune\n    ) join2\n) \nWHERE rank &lt;= 3;\n\n\n\n\nQuery result"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#tech-stack",
+    "href": "projects/projet-bdd-immobiliere.html#tech-stack",
+    "title": "Real Estate Database Creation and Analysis",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nSQL\nView full project on GitHub →\nBack to projects list →"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html",
+    "href": "projects/projet-etude-eau-potable.html",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#context",
+    "href": "projects/projet-etude-eau-potable.html#context",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#approach",
+    "href": "projects/projet-etude-eau-potable.html#approach",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "Approach",
+    "text": "Approach\nThe dashboard has 3 main pages:\n\nGlobal\n\n\nGlobal KPI showing the number of deaths linked to unsafe water.\nAggregated time-series charts for a macro-level comparison between continents.\nDynamic world map.\n\n\nContinent\n\n\nQualitative segmentation by Political Stability (“Stable country” / “Unstable country”).\nCombined histogram showing the distribution of water access by country according to population size.\nScatter plot crossing political stability and water policy effectiveness.\n\n\nCountry\n\n\nMortality rate breakdown by gender.\nAnalysis of the evolution over time (2000-2017) of “basic” vs “safely managed” services.\nLine and stacked bar charts differentiating access to water services in urban and rural areas."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#key-results",
+    "href": "projects/projet-etude-eau-potable.html#key-results",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis led to the following conclusions:\n\n870,000 people died in 2016 as a result of consuming unsafe water\nAfrica is the continent with the lowest percentages of access to water worldwide\nThe United Republic of Tanzania had an average water-related mortality rate in 2016 of 38.4 per 100,000 inhabitants"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#key-deliverables",
+    "href": "projects/projet-etude-eau-potable.html#key-deliverables",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n\nConstellation schema\n\n\n\n\n DAX measure calculating the average rate of access to basic drinking water services\n\naverage_basic_drinking_services_rate_if_mortality = \nCALCULATE(\n    AVERAGE(BasicAndSafelyManagedDrinkingWaterServices[Population using at least basic drinking-water services (%)]),\n    BasicAndSafelyManagedDrinkingWaterServices[Zone] = \"Total\",\n    KEEPFILTERS(MortalityRateAttributedToWater)\n)"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#tech-stack",
+    "href": "projects/projet-etude-eau-potable.html#tech-stack",
+    "title": "Analysis of Global Access to Safe Drinking Water",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPower BI · DAX · Power Query\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html",
+    "href": "projects/projet-gestion-boutique.html",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#context",
+    "href": "projects/projet-gestion-boutique.html#context",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#approach",
+    "href": "projects/projet-gestion-boutique.html#approach",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "Approach",
+    "text": "Approach\n\nData cleaning\n\n\nFixing inconsistencies (stock and stock_status)\nRemoving outliers and invalid values (negative prices, purchase prices higher than selling prices, duplicates, negative sales, empty rows)\nHandling non-compliant identifiers\nHarmonizing types and formats\n\n\nConsolidation\n\n\nERP - Link table - Web join\nChecking matches between identifiers\n\n\nAnalysis\n\n\nTotal revenue and revenue by product\nTop products and 80/20 analysis\nOutlier detection\nStock analysis\nMargin analysis\nCorrelation matrix"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#key-results",
+    "href": "projects/projet-gestion-boutique.html#key-results",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis led to the following conclusions:\n\n52% of products generate 80% of revenue\nStock value = 2.1 times monthly revenue =&gt; financial risk\nMinimum margin: 55% and maximum margin: 130% =&gt; high"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#key-deliverables",
+    "href": "projects/projet-gestion-boutique.html#key-deliverables",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\nCorrelation heatmap between variables\n\n############################\n# Correlation analysis     #\n############################\n\n# Create a correlation heatmap with the stock, sales and price variables\ndf_corr = df_merge[['stock_quantity','total_sales','prix_ht','prix_achat_ht','taux_marge']]\ncorr = df_corr.corr(method='pearson')\nprint(corr)\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1)\nplt.show()\n# A mask can also be created to display only half of the heatmap\nones = np.ones_like(corr) # create an array of 1s with the same shape as the studied df\nmask = np.triu(ones,k=0).astype(bool) # replace the lower part of this array \n# with 0s, keeping the diagonal as 1, then convert the 0s and 1s to booleans \n# so that the heatmap can read them\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1,mask=mask) # add the mask to the \n# heatmap. All cells = True are hidden.\nplt.show()\n\n\n\n\nHalf heatmap of correlations between variables"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#tech-stack",
+    "href": "projects/projet-gestion-boutique.html#tech-stack",
+    "title": "Optimizing a Shop’s Data Management",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html",
+    "href": "projects/projet-sousnutrition.html",
+    "title": "Study of Global Food Supply",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#context",
+    "href": "projects/projet-sousnutrition.html#context",
+    "title": "Study of Global Food Supply",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#approach",
+    "href": "projects/projet-sousnutrition.html#approach",
+    "title": "Study of Global Food Supply",
+    "section": "Approach",
+    "text": "Approach\nThe project analyzes undernourishment worldwide between 2013 and 2017, as part of a simulated mission within the FAO. The goal is to understand:\n\nglobal food availability,\nresource use,\nthe distribution of resources between countries,\nthe role of food aid"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#key-results",
+    "href": "projects/projet-sousnutrition.html#key-results",
+    "title": "Study of Global Food Supply",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis led to the following conclusions:\n\n535.7 million people are undernourished, or 7.1% of the world population\nGlobal food availability would have been enough to feed 7.2 billion people\nThe countries receiving the most aid are not those with the highest undernourishment rates"
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#key-deliverables",
+    "href": "projects/projet-sousnutrition.html#key-deliverables",
+    "title": "Study of Global Food Supply",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\nCalculating the theoretical number of people who can be fed with plant-based products in Python\n\n# Transfer the plant-based data into a new dataframe\ndispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]\ndispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()\ndispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')\n\n# Compute the number of kcal available from plant-based products\ndispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']\ndispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()\nprint(\"En 2017, la disponibilité en produits végétaux s’élevait à\",round(dispo_mondiale_vege/1000000000,1), \"milliards de kcal/jour à l’échelle mondiale.\")\n\n# Compute the number of people who can be fed with plant-based products\nnb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940\npourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)\nprint(\"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir\", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),\"milliards d’humains (soit près de\", pourcentage_population,\"% de la population mondiale).\")\n\n\n\n\n\n\n\nTipExecution output\n\n\n\nIn 2017, the availability of plant-based products amounted to 17,449.5 billion kcal/day worldwide.\nBased on an average requirement of 2,940 kcal/day/person, global plant-based production alone would have been enough to feed 5.9 billion people (nearly 78.7% of the world population)."
+  },
+  {
+    "objectID": "projects/projet-sousnutrition.html#tech-stack",
+    "href": "projects/projet-sousnutrition.html#tech-stack",
+    "title": "Study of Global Food Supply",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html",
+    "href": "projects/projet-suivi-avancement.html",
+    "title": "Project Progress Tracking",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html#context",
+    "href": "projects/projet-suivi-avancement.html#context",
+    "title": "Project Progress Tracking",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html#approach",
+    "href": "projects/projet-suivi-avancement.html#approach",
+    "title": "Project Progress Tracking",
+    "section": "Approach",
+    "text": "Approach\nThe dashboard features 6 pages:\n\nGlobal Performance\n\n\nOverall variance\n\nPlanned vs. actual bar charts\n\n\nProjects on Alert\n\n\nList of projects with a variance exceeding 15%\n\nBreakdown by indicator\n\n\nWorld Map\n\n\nAverage delay by country\n\n\nProject Timeline\n\n\nProject selection from a dropdown list\n\nPlanned vs. actual project phase visualization\n\n\nAdditional Visualizations\n\n\nQ&A (Natural language querying)\n\n\nProject Details\n\n\nDetailed project table\n\nDynamic filtering linked to the “Projects on Alert” page"
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html#key-results",
+    "href": "projects/projet-suivi-avancement.html#key-results",
+    "title": "Project Progress Tracking",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis led to the following conclusions:\n\nThe company has an overall performance variance of approximately 2.5%\n\nThe performance gap is primarily driven by costs: €62M actual vs. €56M planned\n\nEgypt and Lebanon exhibit the highest cumulative delays"
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html#key-deliverables",
+    "href": "projects/projet-suivi-avancement.html#key-deliverables",
+    "title": "Project Progress Tracking",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n\nSnowflake schema\n\n\n\n\n DAX measure calculating the distinct number of projects on alert\n\nNb_projets_en_alerte =\nCALCULATE(\n    DISTINCTCOUNT(Projects[Project ID]),\n    Projects[Projets_en_alerte] = \"Oui\"\n)"
+  },
+  {
+    "objectID": "projects/projet-suivi-avancement.html#tech-stack",
+    "href": "projects/projet-suivi-avancement.html#tech-stack",
+    "title": "Project Progress Tracking",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nPower BI · DAX · Power Query\nView the full project on GitHub →\nBack to projects →"
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html",
+    "href": "projects/projet-ventes-librairie.html",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html#context",
+    "href": "projects/projet-ventes-librairie.html#context",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "",
+    "text": "This project was carried out as part of my Data Analyst training at OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html#approach",
+    "href": "projects/projet-ventes-librairie.html#approach",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "Approach",
+    "text": "Approach\n\nCustomer Profiling\n\n\nIdentification of a VIP customer segment\n\nGender distribution (52% women / 48% men)\n\nAge distribution (over-representation of 18-year-olds =&gt; minimum registration age)\n\n\nTrend Analysis\n\n\nStable monthly revenue with no marked seasonality\n\nStabilized transaction volume\n\nComplete halt in new customer acquisition from February 2022 onwards\n\n\nProduct Performance\n\n\nIdentification of 24 unsold products =&gt; potential catalog removal\n\nCategory breakdown (0 = entry-level, 1 = mid-range, 2 = premium)\n\n\nCustomer Behavior\n\n\nGender vs. Category: Significant association (Chi-Square)\n\nAge vs. Total Spending: Weak correlation (Spearman)\n\nAge vs. Purchase Frequency: Weak correlation (Spearman)\n\nAge vs. Average Basket Size: Moderate correlation (Spearman)\n\nAge vs. Category: Significant association (Kruskal-Wallis)"
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html#key-results",
+    "href": "projects/projet-ventes-librairie.html#key-results",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "Key Results",
+    "text": "Key Results\nThe analysis yielded the following strategic recommendations:\n\nTarget women aged 35–55 with category 1 (mid-range) products\n\nDevelop targeted offerings for 20–30-year-olds with premium products\n\nOptimize the product catalog (remove unsold or low-performing items)\n\nRelaunch customer acquisition campaigns"
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html#key-deliverables",
+    "href": "projects/projet-ventes-librairie.html#key-deliverables",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "Key Deliverables",
+    "text": "Key Deliverables\n\n\n Chi-Square Test of Independence: Gender vs. Product Categories\n\n# Compute Chi-Square test\nchi2_stat, p_value, dof, expected = chi2_contingency(contingency_table)\n\n# Hypothesis H0: Variables are independent\n# Hypothesis H1: Variables are dependent\n# Significance threshold\nthreshold = 0.05\n\nprint(f\"Chi-Square Statistic: {round(chi2_stat, 2)}\")\nprint(f\"p-value: {p_value}\")\nif p_value &lt; threshold:\n    print(\"The p-value is below the threshold: H0 is rejected. The relationship between gender and category is statistically significant.\")\nelse:\n    print(\"The p-value is above the threshold: H0 is not rejected.\")\n\n\n\n\n\n\n\nTipExecution output\n\n\n\nChi-Square Statistic: 22.67\np-value: 1.1955928116587024e-05\nThe p-value is below the selected threshold: H0 is rejected, and the relationship between gender and product category is statistically significant.\n\n\n\n\n\nResiduals Heatmap - Gender and Product Categories"
+  },
+  {
+    "objectID": "projects/projet-ventes-librairie.html#tech-stack",
+    "href": "projects/projet-ventes-librairie.html#tech-stack",
+    "title": "Online Bookstore Sales Analysis",
+    "section": "Tech Stack",
+    "text": "Tech Stack\npython · Jupyter\nView the full project on GitHub →\nBack to projects →"
+  }
+]

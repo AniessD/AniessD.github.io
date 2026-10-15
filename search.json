@@ -1,435 +1,43 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projets",
+    "objectID": "projects/projet-ventes-librairie.html",
+    "href": "projects/projet-ventes-librairie.html",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "",
-    "text": "python\n\nJupyter\n\nAWS\n\nExpérience pro\n\n\n\nIdentification et chiffrage des opportunités d’optimisation de forfait\n\n\n\nApr 1, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects.html#expérience-professionnelle",
-    "href": "projects.html#expérience-professionnelle",
-    "title": "Projets",
+    "objectID": "projects/projet-ventes-librairie.html#contexte",
+    "href": "projects/projet-ventes-librairie.html#contexte",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "",
-    "text": "python\n\nJupyter\n\nAWS\n\nExpérience pro\n\n\n\nIdentification et chiffrage des opportunités d’optimisation de forfait\n\n\n\nApr 1, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects.html#projets-de-formation",
-    "href": "projects.html#projets-de-formation",
-    "title": "Projets",
-    "section": "Projets de formation",
-    "text": "Projets de formation\n\n\n\n\n\n\n\n\n\n\nVeille métier et technologique : Méthodes de gestion des stocks\n\n\n\nNotion\n\nFeedly\n\nFormation\n\n\n\nRéalisation d’une veille dans l’objectif d’améliorer un projet existant\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDétection de faux billets\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nFormation\n\n\n\nRéalisation d’une application de détection automatique de faux billets à partir de données géométriques\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude de marché pour développement à l’international\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nFormation\n\n\n\nAnalyse du marché international de la volaille pour définir un pays ou un groupe de pays propice au développement d’une entreprise à l’export.\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse de l’accès mondial à l’eau potable\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nFormation\n\n\n\nConception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des profils socio-démographiques des étudiants d’OpenClassrooms\n\n\n\ndbt\n\nSQL\n\nFormation\n\n\n\nComparaison des profils des étudiants d’OpenClassrooms avec des étudiants au niveau national\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des ventes d’une librairie en ligne\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nAnalyse des performances globales du site, des comportements clients, des produits stratégiques (top/flop) et propositions d’axes d’amélioration marketing.\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuivi de l’avancement de projets\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nFormation\n\n\n\nConception d’un tableau de bord interactif permettant à une entreprise de visualiser l’avancement de ses projets.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimisation de la gestion des données d’une boutique\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nAmélioration de la qualité des données d’une boutique afin de fournir les indicateurs clés.\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCréation et utilisation d’une base de données immobilière\n\n\n\nSQL\n\nFormation\n\n\n\nCréation d’une bdd immobilière complète à partir de données publiques pour analyser le marché immobilier français.\n\n\n\nNov 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude sur l’alimentation dans le monde\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nY a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/projet-veille.html",
-    "href": "projects/projet-veille.html",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
-  },
-  {
-    "objectID": "projects/projet-veille.html#contexte",
-    "href": "projects/projet-veille.html#contexte",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
-  },
-  {
-    "objectID": "projects/projet-veille.html#démarche",
-    "href": "projects/projet-veille.html#démarche",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "objectID": "projects/projet-ventes-librairie.html#démarche",
+    "href": "projects/projet-ventes-librairie.html#démarche",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "Démarche",
-    "text": "Démarche\nL’objectif est de réaliser une veille métier et technologique précise afin d’améliorer un projet existant : Optimisation de la gestion des données d’une boutique.\nDans ce projet, il a été mis en évidence une problématique de gestion des stocks. Cette veille doit donc répondre à ce besoin précis : Centraliser, analyser et évaluer des méthodes de gestion des stocks\nLa démarche est la suivante :\n\n1. Veille\n\nLa veille brute est réalisée sur Feedly grâce aux suivis de différentes sources en lien avec la gestion des stocks\nDès qu’un article ou autre élément est considéré comme pertinent, il est envoyé vers la base de données Méthodes de gestion des stocks en 1 clic via l’extension Notion Web Clipper\nL’article arrive automatiquement dans la liste avec le statut A résumer\n\n\n\n2. Statut de suivi\n\nA résumer : Article capturé, en attente de lecture approfondie et prise de notes\nSynthétisé : Méthode analysée, les différents éléments d’évaluation sont complétés\nNon retenu : Méthode analysée mais non retenue pour le projet (explications dans Limites)\n\n\n\n3. Traitement\nChaque entrée doit être résumée avec les éléments suivants pour pouvoir évaluer son utilité :\n\nType : S’agit-il d’une méthode Métier (ex : Wilson) ou d’une méthode Technologique (ex : script Python)\nDescription : Résumé court de l’article expliquant la méthode\nDifficulté de mise en place : Faible / Moyenne / Difficile, à évaluer en fonction du projet\nFiabilité : Faible / Moyenne / Forte, à évaluer en fonction du projet\nLimites : Description courte des limites de la méthode au regard du projet"
+    "text": "Démarche\n\nProfil des clients\n\n\nIdentification d’un groupe VIP\n\nRépartition par genre (52% femmes / 48% hommes)\n\nRépartition par âge (sur-représentation des 18 ans =&gt; âge mini d’inscription)\n\n\nEvolution dans le temps\n\n\nCA mensuel stable, sans saisonnalité marquée\n\nNombre de transactions stabilisé\n\nArrêt total de recrutement de nouveaux clients à partir de février 2022\n\n\nProduits\n\n\n24 produits invendus =&gt; potentielle suppression\n\nAnalyse par catégories (0 = entrée de gamme, 1 = milieu de gamme, 2 = premium)\n\n\nComportement clients\n\n\nGenre - Catégorie : lien significatif (Chi-2)\n\nAge - Dépenses : corrélation faible (Spearman)\n\nAge - Fréquence d’achat : corrélation faible (Spearman)\n\nAge - Panier moyen : corrélation modérée (Spearman)\n\nAge - Catégorie : lien significatif (Kruskal-Wallis)"
   },
   {
-    "objectID": "projects/projet-veille.html#résultats",
-    "href": "projects/projet-veille.html#résultats",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "objectID": "projects/projet-ventes-librairie.html#résultats",
+    "href": "projects/projet-ventes-librairie.html#résultats",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "Résultats",
-    "text": "Résultats\nLa veille est concrétisée par la livraison d’une base de données Notion comprenant la liste des sources étudiées lors de la veille, ainsi que leurs utilisations potentielles dans le projet. Ce travail s’inscrit dans le cadre d’un projet global de formalisation incluant un cahier des charges fonctionnel, un guide d’utilisation et un compte rendu final.\n\n\n\nSommaire du projet complet sur Notion"
+    "text": "Résultats\nL’analyse a permis de proposer les recommandations suivantes :\n\nCibler les femmes de 35-55 ans avec les produits de catégorie 1\n\nDévelopper une offre pour les 20-30 ans avec les produits premium\n\nRevoir le cataglogue (produits invendus ou très peu vendus)\n\nRelancer acquisition client"
   },
   {
-    "objectID": "projects/projet-veille.html#réalisations",
-    "href": "projects/projet-veille.html#réalisations",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "objectID": "projects/projet-ventes-librairie.html#réalisations",
+    "href": "projects/projet-ventes-librairie.html#réalisations",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "Réalisations",
-    "text": "Réalisations"
+    "text": "Réalisations\n\n\nTest du Chi-2 entre genre et catégories de produits\n\n# Calculer le test du Chi-2\nchi2_stat, p_value, dof, expected = chi2_contingency(contingency_table)\n\n#Hypothèse H0 : les variables sont indépendantes\n#Hypothèse H1 : Les variables sont dépendantes\n#Seuil choisi \nseuil = 0.05\n\nprint(f\"Statistique Chi-2: {round(chi2_stat,2)}\")\nprint(f\"Valeur p: {p_value}\")\nif p_value &lt; seuil :\n    print(\"La p-value est inférieure au seuil choisi, l'hypothèse H0 est rejetée et le lien entre genre et catégorie n'est probablement pas lié au hasard.\")\nelse : \n    print(\"La p-value est supérieure au seuil choisi, l'hypothèse H0 n'est pas rejettée et le lien entre genre et catégorie pourrait être dû au hasard.\")\n\n\n\n\n\n\n\nAstuceSortie d’exécution\n\n\n\nStatistique Chi-2: 22.67\nValeur p: 1.1955928116587024e-05\nLa p-value est inférieure au seuil choisi, l’hypothèse H0 est rejetée et le lien entre genre et catégorie n’est probablement pas lié au hasard.\n\n\n\n\n\nHeatmap des résidus - Genre et catégories de produits"
   },
   {
-    "objectID": "projects/projet-veille.html#stack",
-    "href": "projects/projet-veille.html#stack",
-    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
-    "section": "Stack",
-    "text": "Stack\nNotion · Feedly\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-stage.html",
-    "href": "projects/projet-stage.html",
-    "title": "Optimisation des consommations de data",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
-  },
-  {
-    "objectID": "projects/projet-stage.html#contexte",
-    "href": "projects/projet-stage.html#contexte",
-    "title": "Optimisation des consommations de data",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
-  },
-  {
-    "objectID": "projects/projet-stage.html#démarche",
-    "href": "projects/projet-stage.html#démarche",
-    "title": "Optimisation des consommations de data",
-    "section": "Démarche",
-    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\n3 sujets principaux analysés :\n\nHors-forfait\nSurconsommation de data\nSous-consommation de data\n\n\nPremières réflexions pour caractériser ces situations en fonction de critères :\n\nOccasionnel / Fréquent / Régulier\nNombre de mois / Fréquence moyenne / Nombre de mois consécutif\n\n\n\nMéthodologie de scoring\n\nDéveloppement d’un algorithme de scoring par carte SIM pour identifier les profils d’usage (surconsommation / sous-consommation) et recommander automatiquement le forfait le plus adapté.\nCritères retenus pour le score :\n- Nombre de mois\n- Fréquence\n- Dernier mois\n- Jour de dépassement (surconsommation)\n- Proportion de dépassement (surconsommation)\n- Proportion sous-consommation (sous-consommation)\n\nPrototype\n\nExpérimentation :\n- Jupyter comme laboratoire pour validation de la méthode de scoring\n- Création de la méthode de proposition de forfait puis vérification de sa cohérence\nFlexibilité :\n- Tous les éléments de calcul sont paramétrables pour pouvoir adapter l’algo à toutes les situations"
-  },
-  {
-    "objectID": "projects/projet-stage.html#résultats",
-    "href": "projects/projet-stage.html#résultats",
-    "title": "Optimisation des consommations de data",
-    "section": "Résultats",
-    "text": "Résultats\nLe projet s’est concrétisé par la livraison d’un module automatisé d’analyse et d’optimisation des forfaits. Voici son intégration au sein de l’infrastructure globale de Strapp Mobile :\n\n\n\nArchitecture"
-  },
-  {
-    "objectID": "projects/projet-stage.html#réalisations",
-    "href": "projects/projet-stage.html#réalisations",
-    "title": "Optimisation des consommations de data",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nFonction lambda\n\n\n\n\n Fonction de calcul du jour de dépassement en cas de surconsommation de data\n\ndef calcul_jour_depassement(df_cdr, df_cartessim, dernier_forfait):\n    cdr_data = df_cdr.loc[df_cdr['type'] == 'data',['date', 'dataKo', 'iccid']]\n    del df_cdr\n\n    # Lien avec id cartes sim (inner join pour exclure les iccid inconnus)\n    sim_iccid = df_cartessim[['_id', 'iccid_text']]\n    cdr_data = pd.merge(cdr_data, sim_iccid, left_on='iccid', right_on='iccid_text', how='inner')\n    cdr_data = cdr_data[['date', 'dataKo', '_id']]\n\n    # Calcul somme cumulée de data consommée par mois\n    cdr_data = cdr_data.sort_values(['_id', 'date'])\n    cdr_data['Mois concerné'] = cdr_data['date'].dt.to_period('M').dt.to_timestamp()\n    cdr_data['data_cumsum_ko'] = cdr_data.groupby(['_id', 'Mois concerné'])['dataKo'].cumsum()\n    cdr_data.drop(columns='dataKo', inplace=True)\n    cdr_data['data_cumsum_go'] = round(cdr_data['data_cumsum_ko'] / config_base.KO_PAR_GO, 2)\n    cdr_data.drop(columns='data_cumsum_ko', inplace=True)\n\n    # Lien avec forfait utilisé (pour la surconsommation, on étudie la conso sur la période entière par rapport au dernier forfait, même si le forfait a changé entre temps)\n    cdr_data = pd.merge(cdr_data, dernier_forfait[['SIM', 'data_go_number']], left_on='_id', right_on='SIM', how='inner')\n    cdr_data = cdr_data[['SIM', 'date', 'data_cumsum_go', 'data_go_number']]\n\n    # Flag puis filtre sur lignes où la somme cumulée de la conso dépasse le forfait\n    mask = cdr_data['data_cumsum_go'] &gt;= cdr_data['data_go_number'] * config_surconsommation.seuil_surconso\n    cdr_data = cdr_data.loc[mask, ['SIM', 'date']]\n\n    # Isolement du jour\n    cdr_data['jour_depassement'] = cdr_data['date'].dt.day\n\n    # Création df jour dépassement par carte sim (avec quantile configuré)\n    jour_depassement = cdr_data.groupby(\"SIM\")['jour_depassement'].quantile(config_surconsommation.percentile_jour_depassement).reset_index(name=\"jour_depassement\")\n\n    return jour_depassement"
-  },
-  {
-    "objectID": "projects/projet-stage.html#stack",
-    "href": "projects/projet-stage.html#stack",
-    "title": "Optimisation des consommations de data",
-    "section": "Stack",
-    "text": "Stack\npython · Jupyter · AWS\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html",
-    "href": "projects/projet-socio-demographique.html",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html#contexte",
-    "href": "projects/projet-socio-demographique.html#contexte",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html#démarche",
-    "href": "projects/projet-socio-demographique.html#démarche",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "Démarche",
-    "text": "Démarche\nL’architecture du projet dans dbt est le suivant :\n\nModèles staging (stg)\n\nNettoyage des données sources (OpenClassrooms et Nationales)\nNormalisation des noms de colonnes\n\nModèle intermédiaires (int)\n\nAgrégation des données par dimensions\n\nModèles finaux (marts)\n\nStructure en étoiles avec une table des faits et des tables de dimensions\nUnion des données OpenClassrooms et Nationales\nTable plate finale regroupant toutes les données pour visualisations avec Looker Studio"
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html#résultats",
-    "href": "projects/projet-socio-demographique.html#résultats",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "Résultats",
-    "text": "Résultats\nLa comparaison des populations entre OpenClassrooms et national m’a permis de proposer 3 recommandations pour développer le panel d’étudiants chez OpenClassrooms :\n\nRecruter des étudiants hors Ile-de-France en présentant les atouts de le formation à distance\nTendre vers une répartition plus équilibrée entre hommes et femmes en renforçant les actions de recrutement auprès des femmes\nÉlargir le recrutement vers des étudiants en formation initiale, en complément du public en reconversion déjà majoritaire"
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html#réalisations",
-    "href": "projects/projet-socio-demographique.html#réalisations",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nWorkflow commenté\n\n\n\n\n Requête pour obtenir la table plate finale (SQL)\n\n\n{{config(materialized='table')}}\n\nWITH agg_annee_origine_region as (\n    SELECT \n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_region as (\n    SELECT\n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_REGION\nFROM agg_annee_origine_region\n),\n\nagg_annee_origine_genre as (\n    SELECT \n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_genre as (\n    SELECT\n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_GENRE\nFROM agg_annee_origine_genre\n),\n\nagg_annee_origine_age as (\n    SELECT \n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_age as (\n    SELECT\n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_AGE\nFROM agg_annee_origine_age\n)\n\nSELECT \n    f.ORIGINE,\n    f.ANNEE,\n    f.ID_REGION,\n    r.LIBELLE_REGION,\n    f.ID_GENRE,\n    g.LIBELLE_GENRE,\n    f.ID_CAT_AGE,\n    a.LIBELLE_CAT_AGE,\n    f.NOMBRE_ETUDIANTS,\n    r2.POURCENTAGE_AO_REGION,\n    g2.POURCENTAGE_AO_GENRE,\n    a2.POURCENTAGE_AO_AGE\nFROM {{ ref('fct_etudiant') }} f\n    LEFT JOIN {{ ref('dim_age') }} a ON f.ID_CAT_AGE = a.ID_CAT_AGE\n    LEFT JOIN {{ ref('dim_genre') }} g ON f.ID_GENRE = g.ID_GENRE\n    LEFT JOIN {{ ref('dim_region') }} r ON f.ID_REGION = r.ID_REGION\n    LEFT JOIN pourcentage_annee_origine_region r2 ON f.ID_REGION = r2.ID_REGION AND f.ANNEE = r2.ANNEE AND f.ORIGINE = r2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_genre g2 ON f.ID_GENRE = g2.ID_GENRE AND f.ANNEE = g2.ANNEE AND f.ORIGINE = g2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_age a2 ON f.ID_CAT_AGE = a2.ID_CAT_AGE AND f.ANNEE = a2.ANNEE AND f.ORIGINE = a2.ORIGINE"
-  },
-  {
-    "objectID": "projects/projet-socio-demographique.html#stack",
-    "href": "projects/projet-socio-demographique.html#stack",
-    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
-    "section": "Stack",
-    "text": "Stack\nSQL · dbt\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html",
-    "href": "projects/projet-etude-marche.html",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html#contexte",
-    "href": "projects/projet-etude-marche.html#contexte",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html#démarche",
-    "href": "projects/projet-etude-marche.html#démarche",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "Démarche",
-    "text": "Démarche\nCritères analysés :\n\nScore de stabilité politique\n\nConsommation de viande de volailles (kg/personne/an)\n\nTaux d’exportation\n\nTaux de dépendance à l’importation\n\nNombre d’habitants\n\nPIB par habitant\n\nIndice de performance logistique\n\nDistance avec la France (en km)\n\nScore de climat des affaires\n\nLe dataset final après nettoyage et jointures représentent 117 pays et 86% de la population (en 2017).\n\nPréparation et nettoyage des données\n\n\nExtraction des données\n\nNettoyage des données\n\nAnalyses univariées\n\nEtude des corrélations entre variables\n\n\nAnalyse en composantes principales (ACP)\n\n\nStandardisation des données\n\nEtude de l’éboulis des valeurs propores\n\nAnalyse du cercle des corrélations\n\nProjection des individus sur les plans factoriels\n\nClustering\n\n\nK-means\n\n\n\nClassification hiérarchique ascendante (CAH)\n\nVisualisation et analyse des clusters\n\nComparaison des clusters via une matrice de contingence"
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html#résultats",
-    "href": "projects/projet-etude-marche.html#résultats",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "Résultats",
-    "text": "Résultats\nL’analyse a mis en évidence 2 groupes de pays à prioriser pour l’entreprise :\n\nhubs logistiques (Belgique, Hong-Kong, Pays-Bas) : Zones de transit commercial majeures avec des taux d’exportation et d’importation très importants\n\nMarché premium à proximité : Pays économiquement stables, proches de la France avec un taux de dépendance aux importations proche de 50%\n\nUne stratégie commerciale différenciée est recommandée en fonction des pays ciblés."
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html#réalisations",
-    "href": "projects/projet-etude-marche.html#réalisations",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n Fonction permettant d’afficher la projection des individus k\n\n#Fonction permettant d'afficher la projection des individus\ndef display_factorial_planes(   X_projected, \n                                x_y, \n                                pca=None, \n                                labels = None,\n                                clusters=None, \n                                alpha=1,\n                                figsize=[10,8], \n                                marker=\".\" ):\n    \"\"\"\n    Affiche la projection des individus\n\n    Positional arguments : \n    -------------------------------------\n    X_projected : np.array, pd.DataFrame, list of list : la matrice des points projetés\n    x_y : list ou tuple : le couple x,y des plans à afficher, exemple [0,1] pour F1, F2\n\n    Optional arguments : \n    -------------------------------------\n    pca : sklearn.decomposition.PCA : un objet PCA qui a été fit, cela nous permettra d'afficher la variance de chaque composante, default = None\n    labels : list ou tuple : les labels des individus à projeter, default = None\n    clusters : list ou tuple : la liste des clusters auquel appartient chaque individu, default = None\n    alpha : float in [0,1] : paramètre de transparence, 0=100% transparent, 1=0% transparent, default = 1\n    figsize : list ou tuple : couple width, height qui définit la taille de la figure en inches, default = [10,8] \n    marker : str : le type de marker utilisé pour représenter les individus, points croix etc etc, default = \".\"\n    \"\"\"\n\n    # Transforme X_projected en np.array\n    X_ = np.array(X_projected)\n\n    # On gère les labels\n    if  labels is None : \n        labels = []\n    try : \n        len(labels)\n    except Exception as e : \n        raise e\n\n    # On vérifie la variable axis \n    if not len(x_y) ==2 : \n        raise AttributeError(\"2 axes sont demandées\")   \n    if max(x_y )&gt;= X_.shape[1] : \n        raise AttributeError(\"la variable axis n'est pas bonne\")   \n\n    # on définit x et y \n    x, y = x_y\n\n    # Initialisation de la figure       \n    fig, ax = plt.subplots(1, 1, figsize=figsize)\n\n    # On vérifie s'il y a des clusters ou non\n    c = None if clusters is None else clusters\n \n    # Les points    \n    # plt.scatter(   X_[:, x], X_[:, y], alpha=alpha, \n    #                     c=c, cmap=\"Set1\", marker=marker)\n    sns.scatterplot(data=None, x=X_[:, x], y=X_[:, y], hue=c)\n\n    # Si la variable pca a été fournie, on peut calculer le % de variance de chaque axe \n    if pca : \n        v1 = str(round(100*pca.explained_variance_ratio_[x]))  + \" %\"\n        v2 = str(round(100*pca.explained_variance_ratio_[y]))  + \" %\"\n    else : \n        v1=v2= ''\n\n    # Nom des axes, avec le pourcentage d'inertie expliqué\n    ax.set_xlabel(f'F{x+1} {v1}')\n    ax.set_ylabel(f'F{y+1} {v2}')\n\n    # Valeur x max et y max\n    x_max = np.abs(X_[:, x]).max() *1.1\n    y_max = np.abs(X_[:, y]).max() *1.1\n\n    # On borne x et y \n    ax.set_xlim(left=-x_max, right=x_max)\n    ax.set_ylim(bottom= -y_max, top=y_max)\n\n    # Affichage des lignes horizontales et verticales\n    plt.plot([-x_max, x_max], [0, 0], color='grey', alpha=0.8)\n    plt.plot([0,0], [-y_max, y_max], color='grey', alpha=0.8)\n\n    # Affichage des labels des points\n    if len(labels) : \n        for i,(_x,_y) in enumerate(X_[:,[x,y]]):\n            plt.text(_x, _y+0.05, labels[i], fontsize='14', ha='center',va='center') \n\n    # Titre et display\n    plt.title(f\"Projection des individus (sur F{x+1} et F{y+1})\")\n    plt.show()\n\n\n\n\nProjection des individus sur le plan F1 F2"
-  },
-  {
-    "objectID": "projects/projet-etude-marche.html#stack",
-    "href": "projects/projet-etude-marche.html#stack",
-    "title": "Etude de marché pour développement à l’international",
-    "section": "Stack",
-    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html",
-    "href": "projects/projet-detection-billet.html",
-    "title": "Détection de faux billets",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#contexte",
-    "href": "projects/projet-detection-billet.html#contexte",
-    "title": "Détection de faux billets",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#démarche",
-    "href": "projects/projet-detection-billet.html#démarche",
-    "title": "Détection de faux billets",
-    "section": "Démarche",
-    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\nAnalyses univariées (distribution, outliers avec z-score et IQR)\nAnalyses multivariées (corrélations entre variables, tests de Mann-Whitney)\n\nD’après ces premières analyses, 3 variables semblent plus discriminantes pour la détection de faux billets : Marge en bas, Marge en haut et Longueur.\n\nPré-traitement\n\n\nSéparation du jeu de données en train/test (80/20)\nImputation des valeurs manquantes (moyenne par type de billets car moins de 2.5% de valeurs manquantes)\nStandardisation des données\n\n\nTest des modèles\n\n\nRégression logistique (modèle supervisé)\nKNN (modèle supervisé)\nRandom forest (modèle supervisé)\nK-means (modèle non supervisé)\n\nPour chaque modèle, les résultats sont analysés dans un premier temps via une matrice de confusion (temporaire car seuil t non fixé à ce stade). Le meilleur modèle supervisé est ensuite choisi en comparant les scores ROC-AUC et PR-AUC. Ce modèle est optimisé en comparant ses résultats à différents seuils t. Pour finir, il est comparé au modèle non supervisé K-means en comparant leurs scores Accuracy, Precision, Rappel et F1.\n\nCréation de l’application\n\n\nExport du pipeline complet (prétraitement + modèle) au format .joblib\nCréation du script .py avec chargement du .joblib\n2 options d’utilisation :\n\nanalyse d’un seul billet en rentrant directement ses métriques\nanalyse de plusieurs billets grâce à un fichier .csv"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#résultats",
-    "href": "projects/projet-detection-billet.html#résultats",
-    "title": "Détection de faux billets",
-    "section": "Résultats",
-    "text": "Résultats\nLe meilleur modèle supervisé pour ce projet est la régression logistique, avec un score ROC-AUC de 99.96% et un score PR-AUC de 99.98% sur le jeu de test. Il reste le meilleur modèle face au modèle non supervisé (K-means) avec accuracy : 99.33%, precision : 99.5%, rappel : 99.5% et score F1 : 99.5%."
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#réalisations",
-    "href": "projects/projet-detection-billet.html#réalisations",
-    "title": "Détection de faux billets",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n Evaluation du modèle KNN en fonction du nombre de voisins k\n\n#Entraînement du modèle en faisant varier le nombre de voisins k\n\nroc_auc_clf_knn_train_scores = []\npr_auc_clf_knn_train_scores = []\nroc_auc_clf_knn_test_scores = []\npr_auc_clf_knn_test_scores = []\n\nneighbors = range(1,11,2)\n\nfor k in neighbors :\n    \n    clf_knn = KNeighborsClassifier(n_neighbors=k).fit(X_train_scaled, y_train)\n\n    #prédiction des données\n    y_train_pred_proba = clf_knn.predict_proba(X_train_scaled)[:, 1]\n    y_test_pred_proba = clf_knn.predict_proba(X_test_scaled)[:, 1]\n\n    #Calcul des scores ROC-AUC et PR-AUC\n    roc_auc_clf_knn_train = roc_auc_score(y_train, y_train_pred_proba)\n    pr_auc_clf_knn_train = average_precision_score(y_train, y_train_pred_proba)\n    roc_auc_clf_knn_test = roc_auc_score(y_test, y_test_pred_proba)\n    pr_auc_clf_knn_test = average_precision_score(y_test, y_test_pred_proba)\n\n    roc_auc_clf_knn_train_scores.append(roc_auc_clf_knn_train)\n    pr_auc_clf_knn_train_scores.append(pr_auc_clf_knn_train)\n    roc_auc_clf_knn_test_scores.append(roc_auc_clf_knn_test)\n    pr_auc_clf_knn_test_scores.append(pr_auc_clf_knn_test)\n\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_train_scores, marker = 'o', label = 'roc_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_train_scores, marker = 'o', label = 'pr_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_test_scores, marker = 'o', label = 'roc_auc_clf_knn_test')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_test_scores, marker = 'o', label = 'pr_auc_clf_knn_test')\n\nplt.legend()\nplt.title('Evolution des scores ROC-AUC et PR-AUC train et test en fonction du nombre de voisins k')\nplt.xlabel('Nombre de voisins k')\nplt.ylabel('Score')\nplt.show()\n\n\n\n\nEvaluation du modèle KNN\n\n\n\n\n Fonction de prédiction de plusieurs billets dans l’application\n\ndef predire_plusieurs_billets(pipeline,lien_csv):\n    \n    with open(lien_csv, 'r', encoding='utf-8') as f:\n        premiere_ligne = f.readline()\n        \n    separateur = ';' if ';' in premiere_ligne else ','\n    \n    X_raw = pd.read_csv(lien_csv, sep=separateur)\n\n    colonnes_attendues = [\"diagonal\", \"height_left\", \"height_right\", \"margin_low\", \"margin_up\", \"length\"]\n\n    X_filled = X_raw.dropna(subset=colonnes_attendues)\n\n    nb_lignes_supp = X_raw.shape[0] - X_filled.shape[0]\n    \n    if nb_lignes_supp &gt; 0 : \n        print(f\"\\nAttention : {nb_lignes_supp} billet(s) du fichier csv contienne(nt) des valeurs manquantes. Il n'est pas possible de détecter si ce(s) billet(s) sont vrai(s) ou faux. Il(s) a/ont donc été supprimé(s) du tableau de résultats.\\n\")\n\n    X = X_filled[colonnes_attendues]\n\n    y = pipeline.predict(X)\n\n    df_resultat = X_filled.copy()\n    df_resultat['Résultat_binaire'] = y\n    df_resultat['Résultat'] = df_resultat['Résultat_binaire'].map({False : \"Faux billet\", True : 'Vrai billet'})\n\n    return df_resultat"
-  },
-  {
-    "objectID": "projects/projet-detection-billet.html#stack",
-    "href": "projects/projet-detection-billet.html#stack",
-    "title": "Détection de faux billets",
-    "section": "Stack",
-    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "À propos",
-    "section": "",
-    "text": "Agnès Drouard\n\n\nAprès une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique.\nRécemment formée au métier de Data Analyst via un parcours chez OpenClassrooms, j’accompagne aujourd’hui les entreprises dans la structuration, l’analyse et la valorisation de leurs données. Du nettoyage à la modélisation décisionnelle, je peux intervenir sur l’ensemble de la chaîne de valeurs.\nMon objectif est d’aider les équipes opérationnelles et stratégiques à piloter leur activité grâce à des indicateurs fiables, des tableaux de bord lisibles ou encore des outils sur mesure."
-  },
-  {
-    "objectID": "index.html#qui-je-suis",
-    "href": "index.html#qui-je-suis",
-    "title": "À propos",
-    "section": "",
-    "text": "Après une carrière de dix ans en gestion de la qualité et logistique dans l’agroalimentaire, j’ai réorienté mon parcours vers l’analyse de données pour transformer la donnée brute en leviers de décision concrets.\nCette double expérience métier et technique me permet d’aborder les projets data avec une approche très pragmatique."
-  },
-  {
-    "objectID": "index.html#compétences",
-    "href": "index.html#compétences",
-    "title": "À propos",
-    "section": "Compétences",
-    "text": "Compétences\n\nLangages : SQL, Python (pandas, NumPy)\nData Visualisation : Power BI (DAX, Power Query)\nInfrastructures & Outils : SQLite, MongoDB, Git / GitHub, AWS (bases), dbt\nAnalyse & Modélisation : Statistique descriptive, Modélisation en étoile / constellation, Machine Learning (scikit-learn)"
-  },
-  {
-    "objectID": "index.html#expériences-professionnelles",
-    "href": "index.html#expériences-professionnelles",
-    "title": "À propos",
-    "section": "Expériences professionnelles",
-    "text": "Expériences professionnelles\n\n\n\n\nData Analyst - Strapp Mobile\nStage · mars 2026 - avril 2026\n\n\n\nModélisation statistique & scoring (Jupyter) : Méthodologie de calcul multicritères (AHP) pour scorer les consommations data et automatiser les recommandations de forfaits.\nIndustrialisation (AWS) : Scripts Python (GitLab) connectés à MongoDB pour automatiser le traitement via Lambda et SQS.\n\n\n\n\n\n\nResponsable approvisionnement - Val Nantais\nCDI · juillet 2024 - novembre 2024\n\n\n\nAnalyse des besoins d’approvisionnement et modélisation des plannings en fonction des contraintes contractuelles et opérationnelles\nSuivi des indicateurs de performance (délais, litiges, coûts)\nCoordination des flux (transport, emballages) et achats hors contrat\n\n\n\n\n\n\nResponsable ordonnancement - Eurial\nCDI · février 2021 - juin 2024\n\n\n\nIndicateur de performance d’approvisionnement et modélisation de scénarios d’optimisation\nMise en place et suivi des indicateurs de performance d’ordonnancement pour piloter l’activité au quotidien\nConstruction et suivi du programme hebdomadaire d’approvisionnement (analyse des volumes, contraintes, écarts)\n\n\n\n\n\n\nAssistante Qualité - LDC Traiteur\nCDI · octobre 2014 - avril 2019\n\n\n\nConstruction et automatisation (VBA) des bases de données risques matières premières\nCadrage fonctionnel et tests du logiciel interne de gestion des matières premières\nGestion des données fournisseurs et matières premières"
-  },
-  {
-    "objectID": "index.html#me-contacter",
-    "href": "index.html#me-contacter",
-    "title": "À propos",
-    "section": "Me contacter",
-    "text": "Me contacter\nUn projet d’analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?\n\n\n\n\n\n\n Nantes & Remote\n agnesdrouard90@gmail.com\n LinkedIn\n GitHub\n   Malt"
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html",
-    "href": "projects/projet-bdd-immobiliere.html",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html#contexte",
-    "href": "projects/projet-bdd-immobiliere.html#contexte",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html#démarche",
-    "href": "projects/projet-bdd-immobiliere.html#démarche",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "Démarche",
-    "text": "Démarche\n\nAnalyse des données\n\n\nIdentification des colonnes utiles\n\nNettoyage et harmonisation\n\nConstruction du dictionnaire de données\n\n\nConception du schéma relationnel\n\n\nNormalisation en 3NF\n\nDéfinition des clés primaires et étrangères\n\nGestion des cardinalités\n\n\nCréation de la base SQLite\n\n\nCréation des tables\n\nImport des CSV\n\nRésolution des erreurs\n\n\nRequêtes SQL\n\n\nAgrégations\n\nJointures multiples\n\nSous-requêtes\n\nWindow functions (RANK)"
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html#résultats",
-    "href": "projects/projet-bdd-immobiliere.html#résultats",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "Résultats",
-    "text": "Résultats\nExemples d’analyses réalisées :\n\nNombre de ventes d’appartement par région\n\nPropostion de ventes d’appartements par nombre de pièces\n\nTop 10 des départements avec le prix au m² le plus élevé\n\nListe des communes comptabilisant au moins 50 ventes\n\nMoyennes de valeurs foncières pour le top 3 des communes par département"
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html#réalisations",
-    "href": "projects/projet-bdd-immobiliere.html#réalisations",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nSchéma relationnel\n\n\n\n\n Top 3 des meilleures moyennes de valeurs foncières par commune (départements 6, 13, 33, 59 et 69) (SQL)\n\n\nSELECT * \nFROM (\n    SELECT *,\n        RANK() OVER (\n            PARTITION BY join2.Code_departement\n            ORDER BY join2.Moyenne_Valeur_Foncière DESC\n        ) AS rank\n    FROM (\n        SELECT \n            c.Nom_commune, \n            c.Code_departement,\n            ROUND(AVG(join1.Valeur_fonciere), 2) AS Moyenne_valeur_foncière\n        FROM (\n            SELECT * \n            FROM Bien b \n            JOIN Vente v ON b.ID_bien = v.ID_bien\n        ) join1\n        JOIN Commune c \n            ON c.Code_departement_code_commune = join1.COde_departement_code_commune\n        WHERE c.Code_departement IN ('06', '13', '33', '59', '69')\n        GROUP BY c.Nom_commune\n    ) join2\n) \nWHERE rank &lt;= 3;\n\n\n\n\nRésultat requête"
-  },
-  {
-    "objectID": "projects/projet-bdd-immobiliere.html#stack",
-    "href": "projects/projet-bdd-immobiliere.html#stack",
-    "title": "Création et utilisation d’une base de données immobilière",
-    "section": "Stack",
-    "text": "Stack\nSQL\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html",
-    "href": "projects/projet-etude-eau-potable.html",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#contexte",
-    "href": "projects/projet-etude-eau-potable.html#contexte",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#démarche",
-    "href": "projects/projet-etude-eau-potable.html#démarche",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Démarche",
-    "text": "Démarche\nLe dashboard comporte 3 pages principales :\n\nMondial\n\n\nKPI mondial du nombre de décès liés à l’eau insalubre.\nGraphiques temporels agrégés pour une comparaison macro entre continents.\nCartographie mondiale dynamique.\n\n\nContinent\n\n\nSegmentation qualitative par Stabilité Politique (“Pays stable” / “Pays instable”).\nHistogramme combiné mettant en évidence la répartition de l’accès à l’eau par pays en fonction du volume de population.\nNuage de points croisant la stabilité politique et l’efficacité de la politique eau.\n\n\nPays\n\n\nRépartition du taux de mortalité par genre.\nAnalyse de l’évolution temporelle (2000-2017) des services “basiques” vs “safe”.\nGraphiques en courbes et barres empilées différenciant l’accès aux services d’eau en zones urbaines et rurales."
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#résultats",
-    "href": "projects/projet-etude-eau-potable.html#résultats",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de conclure que :\n\n870 000 personnes sont décédées en 2016 des suites de la consommation d’eau impropre\nl’Afrique est le continent ayant les pourcentages d’accès à l’eau les moins élevés au niveau mondial\nla République Unie de Tanzanie a un taux de mortalité moyen lié à l’eau en 2016 de 38.4 pour 100 000 habitants"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#réalisations",
-    "href": "projects/projet-etude-eau-potable.html#réalisations",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\n\nSchéma en constellation\n\n\n\n\n Mesure DAX calculant le taux moyen d’accès aux services d’eau basiques\n\naverage_basic_drinking_services_rate_if_mortality = \nCALCULATE(\n    AVERAGE(BasicAndSafelyManagedDrinkingWaterServices[Population using at least basic drinking-water services (%)]),\n    BasicAndSafelyManagedDrinkingWaterServices[Zone] = \"Total\",\n    KEEPFILTERS(MortalityRateAttributedToWater)\n)"
-  },
-  {
-    "objectID": "projects/projet-etude-eau-potable.html#stack",
-    "href": "projects/projet-etude-eau-potable.html#stack",
-    "title": "Analyse de l’accès mondial à l’eau potable",
-    "section": "Stack",
-    "text": "Stack\nPower BI · DAX · Power Query\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html",
-    "href": "projects/projet-gestion-boutique.html",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html#contexte",
-    "href": "projects/projet-gestion-boutique.html#contexte",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html#démarche",
-    "href": "projects/projet-gestion-boutique.html#démarche",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "Démarche",
-    "text": "Démarche\n\nNettoyage des données\n\n\ncorrection incohérences (stock /t stock_status)\n\nsuppression valeurs aberrantes (prix négatifs, prix d’achats &gt; prix de vente, doublons, ventes négatives, lignes vides)\n\ngestion identifiants non conformes\n\nharmonisation types et formats\n\n\nConsolidation\n\n\nJointure ERP - Liaison - Web\n\nVérification des correspondances entre identifiants\n\n\nAnalyses\n\n\nCA total et par produit\n\ntop produits et analyse 80/20\n\ndétection des outliers\n\nanalyse du stock\n\nanalyse des marges\n\nmatrice de corrélation"
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html#résultats",
-    "href": "projects/projet-gestion-boutique.html#résultats",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de conclure que :\n\n52% des produits génèrent 80% du CA\n\nvaleur du stock = 2.1 fois le CA mensuel =&gt; risque financier\n\nmarge min : 55% et marge max : 130% =&gt; élevé"
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html#réalisations",
-    "href": "projects/projet-gestion-boutique.html#réalisations",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\nHeatmap de corrélation entre variables\n\n############################\n# Analyse des corrélations #\n############################\n\n#Création d'une heatmap de corrélation avec les variables stock, sales et price\ndf_corr = df_merge[['stock_quantity','total_sales','prix_ht','prix_achat_ht','taux_marge']]\ncorr = df_corr.corr(method='pearson')\nprint(corr)\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1)\nplt.show()\n#On peut également créer un mask pour n'afficher qu'une demi heatmap\nones = np.ones_like(corr) #création d'un array de 1 de la même taille que le df étudié\nmask = np.triu(ones,k=0).astype(bool) #remplacement de la partie inférieure de cet array \n#par des 0 en gardant la diagonale avec 1 puis remplacement des 0 et 1 par des booléens \n#pour lecture par la heatmap\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1,mask=mask) #ajout du mask dans la \n#heatmap. Toutes les cases = True sont masquées.\nplt.show()\n\n\n\n\nDemi-heatmap de corrélations entre les variables"
-  },
-  {
-    "objectID": "projects/projet-gestion-boutique.html#stack",
-    "href": "projects/projet-gestion-boutique.html#stack",
-    "title": "Optimisation de la gestion des données d’une boutique",
-    "section": "Stack",
-    "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html",
-    "href": "projects/projet-sousnutrition.html",
-    "title": "Etude sur l’alimentation dans le monde",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html#contexte",
-    "href": "projects/projet-sousnutrition.html#contexte",
-    "title": "Etude sur l’alimentation dans le monde",
-    "section": "",
-    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html#démarche",
-    "href": "projects/projet-sousnutrition.html#démarche",
-    "title": "Etude sur l’alimentation dans le monde",
-    "section": "Démarche",
-    "text": "Démarche\nIl consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d’une mission simulée au sein de la FAO. L’objectif est de comprendre :\n\nla disponibilité alimentaire mondiale,\nl’utilisation des ressources,\nla répartition des ressources entre les pays,\nle rôle de l’aide alimentaire"
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html#résultats",
-    "href": "projects/projet-sousnutrition.html#résultats",
-    "title": "Etude sur l’alimentation dans le monde",
-    "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de conclure que :\n\n535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale\nLa disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes\nLes pays recevant le plus d’aide ne sont pas ceux ayant le plus fort taux de sous-nutrition"
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html#réalisations",
-    "href": "projects/projet-sousnutrition.html#réalisations",
-    "title": "Etude sur l’alimentation dans le monde",
-    "section": "Réalisations",
-    "text": "Réalisations\n\n\nCalcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python\n\n#Transfert des données avec les végétaux dans un nouveau dataframe\ndispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]\ndispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()\ndispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')\n\n#Calcul du nombre de kcal disponible pour les végétaux\ndispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']\ndispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()\nprint(\"En 2017, la disponibilité en produits végétaux s’élevait à\",round(dispo_mondiale_vege/1000000000,1), \"milliards de kcal/jour à l’échelle mondiale.\")\n\n#Calcul du nombre d'humains pouvant être nourris avec les végétaux\nnb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940\npourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)\nprint(\"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir\", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),\"milliards d’humains (soit près de\", pourcentage_population,\"% de la population mondiale).\")\n\n\n\n\n\n\n\nTipSortie d’exécution\n\n\n\nEn 2017, la disponibilité en produits végétaux s’élevait à 17449.5 milliards de kcal/jour à l’échelle mondiale.\nSur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir 5.9 milliards d’humains (soit près de 78.7 % de la population mondiale)."
-  },
-  {
-    "objectID": "projects/projet-sousnutrition.html#stack",
-    "href": "projects/projet-sousnutrition.html#stack",
-    "title": "Etude sur l’alimentation dans le monde",
+    "objectID": "projects/projet-ventes-librairie.html#stack",
+    "href": "projects/projet-ventes-librairie.html#stack",
+    "title": "Analyse des ventes d’une librairie en ligne",
     "section": "Stack",
     "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
   },
@@ -476,45 +84,493 @@
     "text": "Stack\nPower BI · DAX · Power Query\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html",
-    "href": "projects/projet-ventes-librairie.html",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html",
+    "href": "projects/projet-sousnutrition.html",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "",
     "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html#contexte",
-    "href": "projects/projet-ventes-librairie.html#contexte",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html#contexte",
+    "href": "projects/projet-sousnutrition.html#contexte",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "",
     "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html#démarche",
-    "href": "projects/projet-ventes-librairie.html#démarche",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html#démarche",
+    "href": "projects/projet-sousnutrition.html#démarche",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "Démarche",
-    "text": "Démarche\n\nProfil des clients\n\n\nIdentification d’un groupe VIP\n\nRépartition par genre (52% femmes / 48% hommes)\n\nRépartition par âge (sur-représentation des 18 ans =&gt; âge mini d’inscription)\n\n\nEvolution dans le temps\n\n\nCA mensuel stable, sans saisonnalité marquée\n\nNombre de transactions stabilisé\n\nArrêt total de recrutement de nouveaux clients à partir de février 2022\n\n\nProduits\n\n\n24 produits invendus =&gt; potentielle suppression\n\nAnalyse par catégories (0 = entrée de gamme, 1 = milieu de gamme, 2 = premium)\n\n\nComportement clients\n\n\nGenre - Catégorie : lien significatif (Chi-2)\n\nAge - Dépenses : corrélation faible (Spearman)\n\nAge - Fréquence d’achat : corrélation faible (Spearman)\n\nAge - Panier moyen : corrélation modérée (Spearman)\n\nAge - Catégorie : lien significatif (Kruskal-Wallis)"
+    "text": "Démarche\nIl consiste à analyser la sous-nutrition dans le monde entre 2013 et 2017, dans le cadre d’une mission simulée au sein de la FAO. L’objectif est de comprendre :\n\nla disponibilité alimentaire mondiale,\nl’utilisation des ressources,\nla répartition des ressources entre les pays,\nle rôle de l’aide alimentaire"
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html#résultats",
-    "href": "projects/projet-ventes-librairie.html#résultats",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html#résultats",
+    "href": "projects/projet-sousnutrition.html#résultats",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "Résultats",
-    "text": "Résultats\nL’analyse a permis de proposer les recommandations suivantes :\n\nCibler les femmes de 35-55 ans avec les produits de catégorie 1\n\nDévelopper une offre pour les 20-30 ans avec les produits premium\n\nRevoir le cataglogue (produits invendus ou très peu vendus)\n\nRelancer acquisition client"
+    "text": "Résultats\nL’analyse a permis de conclure que :\n\n535.7 millions de personnes sont en sous-nutrition, soit 7.1% de la population mondiale\nLa disponibilité alimentaire mondiale aurait permis de nourrir 7.2 milliards de personnes\nLes pays recevant le plus d’aide ne sont pas ceux ayant le plus fort taux de sous-nutrition"
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html#réalisations",
-    "href": "projects/projet-ventes-librairie.html#réalisations",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html#réalisations",
+    "href": "projects/projet-sousnutrition.html#réalisations",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "Réalisations",
-    "text": "Réalisations\n\n\nTest du Chi-2 entre genre et catégories de produits\n\n# Calculer le test du Chi-2\nchi2_stat, p_value, dof, expected = chi2_contingency(contingency_table)\n\n#Hypothèse H0 : les variables sont indépendantes\n#Hypothèse H1 : Les variables sont dépendantes\n#Seuil choisi \nseuil = 0.05\n\nprint(f\"Statistique Chi-2: {round(chi2_stat,2)}\")\nprint(f\"Valeur p: {p_value}\")\nif p_value &lt; seuil :\n    print(\"La p-value est inférieure au seuil choisi, l'hypothèse H0 est rejetée et le lien entre genre et catégorie n'est probablement pas lié au hasard.\")\nelse : \n    print(\"La p-value est supérieure au seuil choisi, l'hypothèse H0 n'est pas rejettée et le lien entre genre et catégorie pourrait être dû au hasard.\")\n\n\n\n\n\n\n\nTipSortie d’exécution\n\n\n\nStatistique Chi-2: 22.67\nValeur p: 1.1955928116587024e-05\nLa p-value est inférieure au seuil choisi, l’hypothèse H0 est rejetée et le lien entre genre et catégorie n’est probablement pas lié au hasard.\n\n\n\n\n\nHeatmap des résidus - Genre et catégories de produits"
+    "text": "Réalisations\n\n\nCalcul du nombre théorique de personnes pouvant être nourries avec les produits végétaux en Python\n\n#Transfert des données avec les végétaux dans un nouveau dataframe\ndispo_alimentaire_vege = dispo_alimentaire.loc[dispo_alimentaire['Origine'] == 'vegetale',['Zone','Disponibilité alimentaire (Kcal/personne/jour)']]\ndispo_alimentaire_vege_pays = dispo_alimentaire_vege.groupby('Zone')['Disponibilité alimentaire (Kcal/personne/jour)'].sum().reset_index()\ndispo_alimentaire_vege_pays_pop = pd.merge(dispo_alimentaire_vege_pays,population_2017,on='Zone',how='inner')\n\n#Calcul du nombre de kcal disponible pour les végétaux\ndispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'] = dispo_alimentaire_vege_pays_pop['Disponibilité alimentaire (Kcal/personne/jour)'] * dispo_alimentaire_vege_pays_pop['Population']\ndispo_mondiale_vege = dispo_alimentaire_vege_pays_pop['dispo_vege_total_pays'].sum()\nprint(\"En 2017, la disponibilité en produits végétaux s’élevait à\",round(dispo_mondiale_vege/1000000000,1), \"milliards de kcal/jour à l’échelle mondiale.\")\n\n#Calcul du nombre d'humains pouvant être nourris avec les végétaux\nnb_pers_pouvant_etre_nourries_vege = dispo_mondiale_vege/2940\npourcentage_population = round(nb_pers_pouvant_etre_nourries_vege/sous_nutrition_pop['Population'].sum()*100,1)\nprint(\"Sur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir\", round(nb_pers_pouvant_etre_nourries_vege/1000000000,1),\"milliards d’humains (soit près de\", pourcentage_population,\"% de la population mondiale).\")\n\n\n\n\n\n\n\nAstuceSortie d’exécution\n\n\n\nEn 2017, la disponibilité en produits végétaux s’élevait à 17449.5 milliards de kcal/jour à l’échelle mondiale.\nSur la base d’un besoin moyen de 2 940 kcal/jour/personne, la seule production végétale mondiale aurait permis de nourrir 5.9 milliards d’humains (soit près de 78.7 % de la population mondiale)."
   },
   {
-    "objectID": "projects/projet-ventes-librairie.html#stack",
-    "href": "projects/projet-ventes-librairie.html#stack",
-    "title": "Analyse des ventes d’une librairie en ligne",
+    "objectID": "projects/projet-sousnutrition.html#stack",
+    "href": "projects/projet-sousnutrition.html#stack",
+    "title": "Etude sur l’alimentation dans le monde",
     "section": "Stack",
     "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html",
+    "href": "projects/projet-gestion-boutique.html",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#contexte",
+    "href": "projects/projet-gestion-boutique.html#contexte",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#démarche",
+    "href": "projects/projet-gestion-boutique.html#démarche",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "Démarche",
+    "text": "Démarche\n\nNettoyage des données\n\n\ncorrection incohérences (stock /t stock_status)\n\nsuppression valeurs aberrantes (prix négatifs, prix d’achats &gt; prix de vente, doublons, ventes négatives, lignes vides)\n\ngestion identifiants non conformes\n\nharmonisation types et formats\n\n\nConsolidation\n\n\nJointure ERP - Liaison - Web\n\nVérification des correspondances entre identifiants\n\n\nAnalyses\n\n\nCA total et par produit\n\ntop produits et analyse 80/20\n\ndétection des outliers\n\nanalyse du stock\n\nanalyse des marges\n\nmatrice de corrélation"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#résultats",
+    "href": "projects/projet-gestion-boutique.html#résultats",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "Résultats",
+    "text": "Résultats\nL’analyse a permis de conclure que :\n\n52% des produits génèrent 80% du CA\n\nvaleur du stock = 2.1 fois le CA mensuel =&gt; risque financier\n\nmarge min : 55% et marge max : 130% =&gt; élevé"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#réalisations",
+    "href": "projects/projet-gestion-boutique.html#réalisations",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\nHeatmap de corrélation entre variables\n\n############################\n# Analyse des corrélations #\n############################\n\n#Création d'une heatmap de corrélation avec les variables stock, sales et price\ndf_corr = df_merge[['stock_quantity','total_sales','prix_ht','prix_achat_ht','taux_marge']]\ncorr = df_corr.corr(method='pearson')\nprint(corr)\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1)\nplt.show()\n#On peut également créer un mask pour n'afficher qu'une demi heatmap\nones = np.ones_like(corr) #création d'un array de 1 de la même taille que le df étudié\nmask = np.triu(ones,k=0).astype(bool) #remplacement de la partie inférieure de cet array \n#par des 0 en gardant la diagonale avec 1 puis remplacement des 0 et 1 par des booléens \n#pour lecture par la heatmap\nsns.heatmap(corr,cmap='coolwarm',annot=True,vmin=-1,vmax=1,mask=mask) #ajout du mask dans la \n#heatmap. Toutes les cases = True sont masquées.\nplt.show()\n\n\n\n\nDemi-heatmap de corrélations entre les variables"
+  },
+  {
+    "objectID": "projects/projet-gestion-boutique.html#stack",
+    "href": "projects/projet-gestion-boutique.html#stack",
+    "title": "Optimisation de la gestion des données d’une boutique",
+    "section": "Stack",
+    "text": "Stack\npython · Jupyter\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html",
+    "href": "projects/projet-etude-eau-potable.html",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#contexte",
+    "href": "projects/projet-etude-eau-potable.html#contexte",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#démarche",
+    "href": "projects/projet-etude-eau-potable.html#démarche",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Démarche",
+    "text": "Démarche\nLe dashboard comporte 3 pages principales :\n\nMondial\n\n\nKPI mondial du nombre de décès liés à l’eau insalubre.\nGraphiques temporels agrégés pour une comparaison macro entre continents.\nCartographie mondiale dynamique.\n\n\nContinent\n\n\nSegmentation qualitative par Stabilité Politique (“Pays stable” / “Pays instable”).\nHistogramme combiné mettant en évidence la répartition de l’accès à l’eau par pays en fonction du volume de population.\nNuage de points croisant la stabilité politique et l’efficacité de la politique eau.\n\n\nPays\n\n\nRépartition du taux de mortalité par genre.\nAnalyse de l’évolution temporelle (2000-2017) des services “basiques” vs “safe”.\nGraphiques en courbes et barres empilées différenciant l’accès aux services d’eau en zones urbaines et rurales."
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#résultats",
+    "href": "projects/projet-etude-eau-potable.html#résultats",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Résultats",
+    "text": "Résultats\nL’analyse a permis de conclure que :\n\n870 000 personnes sont décédées en 2016 des suites de la consommation d’eau impropre\nl’Afrique est le continent ayant les pourcentages d’accès à l’eau les moins élevés au niveau mondial\nla République Unie de Tanzanie a un taux de mortalité moyen lié à l’eau en 2016 de 38.4 pour 100 000 habitants"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#réalisations",
+    "href": "projects/projet-etude-eau-potable.html#réalisations",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n\nSchéma en constellation\n\n\n\n\n Mesure DAX calculant le taux moyen d’accès aux services d’eau basiques\n\naverage_basic_drinking_services_rate_if_mortality = \nCALCULATE(\n    AVERAGE(BasicAndSafelyManagedDrinkingWaterServices[Population using at least basic drinking-water services (%)]),\n    BasicAndSafelyManagedDrinkingWaterServices[Zone] = \"Total\",\n    KEEPFILTERS(MortalityRateAttributedToWater)\n)"
+  },
+  {
+    "objectID": "projects/projet-etude-eau-potable.html#stack",
+    "href": "projects/projet-etude-eau-potable.html#stack",
+    "title": "Analyse de l’accès mondial à l’eau potable",
+    "section": "Stack",
+    "text": "Stack\nPower BI · DAX · Power Query\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html",
+    "href": "projects/projet-bdd-immobiliere.html",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#contexte",
+    "href": "projects/projet-bdd-immobiliere.html#contexte",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#démarche",
+    "href": "projects/projet-bdd-immobiliere.html#démarche",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "Démarche",
+    "text": "Démarche\n\nAnalyse des données\n\n\nIdentification des colonnes utiles\n\nNettoyage et harmonisation\n\nConstruction du dictionnaire de données\n\n\nConception du schéma relationnel\n\n\nNormalisation en 3NF\n\nDéfinition des clés primaires et étrangères\n\nGestion des cardinalités\n\n\nCréation de la base SQLite\n\n\nCréation des tables\n\nImport des CSV\n\nRésolution des erreurs\n\n\nRequêtes SQL\n\n\nAgrégations\n\nJointures multiples\n\nSous-requêtes\n\nWindow functions (RANK)"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#résultats",
+    "href": "projects/projet-bdd-immobiliere.html#résultats",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "Résultats",
+    "text": "Résultats\nExemples d’analyses réalisées :\n\nNombre de ventes d’appartement par région\n\nPropostion de ventes d’appartements par nombre de pièces\n\nTop 10 des départements avec le prix au m² le plus élevé\n\nListe des communes comptabilisant au moins 50 ventes\n\nMoyennes de valeurs foncières pour le top 3 des communes par département"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#réalisations",
+    "href": "projects/projet-bdd-immobiliere.html#réalisations",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n\nSchéma relationnel\n\n\n\n\n Top 3 des meilleures moyennes de valeurs foncières par commune (départements 6, 13, 33, 59 et 69) (SQL)\n\n\nSELECT * \nFROM (\n    SELECT *,\n        RANK() OVER (\n            PARTITION BY join2.Code_departement\n            ORDER BY join2.Moyenne_Valeur_Foncière DESC\n        ) AS rank\n    FROM (\n        SELECT \n            c.Nom_commune, \n            c.Code_departement,\n            ROUND(AVG(join1.Valeur_fonciere), 2) AS Moyenne_valeur_foncière\n        FROM (\n            SELECT * \n            FROM Bien b \n            JOIN Vente v ON b.ID_bien = v.ID_bien\n        ) join1\n        JOIN Commune c \n            ON c.Code_departement_code_commune = join1.COde_departement_code_commune\n        WHERE c.Code_departement IN ('06', '13', '33', '59', '69')\n        GROUP BY c.Nom_commune\n    ) join2\n) \nWHERE rank &lt;= 3;\n\n\n\n\nRésultat requête"
+  },
+  {
+    "objectID": "projects/projet-bdd-immobiliere.html#stack",
+    "href": "projects/projet-bdd-immobiliere.html#stack",
+    "title": "Création et utilisation d’une base de données immobilière",
+    "section": "Stack",
+    "text": "Stack\nSQL\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "mentions-legales.html",
+    "href": "mentions-legales.html",
+    "title": "Mentions légales",
+    "section": "",
+    "text": "legal_notice()\nConformément à l’article 6-III de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique (LCEN)."
+  },
+  {
+    "objectID": "mentions-legales.html#éditeur-du-site",
+    "href": "mentions-legales.html#éditeur-du-site",
+    "title": "Mentions légales",
+    "section": "Éditeur du site",
+    "text": "Éditeur du site\n\nNom : [Prénom NOM]\nStatut : Freelance / Entreprise individuelle (à activer une fois l’immatriculation faite en octobre)\nSIRET : [à compléter dès réception du numéro]\nAdresse : [adresse — ou une adresse de domiciliation si vous préférez ne pas exposer votre domicile]\nEmail : [prenom.nom@email.com]\nTéléphone : [numéro] (optionnel)"
+  },
+  {
+    "objectID": "mentions-legales.html#directeur-de-la-publication",
+    "href": "mentions-legales.html#directeur-de-la-publication",
+    "title": "Mentions légales",
+    "section": "Directeur de la publication",
+    "text": "Directeur de la publication\n[Prénom NOM]"
+  },
+  {
+    "objectID": "mentions-legales.html#hébergement",
+    "href": "mentions-legales.html#hébergement",
+    "title": "Mentions légales",
+    "section": "Hébergement",
+    "text": "Hébergement\nCe site est hébergé par :\nGitHub, Inc. 88 Colin P. Kelly Jr. Street San Francisco, CA 94107 États-Unis https://github.com"
+  },
+  {
+    "objectID": "mentions-legales.html#propriété-intellectuelle",
+    "href": "mentions-legales.html#propriété-intellectuelle",
+    "title": "Mentions légales",
+    "section": "Propriété intellectuelle",
+    "text": "Propriété intellectuelle\nL’ensemble des contenus présents sur ce site (textes, code source, visuels, études de cas) est la propriété de [Prénom NOM], sauf mention contraire. Toute reproduction, totale ou partielle, sans autorisation préalable est interdite.\nLe code source des projets présentés est disponible sur GitHub sous licence [à préciser selon vos repos — MIT, etc.]."
+  },
+  {
+    "objectID": "mentions-legales.html#données-personnelles",
+    "href": "mentions-legales.html#données-personnelles",
+    "title": "Mentions légales",
+    "section": "Données personnelles",
+    "text": "Données personnelles\nCe site ne collecte aucune donnée personnelle en dehors de celles que vous transmettez volontairement (par exemple via un email envoyé directement).\nÀ compléter si vous ajoutez : un formulaire de contact, un outil d’analytics (Google Analytics, Plausible…), ou tout autre outil de suivi. Dans ce cas, préciser : quelles données sont collectées, dans quel but, combien de temps elles sont conservées, et comment les faire supprimer/rectifier (droit RGPD)."
+  },
+  {
+    "objectID": "mentions-legales.html#cookies",
+    "href": "mentions-legales.html#cookies",
+    "title": "Mentions légales",
+    "section": "Cookies",
+    "text": "Cookies\nCe site n’utilise pas de cookies de suivi. (à mettre à jour si vous ajoutez un outil d’analytics)"
+  },
+  {
+    "objectID": "mentions-legales.html#droit-applicable",
+    "href": "mentions-legales.html#droit-applicable",
+    "title": "Mentions légales",
+    "section": "Droit applicable",
+    "text": "Droit applicable\nLes présentes mentions légales sont soumises au droit français. En cas de litige, les tribunaux français seront seuls compétents.\n\nDernière mise à jour : [mois année]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Agnès Drouard\n\n\nData Analyst spécialisée dans l’industrie, avec 10 ans d’expérience en supply chain et en qualité (approvisionnement, ordonnancement, traçabilité, risques matières premières), je transforme vos données de production et de logistique en outils de pilotage fiables.\nPour les avoir rencontrées, je connais bien les problématiques métiers. J’ai notamment construit et automatisé des bases de données de risques sur les matières premières ou encore mis en place des KPI côté supply chain (approvisionnement et ordonnancement d’une dizaine d’usines)."
+  },
+  {
+    "objectID": "index.html#qui-je-suis",
+    "href": "index.html#qui-je-suis",
+    "title": "À propos",
+    "section": "",
+    "text": "Data Analyst spécialisée dans l’industrie, avec 10 ans d’expérience en supply chain et en qualité (approvisionnement, ordonnancement, traçabilité, risques matières premières), je transforme vos données de production et de logistique en outils de pilotage fiables."
+  },
+  {
+    "objectID": "index.html#compétences",
+    "href": "index.html#compétences",
+    "title": "À propos",
+    "section": "Compétences",
+    "text": "Compétences\n\nTransformation : SQL, DBT, Snowflake\nBI : Power BI, Power Query, DAX\nAnalyse et automatisation : Python (Pandas, NumPy, Matplotlib), Jupyter, Excel (avancé, TCD, VBA)\nCloud et versioning : AWS (Lambda, SQS), Git"
+  },
+  {
+    "objectID": "index.html#expériences-professionnelles",
+    "href": "index.html#expériences-professionnelles",
+    "title": "À propos",
+    "section": "Expériences professionnelles",
+    "text": "Expériences professionnelles\n\n\n\n\nData Analyst - Strapp Mobile\nStage · mars 2026 - avril 2026\n\n\n\nModélisation statistique & scoring (Jupyter) : Méthodologie de calcul multicritères (AHP) pour scorer les consommations data et automatiser les recommandations de forfaits.\nIndustrialisation (AWS) : Scripts Python (GitLab) connectés à MongoDB pour automatiser le traitement via Lambda et SQS.\n\n\n\n\n\n\nResponsable approvisionnement - Val Nantais\nCDI · juillet 2024 - novembre 2024\n\n\n\nAnalyse des besoins d’approvisionnement et modélisation des plannings en fonction des contraintes contractuelles et opérationnelles\nSuivi des indicateurs de performance (délais, litiges, coûts)\nCoordination des flux (transport, emballages) et achats hors contrat\n\n\n\n\n\n\nResponsable ordonnancement - Eurial\nCDI · février 2021 - juin 2024\n\n\n\nIndicateur de performance d’approvisionnement et modélisation de scénarios d’optimisation\nMise en place et suivi des indicateurs de performance d’ordonnancement pour piloter l’activité au quotidien\nConstruction et suivi du programme hebdomadaire d’approvisionnement (analyse des volumes, contraintes, écarts)\n\n\n\n\n\n\nAssistante Qualité - LDC Traiteur\nCDI · octobre 2014 - avril 2019\n\n\n\nConstruction et automatisation (VBA) des bases de données risques matières premières\nCadrage fonctionnel et tests du logiciel interne de gestion des matières premières\nGestion des données fournisseurs et matières premières"
+  },
+  {
+    "objectID": "index.html#me-contacter",
+    "href": "index.html#me-contacter",
+    "title": "À propos",
+    "section": "Me contacter",
+    "text": "Me contacter\nUn projet d’analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?\n\n\n\n\n\n\n Nantes & Remote\n agnesdrouard90@gmail.com\n LinkedIn\n GitHub\n   Malt"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projets",
+    "section": "",
+    "text": "python\n\nJupyter\n\nAWS\n\nExpérience pro\n\n\n\nIdentification et chiffrage des opportunités d’optimisation de forfait\n\n\n\n1 avr. 2026\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projects.html#expérience-professionnelle",
+    "href": "projects.html#expérience-professionnelle",
+    "title": "Projets",
+    "section": "",
+    "text": "python\n\nJupyter\n\nAWS\n\nExpérience pro\n\n\n\nIdentification et chiffrage des opportunités d’optimisation de forfait\n\n\n\n1 avr. 2026\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projects.html#projets-de-formation",
+    "href": "projects.html#projets-de-formation",
+    "title": "Projets",
+    "section": "Projets de formation",
+    "text": "Projets de formation\n\n\n\n\n\n\n\n\n\n\nVeille métier et technologique : Méthodes de gestion des stocks\n\n\n\nNotion\n\nFeedly\n\nFormation\n\n\n\nRéalisation d’une veille dans l’objectif d’améliorer un projet existant\n\n\n\n1 août 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDétection de faux billets\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nFormation\n\n\n\nRéalisation d’une application de détection automatique de faux billets à partir de données géométriques\n\n\n\n1 juil. 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude de marché pour développement à l’international\n\n\n\npython\n\nJupyter\n\nMachine learning\n\nFormation\n\n\n\nAnalyse du marché international de la volaille pour définir un pays ou un groupe de pays propice au développement d’une entreprise à l’export.\n\n\n\n1 juin 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse de l’accès mondial à l’eau potable\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nFormation\n\n\n\nConception d’un tableau de bord interactif permettant d’identifier les pays rencontrant des difficultés d’accès à l’eau potable et de cibler les pays où concentrer les…\n\n\n\n1 mai 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des profils socio-démographiques des étudiants d’OpenClassrooms\n\n\n\ndbt\n\nSQL\n\nFormation\n\n\n\nComparaison des profils des étudiants d’OpenClassrooms avec des étudiants au niveau national\n\n\n\n1 mars 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des ventes d’une librairie en ligne\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nAnalyse des performances globales du site, des comportements clients, des produits stratégiques (top/flop) et propositions d’axes d’amélioration marketing.\n\n\n\n1 févr. 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuivi de l’avancement de projets\n\n\n\nPower BI\n\nDAX\n\nPower Query\n\nFormation\n\n\n\nConception d’un tableau de bord interactif permettant à une entreprise de visualiser l’avancement de ses projets.\n\n\n\n1 janv. 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimisation de la gestion des données d’une boutique\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nAmélioration de la qualité des données d’une boutique afin de fournir les indicateurs clés.\n\n\n\n1 déc. 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCréation et utilisation d’une base de données immobilière\n\n\n\nSQL\n\nFormation\n\n\n\nCréation d’une bdd immobilière complète à partir de données publiques pour analyser le marché immobilier français.\n\n\n\n1 nov. 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtude sur l’alimentation dans le monde\n\n\n\npython\n\nJupyter\n\nFormation\n\n\n\nY a-t-il des personnes en état de sous-nutrition dans le monde en 2017 ? Si oui, pourquoi ?\n\n\n\n1 oct. 2025\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html",
+    "href": "projects/projet-detection-billet.html",
+    "title": "Détection de faux billets",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#contexte",
+    "href": "projects/projet-detection-billet.html#contexte",
+    "title": "Détection de faux billets",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#démarche",
+    "href": "projects/projet-detection-billet.html#démarche",
+    "title": "Détection de faux billets",
+    "section": "Démarche",
+    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\nAnalyses univariées (distribution, outliers avec z-score et IQR)\nAnalyses multivariées (corrélations entre variables, tests de Mann-Whitney)\n\nD’après ces premières analyses, 3 variables semblent plus discriminantes pour la détection de faux billets : Marge en bas, Marge en haut et Longueur.\n\nPré-traitement\n\n\nSéparation du jeu de données en train/test (80/20)\nImputation des valeurs manquantes (moyenne par type de billets car moins de 2.5% de valeurs manquantes)\nStandardisation des données\n\n\nTest des modèles\n\n\nRégression logistique (modèle supervisé)\nKNN (modèle supervisé)\nRandom forest (modèle supervisé)\nK-means (modèle non supervisé)\n\nPour chaque modèle, les résultats sont analysés dans un premier temps via une matrice de confusion (temporaire car seuil t non fixé à ce stade). Le meilleur modèle supervisé est ensuite choisi en comparant les scores ROC-AUC et PR-AUC. Ce modèle est optimisé en comparant ses résultats à différents seuils t. Pour finir, il est comparé au modèle non supervisé K-means en comparant leurs scores Accuracy, Precision, Rappel et F1.\n\nCréation de l’application\n\n\nExport du pipeline complet (prétraitement + modèle) au format .joblib\nCréation du script .py avec chargement du .joblib\n2 options d’utilisation :\n\nanalyse d’un seul billet en rentrant directement ses métriques\nanalyse de plusieurs billets grâce à un fichier .csv"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#résultats",
+    "href": "projects/projet-detection-billet.html#résultats",
+    "title": "Détection de faux billets",
+    "section": "Résultats",
+    "text": "Résultats\nLe meilleur modèle supervisé pour ce projet est la régression logistique, avec un score ROC-AUC de 99.96% et un score PR-AUC de 99.98% sur le jeu de test. Il reste le meilleur modèle face au modèle non supervisé (K-means) avec accuracy : 99.33%, precision : 99.5%, rappel : 99.5% et score F1 : 99.5%."
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#réalisations",
+    "href": "projects/projet-detection-billet.html#réalisations",
+    "title": "Détection de faux billets",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n Evaluation du modèle KNN en fonction du nombre de voisins k\n\n#Entraînement du modèle en faisant varier le nombre de voisins k\n\nroc_auc_clf_knn_train_scores = []\npr_auc_clf_knn_train_scores = []\nroc_auc_clf_knn_test_scores = []\npr_auc_clf_knn_test_scores = []\n\nneighbors = range(1,11,2)\n\nfor k in neighbors :\n    \n    clf_knn = KNeighborsClassifier(n_neighbors=k).fit(X_train_scaled, y_train)\n\n    #prédiction des données\n    y_train_pred_proba = clf_knn.predict_proba(X_train_scaled)[:, 1]\n    y_test_pred_proba = clf_knn.predict_proba(X_test_scaled)[:, 1]\n\n    #Calcul des scores ROC-AUC et PR-AUC\n    roc_auc_clf_knn_train = roc_auc_score(y_train, y_train_pred_proba)\n    pr_auc_clf_knn_train = average_precision_score(y_train, y_train_pred_proba)\n    roc_auc_clf_knn_test = roc_auc_score(y_test, y_test_pred_proba)\n    pr_auc_clf_knn_test = average_precision_score(y_test, y_test_pred_proba)\n\n    roc_auc_clf_knn_train_scores.append(roc_auc_clf_knn_train)\n    pr_auc_clf_knn_train_scores.append(pr_auc_clf_knn_train)\n    roc_auc_clf_knn_test_scores.append(roc_auc_clf_knn_test)\n    pr_auc_clf_knn_test_scores.append(pr_auc_clf_knn_test)\n\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_train_scores, marker = 'o', label = 'roc_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_train_scores, marker = 'o', label = 'pr_auc_clf_knn_train')\nsns.lineplot(x = neighbors, y = roc_auc_clf_knn_test_scores, marker = 'o', label = 'roc_auc_clf_knn_test')\nsns.lineplot(x = neighbors, y = pr_auc_clf_knn_test_scores, marker = 'o', label = 'pr_auc_clf_knn_test')\n\nplt.legend()\nplt.title('Evolution des scores ROC-AUC et PR-AUC train et test en fonction du nombre de voisins k')\nplt.xlabel('Nombre de voisins k')\nplt.ylabel('Score')\nplt.show()\n\n\n\n\nEvaluation du modèle KNN\n\n\n\n\n Fonction de prédiction de plusieurs billets dans l’application\n\ndef predire_plusieurs_billets(pipeline,lien_csv):\n    \n    with open(lien_csv, 'r', encoding='utf-8') as f:\n        premiere_ligne = f.readline()\n        \n    separateur = ';' if ';' in premiere_ligne else ','\n    \n    X_raw = pd.read_csv(lien_csv, sep=separateur)\n\n    colonnes_attendues = [\"diagonal\", \"height_left\", \"height_right\", \"margin_low\", \"margin_up\", \"length\"]\n\n    X_filled = X_raw.dropna(subset=colonnes_attendues)\n\n    nb_lignes_supp = X_raw.shape[0] - X_filled.shape[0]\n    \n    if nb_lignes_supp &gt; 0 : \n        print(f\"\\nAttention : {nb_lignes_supp} billet(s) du fichier csv contienne(nt) des valeurs manquantes. Il n'est pas possible de détecter si ce(s) billet(s) sont vrai(s) ou faux. Il(s) a/ont donc été supprimé(s) du tableau de résultats.\\n\")\n\n    X = X_filled[colonnes_attendues]\n\n    y = pipeline.predict(X)\n\n    df_resultat = X_filled.copy()\n    df_resultat['Résultat_binaire'] = y\n    df_resultat['Résultat'] = df_resultat['Résultat_binaire'].map({False : \"Faux billet\", True : 'Vrai billet'})\n\n    return df_resultat"
+  },
+  {
+    "objectID": "projects/projet-detection-billet.html#stack",
+    "href": "projects/projet-detection-billet.html#stack",
+    "title": "Détection de faux billets",
+    "section": "Stack",
+    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html",
+    "href": "projects/projet-etude-marche.html",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#contexte",
+    "href": "projects/projet-etude-marche.html#contexte",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#démarche",
+    "href": "projects/projet-etude-marche.html#démarche",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "Démarche",
+    "text": "Démarche\nCritères analysés :\n\nScore de stabilité politique\n\nConsommation de viande de volailles (kg/personne/an)\n\nTaux d’exportation\n\nTaux de dépendance à l’importation\n\nNombre d’habitants\n\nPIB par habitant\n\nIndice de performance logistique\n\nDistance avec la France (en km)\n\nScore de climat des affaires\n\nLe dataset final après nettoyage et jointures représentent 117 pays et 86% de la population (en 2017).\n\nPréparation et nettoyage des données\n\n\nExtraction des données\n\nNettoyage des données\n\nAnalyses univariées\n\nEtude des corrélations entre variables\n\n\nAnalyse en composantes principales (ACP)\n\n\nStandardisation des données\n\nEtude de l’éboulis des valeurs propores\n\nAnalyse du cercle des corrélations\n\nProjection des individus sur les plans factoriels\n\n\nClustering\n\n\nK-means\n\nClassification hiérarchique ascendante (CAH)\n\nVisualisation et analyse des clusters\n\nComparaison des clusters via une matrice de contingence"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#résultats",
+    "href": "projects/projet-etude-marche.html#résultats",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "Résultats",
+    "text": "Résultats\nL’analyse a mis en évidence 2 groupes de pays à prioriser pour l’entreprise :\n\nhubs logistiques (Belgique, Hong-Kong, Pays-Bas) : Zones de transit commercial majeures avec des taux d’exportation et d’importation très importants\n\nMarché premium à proximité : Pays économiquement stables, proches de la France avec un taux de dépendance aux importations proche de 50%\n\nUne stratégie commerciale différenciée est recommandée en fonction des pays ciblés."
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#réalisations",
+    "href": "projects/projet-etude-marche.html#réalisations",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n Fonction permettant d’afficher la projection des individus k\n\n#Fonction permettant d'afficher la projection des individus\ndef display_factorial_planes(   X_projected, \n                                x_y, \n                                pca=None, \n                                labels = None,\n                                clusters=None, \n                                alpha=1,\n                                figsize=[10,8], \n                                marker=\".\" ):\n    \"\"\"\n    Affiche la projection des individus\n\n    Positional arguments : \n    -------------------------------------\n    X_projected : np.array, pd.DataFrame, list of list : la matrice des points projetés\n    x_y : list ou tuple : le couple x,y des plans à afficher, exemple [0,1] pour F1, F2\n\n    Optional arguments : \n    -------------------------------------\n    pca : sklearn.decomposition.PCA : un objet PCA qui a été fit, cela nous permettra d'afficher la variance de chaque composante, default = None\n    labels : list ou tuple : les labels des individus à projeter, default = None\n    clusters : list ou tuple : la liste des clusters auquel appartient chaque individu, default = None\n    alpha : float in [0,1] : paramètre de transparence, 0=100% transparent, 1=0% transparent, default = 1\n    figsize : list ou tuple : couple width, height qui définit la taille de la figure en inches, default = [10,8] \n    marker : str : le type de marker utilisé pour représenter les individus, points croix etc etc, default = \".\"\n    \"\"\"\n\n    # Transforme X_projected en np.array\n    X_ = np.array(X_projected)\n\n    # On gère les labels\n    if  labels is None : \n        labels = []\n    try : \n        len(labels)\n    except Exception as e : \n        raise e\n\n    # On vérifie la variable axis \n    if not len(x_y) ==2 : \n        raise AttributeError(\"2 axes sont demandées\")   \n    if max(x_y )&gt;= X_.shape[1] : \n        raise AttributeError(\"la variable axis n'est pas bonne\")   \n\n    # on définit x et y \n    x, y = x_y\n\n    # Initialisation de la figure       \n    fig, ax = plt.subplots(1, 1, figsize=figsize)\n\n    # On vérifie s'il y a des clusters ou non\n    c = None if clusters is None else clusters\n \n    # Les points    \n    # plt.scatter(   X_[:, x], X_[:, y], alpha=alpha, \n    #                     c=c, cmap=\"Set1\", marker=marker)\n    sns.scatterplot(data=None, x=X_[:, x], y=X_[:, y], hue=c)\n\n    # Si la variable pca a été fournie, on peut calculer le % de variance de chaque axe \n    if pca : \n        v1 = str(round(100*pca.explained_variance_ratio_[x]))  + \" %\"\n        v2 = str(round(100*pca.explained_variance_ratio_[y]))  + \" %\"\n    else : \n        v1=v2= ''\n\n    # Nom des axes, avec le pourcentage d'inertie expliqué\n    ax.set_xlabel(f'F{x+1} {v1}')\n    ax.set_ylabel(f'F{y+1} {v2}')\n\n    # Valeur x max et y max\n    x_max = np.abs(X_[:, x]).max() *1.1\n    y_max = np.abs(X_[:, y]).max() *1.1\n\n    # On borne x et y \n    ax.set_xlim(left=-x_max, right=x_max)\n    ax.set_ylim(bottom= -y_max, top=y_max)\n\n    # Affichage des lignes horizontales et verticales\n    plt.plot([-x_max, x_max], [0, 0], color='grey', alpha=0.8)\n    plt.plot([0,0], [-y_max, y_max], color='grey', alpha=0.8)\n\n    # Affichage des labels des points\n    if len(labels) : \n        for i,(_x,_y) in enumerate(X_[:,[x,y]]):\n            plt.text(_x, _y+0.05, labels[i], fontsize='14', ha='center',va='center') \n\n    # Titre et display\n    plt.title(f\"Projection des individus (sur F{x+1} et F{y+1})\")\n    plt.show()\n\n\n\n\nProjection des individus sur le plan F1 F2"
+  },
+  {
+    "objectID": "projects/projet-etude-marche.html#stack",
+    "href": "projects/projet-etude-marche.html#stack",
+    "title": "Etude de marché pour développement à l’international",
+    "section": "Stack",
+    "text": "Stack\npython · Jupyter · Machine Learning\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html",
+    "href": "projects/projet-socio-demographique.html",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#contexte",
+    "href": "projects/projet-socio-demographique.html#contexte",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms."
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#démarche",
+    "href": "projects/projet-socio-demographique.html#démarche",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "Démarche",
+    "text": "Démarche\nL’architecture du projet dans dbt est le suivant :\n\nModèles staging (stg)\n\nNettoyage des données sources (OpenClassrooms et Nationales)\nNormalisation des noms de colonnes\n\nModèle intermédiaires (int)\n\nAgrégation des données par dimensions\n\nModèles finaux (marts)\n\nStructure en étoiles avec une table des faits et des tables de dimensions\nUnion des données OpenClassrooms et Nationales\nTable plate finale regroupant toutes les données pour visualisations avec Looker Studio"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#résultats",
+    "href": "projects/projet-socio-demographique.html#résultats",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "Résultats",
+    "text": "Résultats\nLa comparaison des populations entre OpenClassrooms et national m’a permis de proposer 3 recommandations pour développer le panel d’étudiants chez OpenClassrooms :\n\nRecruter des étudiants hors Ile-de-France en présentant les atouts de le formation à distance\nTendre vers une répartition plus équilibrée entre hommes et femmes en renforçant les actions de recrutement auprès des femmes\nÉlargir le recrutement vers des étudiants en formation initiale, en complément du public en reconversion déjà majoritaire"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#réalisations",
+    "href": "projects/projet-socio-demographique.html#réalisations",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n\nWorkflow commenté\n\n\n\n\n Requête pour obtenir la table plate finale (SQL)\n\n\n{{config(materialized='table')}}\n\nWITH agg_annee_origine_region as (\n    SELECT \n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_region as (\n    SELECT\n        ID_REGION,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_REGION\nFROM agg_annee_origine_region\n),\n\nagg_annee_origine_genre as (\n    SELECT \n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_genre as (\n    SELECT\n        ID_GENRE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_GENRE\nFROM agg_annee_origine_genre\n),\n\nagg_annee_origine_age as (\n    SELECT \n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        sum(NOMBRE_ETUDIANTS) as NOMBRE_ETUDIANTS\n    FROM {{ ref('fct_etudiant') }}\n    GROUP BY 1,2,3\n\n),\n\npourcentage_annee_origine_age as (\n    SELECT\n        ID_CAT_AGE,\n        ANNEE,\n        ORIGINE,\n        round(NOMBRE_ETUDIANTS * 100.0 / sum(NOMBRE_ETUDIANTS) OVER (PARTITION BY ANNEE,ORIGINE),2)\n        as POURCENTAGE_AO_AGE\nFROM agg_annee_origine_age\n)\n\nSELECT \n    f.ORIGINE,\n    f.ANNEE,\n    f.ID_REGION,\n    r.LIBELLE_REGION,\n    f.ID_GENRE,\n    g.LIBELLE_GENRE,\n    f.ID_CAT_AGE,\n    a.LIBELLE_CAT_AGE,\n    f.NOMBRE_ETUDIANTS,\n    r2.POURCENTAGE_AO_REGION,\n    g2.POURCENTAGE_AO_GENRE,\n    a2.POURCENTAGE_AO_AGE\nFROM {{ ref('fct_etudiant') }} f\n    LEFT JOIN {{ ref('dim_age') }} a ON f.ID_CAT_AGE = a.ID_CAT_AGE\n    LEFT JOIN {{ ref('dim_genre') }} g ON f.ID_GENRE = g.ID_GENRE\n    LEFT JOIN {{ ref('dim_region') }} r ON f.ID_REGION = r.ID_REGION\n    LEFT JOIN pourcentage_annee_origine_region r2 ON f.ID_REGION = r2.ID_REGION AND f.ANNEE = r2.ANNEE AND f.ORIGINE = r2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_genre g2 ON f.ID_GENRE = g2.ID_GENRE AND f.ANNEE = g2.ANNEE AND f.ORIGINE = g2.ORIGINE\n    LEFT JOIN pourcentage_annee_origine_age a2 ON f.ID_CAT_AGE = a2.ID_CAT_AGE AND f.ANNEE = a2.ANNEE AND f.ORIGINE = a2.ORIGINE"
+  },
+  {
+    "objectID": "projects/projet-socio-demographique.html#stack",
+    "href": "projects/projet-socio-demographique.html#stack",
+    "title": "Analyse des profils socio-démographiques des étudiants d’OpenClassrooms",
+    "section": "Stack",
+    "text": "Stack\nSQL · dbt\nVoir le projet complet sur GitHub →\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-stage.html",
+    "href": "projects/projet-stage.html",
+    "title": "Optimisation des consommations de data",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
+  },
+  {
+    "objectID": "projects/projet-stage.html#contexte",
+    "href": "projects/projet-stage.html#contexte",
+    "title": "Optimisation des consommations de data",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre d’un stage de 2 mois au sein de l’entreprise Strapp Mobile (gestion de flottes mobile pro) à Nantes."
+  },
+  {
+    "objectID": "projects/projet-stage.html#démarche",
+    "href": "projects/projet-stage.html#démarche",
+    "title": "Optimisation des consommations de data",
+    "section": "Démarche",
+    "text": "Démarche\n\nAnalyse exploratoire des données\n\n\n3 sujets principaux analysés :\n\nHors-forfait\nSurconsommation de data\nSous-consommation de data\n\n\nPremières réflexions pour caractériser ces situations en fonction de critères :\n\nOccasionnel / Fréquent / Régulier\nNombre de mois / Fréquence moyenne / Nombre de mois consécutif\n\n\n\nMéthodologie de scoring\n\nDéveloppement d’un algorithme de scoring par carte SIM pour identifier les profils d’usage (surconsommation / sous-consommation) et recommander automatiquement le forfait le plus adapté.\nCritères retenus pour le score :\n- Nombre de mois\n- Fréquence\n- Dernier mois\n- Jour de dépassement (surconsommation)\n- Proportion de dépassement (surconsommation)\n- Proportion sous-consommation (sous-consommation)\n\nPrototype\n\nExpérimentation :\n- Jupyter comme laboratoire pour validation de la méthode de scoring\n- Création de la méthode de proposition de forfait puis vérification de sa cohérence\nFlexibilité :\n- Tous les éléments de calcul sont paramétrables pour pouvoir adapter l’algo à toutes les situations"
+  },
+  {
+    "objectID": "projects/projet-stage.html#résultats",
+    "href": "projects/projet-stage.html#résultats",
+    "title": "Optimisation des consommations de data",
+    "section": "Résultats",
+    "text": "Résultats\nLe projet s’est concrétisé par la livraison d’un module automatisé d’analyse et d’optimisation des forfaits. Voici son intégration au sein de l’infrastructure globale de Strapp Mobile :\n\n\n\nArchitecture"
+  },
+  {
+    "objectID": "projects/projet-stage.html#réalisations",
+    "href": "projects/projet-stage.html#réalisations",
+    "title": "Optimisation des consommations de data",
+    "section": "Réalisations",
+    "text": "Réalisations\n\n\n\nFonction lambda\n\n\n\n\n Fonction de calcul du jour de dépassement en cas de surconsommation de data\n\ndef calcul_jour_depassement(df_cdr, df_cartessim, dernier_forfait):\n    cdr_data = df_cdr.loc[df_cdr['type'] == 'data',['date', 'dataKo', 'iccid']]\n    del df_cdr\n\n    # Lien avec id cartes sim (inner join pour exclure les iccid inconnus)\n    sim_iccid = df_cartessim[['_id', 'iccid_text']]\n    cdr_data = pd.merge(cdr_data, sim_iccid, left_on='iccid', right_on='iccid_text', how='inner')\n    cdr_data = cdr_data[['date', 'dataKo', '_id']]\n\n    # Calcul somme cumulée de data consommée par mois\n    cdr_data = cdr_data.sort_values(['_id', 'date'])\n    cdr_data['Mois concerné'] = cdr_data['date'].dt.to_period('M').dt.to_timestamp()\n    cdr_data['data_cumsum_ko'] = cdr_data.groupby(['_id', 'Mois concerné'])['dataKo'].cumsum()\n    cdr_data.drop(columns='dataKo', inplace=True)\n    cdr_data['data_cumsum_go'] = round(cdr_data['data_cumsum_ko'] / config_base.KO_PAR_GO, 2)\n    cdr_data.drop(columns='data_cumsum_ko', inplace=True)\n\n    # Lien avec forfait utilisé (pour la surconsommation, on étudie la conso sur la période entière par rapport au dernier forfait, même si le forfait a changé entre temps)\n    cdr_data = pd.merge(cdr_data, dernier_forfait[['SIM', 'data_go_number']], left_on='_id', right_on='SIM', how='inner')\n    cdr_data = cdr_data[['SIM', 'date', 'data_cumsum_go', 'data_go_number']]\n\n    # Flag puis filtre sur lignes où la somme cumulée de la conso dépasse le forfait\n    mask = cdr_data['data_cumsum_go'] &gt;= cdr_data['data_go_number'] * config_surconsommation.seuil_surconso\n    cdr_data = cdr_data.loc[mask, ['SIM', 'date']]\n\n    # Isolement du jour\n    cdr_data['jour_depassement'] = cdr_data['date'].dt.day\n\n    # Création df jour dépassement par carte sim (avec quantile configuré)\n    jour_depassement = cdr_data.groupby(\"SIM\")['jour_depassement'].quantile(config_surconsommation.percentile_jour_depassement).reset_index(name=\"jour_depassement\")\n\n    return jour_depassement"
+  },
+  {
+    "objectID": "projects/projet-stage.html#stack",
+    "href": "projects/projet-stage.html#stack",
+    "title": "Optimisation des consommations de data",
+    "section": "Stack",
+    "text": "Stack\npython · Jupyter · AWS\nRetour à la liste de projets →"
+  },
+  {
+    "objectID": "projects/projet-veille.html",
+    "href": "projects/projet-veille.html",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
+  },
+  {
+    "objectID": "projects/projet-veille.html#contexte",
+    "href": "projects/projet-veille.html#contexte",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "",
+    "text": "Ce projet a été réalisé dans le cadre de ma formation de Data Analyst chez OpenClassrooms. Il est utilisé comme exemple de réalisation d’une veille métier et technologique, dont la méthode peut être étendue à d’autres besoins."
+  },
+  {
+    "objectID": "projects/projet-veille.html#démarche",
+    "href": "projects/projet-veille.html#démarche",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Démarche",
+    "text": "Démarche\nL’objectif est de réaliser une veille métier et technologique précise afin d’améliorer un projet existant : Optimisation de la gestion des données d’une boutique.\nDans ce projet, il a été mis en évidence une problématique de gestion des stocks. Cette veille doit donc répondre à ce besoin précis : Centraliser, analyser et évaluer des méthodes de gestion des stocks\nLa démarche est la suivante :\n\n1. Veille\n\nLa veille brute est réalisée sur Feedly grâce aux suivis de différentes sources en lien avec la gestion des stocks\nDès qu’un article ou autre élément est considéré comme pertinent, il est envoyé vers la base de données Méthodes de gestion des stocks en 1 clic via l’extension Notion Web Clipper\nL’article arrive automatiquement dans la liste avec le statut A résumer\n\n\n\n2. Statut de suivi\n\nA résumer : Article capturé, en attente de lecture approfondie et prise de notes\nSynthétisé : Méthode analysée, les différents éléments d’évaluation sont complétés\nNon retenu : Méthode analysée mais non retenue pour le projet (explications dans Limites)\n\n\n\n3. Traitement\nChaque entrée doit être résumée avec les éléments suivants pour pouvoir évaluer son utilité :\n\nType : S’agit-il d’une méthode Métier (ex : Wilson) ou d’une méthode Technologique (ex : script Python)\nDescription : Résumé court de l’article expliquant la méthode\nDifficulté de mise en place : Faible / Moyenne / Difficile, à évaluer en fonction du projet\nFiabilité : Faible / Moyenne / Forte, à évaluer en fonction du projet\nLimites : Description courte des limites de la méthode au regard du projet"
+  },
+  {
+    "objectID": "projects/projet-veille.html#résultats",
+    "href": "projects/projet-veille.html#résultats",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Résultats",
+    "text": "Résultats\nLa veille est concrétisée par la livraison d’une base de données Notion comprenant la liste des sources étudiées lors de la veille, ainsi que leurs utilisations potentielles dans le projet. Ce travail s’inscrit dans le cadre d’un projet global de formalisation incluant un cahier des charges fonctionnel, un guide d’utilisation et un compte rendu final.\n\n\n\nSommaire du projet complet sur Notion"
+  },
+  {
+    "objectID": "projects/projet-veille.html#réalisations",
+    "href": "projects/projet-veille.html#réalisations",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Réalisations",
+    "text": "Réalisations"
+  },
+  {
+    "objectID": "projects/projet-veille.html#stack",
+    "href": "projects/projet-veille.html#stack",
+    "title": "Veille métier et technologique : Méthodes de gestion des stocks",
+    "section": "Stack",
+    "text": "Stack\nNotion · Feedly\nRetour à la liste de projets →"
   }
 ]
