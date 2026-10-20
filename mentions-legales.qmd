@@ -1,0 +1,59 @@
+---
+title: "Mentions légales"
+description-meta: "Mentions légales du site."
+---
+
+*Conformément à l'article 1-1 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN).*
+
+## Éditeur du site
+
+- **Nom** : Agnès DROUARD
+- **Statut** : Entrepreneur individuel (EI), freelance
+- **SIRET** : 130 939 051 00012
+- **Adresse** : 4 cours Olivier de Clisson, 44000 Nantes, France
+- **Téléphone** : +336 79 12 19 74
+- **Email** : agnesdrouard90@gmail.com
+
+## Directrice de la publication
+
+Agnès Drouard
+
+## Hébergement
+
+Ce site est hébergé par :
+
+**GitHub, Inc.**
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 94107
+États-Unis
++1 877 448 4820
+[https://github.com](https://github.com)
+
+## Propriété intellectuelle
+
+L'ensemble des contenus présents sur ce site (textes, visuels, études de cas, code source) est la propriété d'Agnès DROUARD, sauf mention contraire. Tous droits réservés.
+
+Toute reproduction, représentation, modification ou réutilisation, totale ou partielle, sans autorisation préalable écrite est interdite.
+
+Le code source du site est consultable sur [GitHub](https://github.com/AniessD/AniessD.github.io). Cette consultation ne confère aucun droit de réutilisation : en l'absence de licence, le code reste protégé par le droit d'auteur.
+
+## Données personnelles
+
+Ce site ne collecte aucune donnée personnelle en dehors de celles que vous transmettez volontairement, par exemple en m'écrivant directement par email. Ces données sont utilisées uniquement pour répondre à votre message et ne sont ni revendues ni transmises à des tiers.
+
+Conformément au RGPD et à la loi Informatique et Libertés, vous pouvez exercer vos droits d'accès, de rectification et de suppression en m'écrivant à l'adresse indiquée ci-dessus.
+
+L'hébergeur du site peut enregistrer des données techniques de connexion (comme l'adresse IP) selon sa propre politique de confidentialité.
+
+## Cookies
+
+Ce site n'utilise pas de cookies de suivi ni d'outil de mesure d'audience.
+
+## Droit applicable
+
+Les présentes mentions légales sont soumises au droit français. En cas de litige, les tribunaux français seront seuls compétents.
+
+---
+
+*Dernière mise à jour : octobre 2026*
+

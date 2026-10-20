@@ -9,9 +9,6 @@
 /.quarto/
 **/*.quarto_ipynb
 
-#Page mentions légales (en attente lancement entreprise)
-/mentions-legales.qmd
-
 #Copies styles, fonts, fix-accessibility et images dans version anglaise
 en/styles.css
 en/fonts.html
