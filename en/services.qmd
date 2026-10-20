@@ -1,0 +1,49 @@
+---
+title: "Services"
+description-meta: "Data analysis for industry: logistics and quality dashboards, automation, project scoping."
+---
+
+Services tailored to the challenges of industry, from logistics to quality.
+
+::: {.row .row-cols-1 .row-cols-md-3 .g-5 .mb-4}
+
+::: {.col}
+::: {.prestation .prestation-logistique}
+### Logistics {.unlisted}
+
+- Logistics dashboard: inventory, supply, shipments
+- Demand analysis: seasonality, variability
+- Cost analysis and carrier benchmarking
+- Planning automation: supply, production, transport
+- Inventory optimization and data reliability improvement
+:::
+:::
+
+
+::: {.col}
+::: {.prestation .prestation-qualite}
+### Quality {.unlisted}
+
+- Quality dashboard: non-conformities, customer complaints, certifications, service level
+- Routine automation: supplier monitoring, lab test results
+- Quality analysis: non-conformities, supplier performance
+- Traceability file automation (audits)
+:::
+:::
+
+
+::: {.col}
+::: {.prestation .prestation-general}
+### General {.unlisted}
+
+- Project scoping: data source mapping, roadmap (1 day)
+- Data audit: review of existing tools with recommendations (2 to 3 days)
+- Team support for adopting new tools (dashboards, automation)
+:::
+:::
+
+:::
+
+::: {.text-center .mt-4}
+[Download the services grid (PDF)](documents/Services grid.pdf){.btn .btn-primary}
+:::

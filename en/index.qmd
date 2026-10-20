@@ -40,6 +40,20 @@ Industry-focused Data Analyst with 10 years of experience in supply chain and qu
 
 Having dealt with these challenges firsthand, I understand the realities of the business. I have built and automated raw-material risk databases and set up supply chain KPIs (procurement and production scheduling for around ten plants). 
 
+## Get in touch
+
+Have a data analysis project, a question about my work, or a collaboration opportunity?
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-geo-alt-fill"></i> Nantes & Remote  
+<i class="bi bi-envelope-fill"></i> [agnesdrouard90@gmail.com](mailto:agnesdrouard90@gmail.com)  
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/agnes-drouard/)  
+<i class="bi bi-github"></i> [GitHub](https://github.com/AniessD)  
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: -0.125em;">
+  <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
+</svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
+:::
+
 
 ## Skills
 
@@ -112,18 +126,51 @@ Having dealt with these challenges firsthand, I understand the realities of the 
 :::
 
 
-## Get in touch
+## Recommandations
 
-Have a data analysis project, a question about my work, or a collaboration opportunity?
 
 ::: {.callout-note appearance="minimal"}
-<i class="bi bi-geo-alt-fill"></i> Nantes & Remote  
-<i class="bi bi-envelope-fill"></i> [agnesdrouard90@gmail.com](mailto:agnesdrouard90@gmail.com)  
-<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/agnes-drouard/)  
-<i class="bi bi-github"></i> [GitHub](https://github.com/AniessD)  
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: -0.125em;">
-  <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
-</svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
+I had the pleasure of working with Agnès for several years in the Quality team, which she joined as a young engineer.  
+She is very comfortable with IT tools and quickly became the team's go-to person on these topics. She developed and evolved many quality applications, always starting from users' real needs.  
+She played a key role in setting up and rolling out our supplier specifications management platform. This project connected all of our suppliers and consolidated the specifications into a model dedicated to each product family. On this demanding, multi-year data structuring project, I could count on her from start to finish.  
+Rigorous, pragmatic and attentive, Agnès knows how to understand a business before proposing a solution. She is a reliable and trustworthy professional.  
+I'm delighted to see her starting out as a freelance Data Analyst. I recommend her without hesitation!  
+
+**Alexandra VANHUYSBERGHE** - *Direct Manager at LDC Traiteur*
+:::
+
+
+::: {.callout-note appearance="minimal"}
+I had the pleasure of managing Agnès for more than 3 years at Eurial.   
+Thanks to her deep understanding of supply chain challenges and her analytical rigor, she developed service performance indicators and modeled optimization scenarios that were key to our business.
+Agnès has the ability to juggle day-to-day operational management with the perspective needed to build reliable, lasting steering tools.  
+I recommend Agnès for any data analysis and process optimization assignment.  
+
+**Jérôme TOMASZEWSKI** - *Direct Manager at Eurial*
+:::
+
+## Certifications
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/microsoft.webp){width="55px" fig-alt="Microsoft logo" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/AgnsDrouard-7394/E4DED5AC3B472D3B?sharingId=D6319BD3198A0AAA) {.h4 .m-0 .fw-bold .lh-1}
+[*Microsoft · June 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+:::
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/openclassrooms.png){width="55px" fig-alt="OpenClassrooms logo" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Data Analyst, RNCP Level 6 Certification (equivalent to a Bachelor's degree) {.h4 .m-0 .fw-bold .lh-1}
+[*OpenClassrooms · September 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
 :::
 
 ---

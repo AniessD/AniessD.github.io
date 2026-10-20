@@ -36,3 +36,22 @@ if src_img.exists():
             if p.is_file() and p.relative_to(dst_img) not in source_files:
                 print("Suppression :", p.relative_to(root))
                 p.unlink()
+
+# Dossier documents : copie des fichiers nouveaux ou modifiés
+src_doc = root / "documents"
+dst_doc = dest / "documents"
+
+if src_doc.exists():
+    source_files = set()
+    for p in src_doc.rglob("*"):
+        if p.is_file():
+            rel = p.relative_to(src_doc)
+            source_files.add(rel)
+            sync_file(p, dst_doc / rel)
+
+    # Suppression des fichiers qui n'existent plus à la source
+    if dst_doc.exists():
+        for p in list(dst_doc.rglob("*")):
+            if p.is_file() and p.relative_to(dst_doc) not in source_files:
+                print("Suppression :", p.relative_to(root))
+                p.unlink()

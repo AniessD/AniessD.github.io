@@ -13,6 +13,8 @@ website:
         text: Accueil
       - href: projects.qmd
         text: Projets
+      - href: prestations.qmd
+        text: Prestations
     right:
       - icon: globe
         menu:
@@ -22,7 +24,7 @@ website:
             href: en/index.html
   page-footer:
     left: "© 2026 Agnès Drouard"
-    right: Construit avec Quarto
+    right: "[Mentions légales](mentions-legales.qmd) | Construit avec Quarto"
 
 format:
   html:

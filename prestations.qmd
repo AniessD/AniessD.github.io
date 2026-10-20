@@ -1,0 +1,49 @@
+---
+title: "Prestations"
+description-meta: "Data analyse pour l'industrie : dashboards logistique et qualité, automatisation, cadrage de projet."
+---
+
+Des prestations adaptées aux enjeux de l'industrie, de la logistique à la qualité.
+
+::: {.row .row-cols-1 .row-cols-md-3 .g-5 .mb-4}
+
+::: {.col}
+::: {.prestation .prestation-logistique}
+### Logistique {.unlisted}
+
+- Dashboard logistique : stock, approvisionnement, expéditions
+- Analyse de la demande : saisonnalité, variabilité
+- Analyse des coûts et benchmark transporteurs
+- Automatisation de plannings : approvisionnement, production, transport
+- Optimisation des stocks et fiabilisation des données
+:::
+:::
+
+
+::: {.col}
+::: {.prestation .prestation-qualite}
+### Qualité {.unlisted}
+
+- Dashboard qualité : non-conformités, réclamations, certifications, taux de service
+- Automatisation de routines : suivi fournisseurs, résultats d'analyses
+- Analyses qualité : non-conformités, performance fournisseurs
+- Automatisation de dossiers de traçabilité (audits)
+:::
+:::
+
+
+::: {.col}
+::: {.prestation .prestation-general}
+### Général {.unlisted}
+
+- Cadrage de projet : cartographie des sources de données, feuille de route (1 jour)
+- Diagnostic data : état des lieux des outils existants avec recommandations (2 à 3 jours)
+- Accompagnement des équipes pour la prise en main des nouveaux supports (dashboards, automatisation)
+:::
+:::
+
+:::
+
+::: {.text-center .mt-4}
+[Télécharger la grille de prestations (PDF)](documents/grille_de_prestations.pdf){.btn .btn-primary}
+:::

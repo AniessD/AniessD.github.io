@@ -26,6 +26,19 @@ Data Analyst spécialisée dans l'industrie, avec 10 ans d'expérience en supply
 
 Pour les avoir rencontrées, je connais bien les problématiques métiers. J'ai notamment construit et automatisé des bases de données de risques sur les matières premières ou encore mis en place des KPI côté supply chain (approvisionnement et ordonnancement d’une dizaine d’usines).
 
+## Me contacter
+
+Un projet d'analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-geo-alt-fill"></i> Nantes & Remote  
+<i class="bi bi-envelope-fill"></i> [agnesdrouard90@gmail.com](mailto:agnesdrouard90@gmail.com)  
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/agnes-drouard/)  
+<i class="bi bi-github"></i> [GitHub](https://github.com/AniessD)  
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: -0.125em;">
+  <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
+</svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
+:::
 
 ## Compétences
 
@@ -97,18 +110,50 @@ Pour les avoir rencontrées, je connais bien les problématiques métiers. J'ai 
 :::
 
 
-## Me contacter
+## Recommandations
 
-Un projet d'analyse de données, une question sur mes réalisations ou une opportunité de collaboration ?
 
 ::: {.callout-note appearance="minimal"}
-<i class="bi bi-geo-alt-fill"></i> Nantes & Remote  
-<i class="bi bi-envelope-fill"></i> [agnesdrouard90@gmail.com](mailto:agnesdrouard90@gmail.com)  
-<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/agnes-drouard/)  
-<i class="bi bi-github"></i> [GitHub](https://github.com/AniessD)  
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: -0.125em;">
-  <path d="M12 0L1.5 6v12L12 24l10.5-6V6L12 0zm0 3.21l7.5 4.29v8.57L12 20.36l-7.5-4.29V7.5L12 3.21z"/>
-</svg> [Malt](https://www.malt.fr/profile/agnesdrouard)
+J'ai eu le plaisir de travailler plusieurs années avec Agnès au sein de l'équipe Qualité, qu'elle a rejointe comme jeune ingénieure.  
+Très à l'aise avec les outils informatiques, elle est rapidement devenue la référence de l'équipe sur ces sujets. Elle a développé et fait évoluer de nombreux outils applicatifs qualité, en partant toujours des besoins concrets des utilisateurs.  
+Elle a joué un rôle clé dans la mise en place et le déploiement de notre plateforme de gestion des cahiers des charges fournisseurs. Ce projet a permis de connecter l'ensemble de nos fournisseurs et de consolider les cahiers des charges sur un modèle dédié à chaque famille de produits. Sur ce chantier de structuration de données, exigeant et sur plusieurs années, j'ai pu compter sur elle du début à la fin.  
+Rigoureuse, pragmatique et à l'écoute, Agnès sait comprendre un métier avant de proposer une solution. C'est une professionnelle fiable et de confiance.  
+Je suis ravie de la voir se lancer en freelance comme Data Analyst. Je la recommande sans hésiter !  
+
+**Alexandra VANHUYSBERGHE** - *Reponsable directe chez LDC Traiteur*
+:::
+
+
+::: {.callout-note appearance="minimal"}
+J'ai eu le plaisir de manager Agnès pendant plus de 3 ans chez Eurial.  
+Grâce à sa très bonne maîtrise des enjeux d'approvisionnement et sa rigueur d'analyse, elle a notamment développé des indicateurs de performance pour le service et modélisé des scénarios d'optimisation clés pour notre activité. Agnès a une capacité à jongler entre la gestion opérationnelle du quotidien et la prise de hauteur nécessaire pour construire des outils de pilotage fiables et durables.  
+ Je recommande Agnès pour toute mission d'analyse de données et d'optimisation de processus.
+
+**Jérôme TOMASZEWSKI** - *Reponsable directe chez Eurial*
+:::
+
+## Certifications
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/microsoft.webp){width="55px" fig-alt="Logo Microsoft" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/fr-fr/AgnsDrouard-7394/E4DED5AC3B472D3B?sharingId=D6319BD3198A0AAA) {.h4 .m-0 .fw-bold .lh-1}
+[*Microsoft · juin 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+:::
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/openclassrooms.png){width="55px" fig-alt="Logo OpenClassrooms" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Data Analyst, titre RNCP niveau 6 (équivalent bac+3/4) {.h4 .m-0 .fw-bold .lh-1}
+[*OpenClassrooms · septembre 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
 :::
 
 ---

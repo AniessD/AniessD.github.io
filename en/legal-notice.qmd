@@ -1,0 +1,60 @@
+---
+title: "Legal Notice"
+description-meta: "Legal notice for this website."
+---
+
+*In accordance with Article 1-1 of French Law No. 2004-575 of 21 June 2004 on confidence in the digital economy (LCEN).*
+
+*This page is a translation of the French version, which prevails in case of any discrepancy.*
+
+## Website Publisher
+
+- **Name**: Agnès DROUARD
+- **Status**: Sole proprietor (*entrepreneur individuel*, EI), freelance
+- **SIRET**: 130 939 051 00012
+- **Address**: 4 cours Olivier de Clisson, 44000 Nantes, France
+- **Phone**: +33 6 79 12 19 74
+- **Email**: agnesdrouard90@gmail.com
+
+## Publication Director
+
+Agnès Drouard
+
+## Hosting
+
+This website is hosted by:
+
+**GitHub, Inc.**
+88 Colin P. Kelly Jr. Street
+San Francisco, CA 94107
+United States
++1 877 448 4820
+[https://github.com](https://github.com)
+
+## Intellectual Property
+
+All content on this website (texts, visuals, case studies, source code) is the property of Agnès DROUARD, unless otherwise stated. All rights reserved.
+
+Any reproduction, representation, modification or reuse, in whole or in part, without prior written permission is prohibited.
+
+The source code of this website can be viewed on [GitHub](https://github.com/AniessD/AniessD.github.io). Viewing it does not grant any right of reuse: in the absence of a license, the code remains protected by copyright.
+
+## Personal Data
+
+This website does not collect any personal data other than what you voluntarily provide, for example by writing to me directly by email. This data is used solely to reply to your message and is neither sold nor shared with third parties.
+
+In accordance with the GDPR and the French Data Protection Act (*loi Informatique et Libertés*), you may exercise your rights of access, rectification and erasure by writing to me at the address given above.
+
+The website host may record technical connection data (such as IP addresses) in accordance with its own privacy policy.
+
+## Cookies
+
+This website does not use tracking cookies or analytics tools.
+
+## Governing Law
+
+This legal notice is governed by French law. In the event of a dispute, the French courts shall have sole jurisdiction.
+
+---
+
+*Last updated: October 2026*
