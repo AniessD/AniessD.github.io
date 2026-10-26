@@ -125,6 +125,29 @@ Have a data analysis project, a question about my work, or a collaboration oppor
 - Conducted supplier audits and monitored quality indicators
 :::
 
+## Certifications
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/microsoft.webp){width="55px" fig-alt="Microsoft logo" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/AgnsDrouard-7394/E4DED5AC3B472D3B?sharingId=D6319BD3198A0AAA) {.h4 .m-0 .fw-bold .lh-1}
+[*Microsoft · June 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+:::
+
+::: {.mb-4}
+::: {.d-flex .align-items-center .gap-3 .mb-1}
+![](images/logos/openclassrooms.png){width="55px" fig-alt="OpenClassrooms logo" .my-auto}
+
+::: {.d-flex .flex-column .justify-content-center}
+### Data Analyst, RNCP Level 6 Certification (equivalent to a Bachelor's degree) {.h4 .m-0 .fw-bold .lh-1}
+[*OpenClassrooms · September 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
+:::
+:::
+:::
 
 ## Recommandations
 
@@ -149,29 +172,14 @@ I recommend Agnès for any data analysis and process optimization assignment.
 **Jérôme TOMASZEWSKI** - *Direct Manager at Eurial*
 :::
 
-## Certifications
+::: {.callout-note appearance="minimal"}
+I had the pleasure of working with Agnès at Eurial, where I came to appreciate her excellent work, her rigor, her curiosity, and her ease in solving problems.  
+It is therefore with confidence that I recommend Agnès. You will benefit from her experience and her qualities as a true professional, so don't hesitate: get in touch with her!  
 
-::: {.mb-4}
-::: {.d-flex .align-items-center .gap-3 .mb-1}
-![](images/logos/microsoft.webp){width="55px" fig-alt="Microsoft logo" .my-auto}
-
-::: {.d-flex .flex-column .justify-content-center}
-### [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/AgnsDrouard-7394/E4DED5AC3B472D3B?sharingId=D6319BD3198A0AAA) {.h4 .m-0 .fw-bold .lh-1}
-[*Microsoft · June 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
-:::
-:::
+**Stéphane LEMESLE** - *Direct Manager at Eurial*
 :::
 
-::: {.mb-4}
-::: {.d-flex .align-items-center .gap-3 .mb-1}
-![](images/logos/openclassrooms.png){width="55px" fig-alt="OpenClassrooms logo" .my-auto}
 
-::: {.d-flex .flex-column .justify-content-center}
-### Data Analyst, RNCP Level 6 Certification (equivalent to a Bachelor's degree) {.h4 .m-0 .fw-bold .lh-1}
-[*OpenClassrooms · September 2026*]{.text-muted .mt-1 .mb-0 .fs-6 .lh-1}
-:::
-:::
-:::
 
 ---
 

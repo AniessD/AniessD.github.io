@@ -109,29 +109,6 @@ Un projet d'analyse de données, une question sur mes réalisations ou une oppor
 - Gestion des données fournisseurs et matières premières
 :::
 
-
-## Recommandations
-
-
-::: {.callout-note appearance="minimal"}
-J'ai eu le plaisir de travailler plusieurs années avec Agnès au sein de l'équipe Qualité, qu'elle a rejointe comme jeune ingénieure.  
-Très à l'aise avec les outils informatiques, elle est rapidement devenue la référence de l'équipe sur ces sujets. Elle a développé et fait évoluer de nombreux outils applicatifs qualité, en partant toujours des besoins concrets des utilisateurs.  
-Elle a joué un rôle clé dans la mise en place et le déploiement de notre plateforme de gestion des cahiers des charges fournisseurs. Ce projet a permis de connecter l'ensemble de nos fournisseurs et de consolider les cahiers des charges sur un modèle dédié à chaque famille de produits. Sur ce chantier de structuration de données, exigeant et sur plusieurs années, j'ai pu compter sur elle du début à la fin.  
-Rigoureuse, pragmatique et à l'écoute, Agnès sait comprendre un métier avant de proposer une solution. C'est une professionnelle fiable et de confiance.  
-Je suis ravie de la voir se lancer en freelance comme Data Analyst. Je la recommande sans hésiter !  
-
-**Alexandra VANHUYSBERGHE** - *Reponsable directe chez LDC Traiteur*
-:::
-
-
-::: {.callout-note appearance="minimal"}
-J'ai eu le plaisir de manager Agnès pendant plus de 3 ans chez Eurial.  
-Grâce à sa très bonne maîtrise des enjeux d'approvisionnement et sa rigueur d'analyse, elle a notamment développé des indicateurs de performance pour le service et modélisé des scénarios d'optimisation clés pour notre activité. Agnès a une capacité à jongler entre la gestion opérationnelle du quotidien et la prise de hauteur nécessaire pour construire des outils de pilotage fiables et durables.  
- Je recommande Agnès pour toute mission d'analyse de données et d'optimisation de processus.
-
-**Jérôme TOMASZEWSKI** - *Reponsable directe chez Eurial*
-:::
-
 ## Certifications
 
 ::: {.mb-4}
@@ -155,6 +132,37 @@ Grâce à sa très bonne maîtrise des enjeux d'approvisionnement et sa rigueur 
 :::
 :::
 :::
+
+## Recommandations
+
+
+::: {.callout-note appearance="minimal"}
+J'ai eu le plaisir de travailler plusieurs années avec Agnès au sein de l'équipe Qualité, qu'elle a rejointe comme jeune ingénieure.  
+Très à l'aise avec les outils informatiques, elle est rapidement devenue la référence de l'équipe sur ces sujets. Elle a développé et fait évoluer de nombreux outils applicatifs qualité, en partant toujours des besoins concrets des utilisateurs.  
+Elle a joué un rôle clé dans la mise en place et le déploiement de notre plateforme de gestion des cahiers des charges fournisseurs. Ce projet a permis de connecter l'ensemble de nos fournisseurs et de consolider les cahiers des charges sur un modèle dédié à chaque famille de produits. Sur ce chantier de structuration de données, exigeant et sur plusieurs années, j'ai pu compter sur elle du début à la fin.  
+Rigoureuse, pragmatique et à l'écoute, Agnès sait comprendre un métier avant de proposer une solution. C'est une professionnelle fiable et de confiance.  
+Je suis ravie de la voir se lancer en freelance comme Data Analyst. Je la recommande sans hésiter !  
+
+**Alexandra VANHUYSBERGHE** - *Reponsable directe chez LDC Traiteur*
+:::
+
+
+::: {.callout-note appearance="minimal"}
+J'ai eu le plaisir de manager Agnès pendant plus de 3 ans chez Eurial.  
+Grâce à sa très bonne maîtrise des enjeux d'approvisionnement et sa rigueur d'analyse, elle a notamment développé des indicateurs de performance pour le service et modélisé des scénarios d'optimisation clés pour notre activité. Agnès a une capacité à jongler entre la gestion opérationnelle du quotidien et la prise de hauteur nécessaire pour construire des outils de pilotage fiables et durables.  
+ Je recommande Agnès pour toute mission d'analyse de données et d'optimisation de processus.
+
+**Jérôme TOMASZEWSKI** - *Reponsable directe chez Eurial*
+:::
+
+::: {.callout-note appearance="minimal"}
+J'ai eu le plaisir de travailler avec Agnès au sein d'Eurial, j'ai pu apprécier son excellent travail, sa rigueur, sa curiosité et sa facilité à traiter les problèmes.  
+C'est donc avec confiance que je recommande Agnès, vous pourrez bénéficier de son expérience, de ses qualités de vraie professionnelle, alors n'hésitez pas, contactez là !  
+
+**Stéphane LEMESLE** - *Reponsable directe chez Eurial*
+:::
+
+
 
 ---
 
