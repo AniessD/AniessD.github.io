@@ -151,35 +151,139 @@ Have a data analysis project, a question about my work, or a collaboration oppor
 
 ## Recommandations
 
+:::: {.reco-grid}
 
-::: {.callout-note appearance="minimal"}
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Charles RAMES**  
+[*Direct manager at Strapp Mobile*]{.text-muted .fs-6}
+</div>
+![](images/logos/malt.png){width="22px" fig-alt="Recommandation Malt"}
+:::
+
+::: {.reco-text}
+I had the pleasure of supervising Agnès during her Data Analyst internship at Strapp, and I recommend her without the slightest hesitation.  
+What stands out first is her autonomy and how quickly she learns: having only recently changed careers, she mastered our tools and topics in record time,  
+even building a working methodology herself where no framework existed.  
+Rigorous and reliable, she delivered consistently high-quality analyses that the team could rely on day to day.  
+Agnès also has excellent interpersonal skills: she is attentive and communicates clearly, and she knows how to bring both business and technical teams on board and move topics forward.  
+Curious, demanding of herself and always improving, she has everything it takes to succeed in a data role or assignment.  
+Any team that works with her will have made an excellent choice!  
+:::
+:::
+
+
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Jérôme TOMASZEWSKI**  
+[*Direct manager at Eurial*]{.text-muted .fs-6}
+</div>
+![](images/logos/linkedin.webp){width="22px" fig-alt="Recommandation LinkedIn"}
+:::
+
+::: {.reco-text}
+I had the pleasure of managing Agnès for more than 3 years at Eurial.   
+Thanks to her deep understanding of supply chain challenges and her analytical rigor, she developed service performance indicators and modeled optimization scenarios that were key to our business.
+Agnès has the ability to juggle day-to-day operational management with the perspective needed to build reliable, lasting steering tools.  
+I recommend Agnès for any data analysis and process optimization assignment. 
+:::
+:::
+
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Stéphane LEMESLE**  
+[*Direct manager at Eurial*]{.text-muted .fs-6}
+</div>
+![](images/logos/linkedin.webp){width="22px" fig-alt="Recommandation LinkedIn"}
+:::
+
+::: {.reco-text}
+I had the pleasure of working with Agnès at Eurial, where I came to appreciate her excellent work, her rigor, her curiosity, and her ease in solving problems.  
+It is therefore with confidence that I recommend Agnès. You will benefit from her experience and her qualities as a true professional, so don't hesitate: get in touch with her!  
+:::
+:::
+
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Manuela GOURICHON**  
+[*Direct manager at LDC Traiteur*]{.text-muted .fs-6}
+</div>
+![](images/logos/linkedin.webp){width="22px" fig-alt="Recommandation LinkedIn"}
+:::
+
+::: {.reco-text}
+Agnès is a brilliant young woman who knows how to listen carefully and adapt very precisely to your needs.  
+You can trust her completely: working with her, you will only ever come away satisfied.  
+:::
+:::
+
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Alexandra VANHUYSBERGHE**  
+[*Direct manager at LDC Traiteur*]{.text-muted .fs-6}
+</div>
+![](images/logos/linkedin.webp){width="22px" fig-alt="Recommandation LinkedIn"}
+:::
+
+::: {.reco-text}
 I had the pleasure of working with Agnès for several years in the Quality team, which she joined as a young engineer.  
 She is very comfortable with IT tools and quickly became the team's go-to person on these topics. She developed and evolved many quality applications, always starting from users' real needs.  
 She played a key role in setting up and rolling out our supplier specifications management platform. This project connected all of our suppliers and consolidated the specifications into a model dedicated to each product family. On this demanding, multi-year data structuring project, I could count on her from start to finish.  
 Rigorous, pragmatic and attentive, Agnès knows how to understand a business before proposing a solution. She is a reliable and trustworthy professional.  
 I'm delighted to see her starting out as a freelance Data Analyst. I recommend her without hesitation!  
-
-**Alexandra VANHUYSBERGHE** - *Direct Manager at LDC Traiteur*
+:::
 :::
 
-
-::: {.callout-note appearance="minimal"}
-I had the pleasure of managing Agnès for more than 3 years at Eurial.   
-Thanks to her deep understanding of supply chain challenges and her analytical rigor, she developed service performance indicators and modeled optimization scenarios that were key to our business.
-Agnès has the ability to juggle day-to-day operational management with the perspective needed to build reliable, lasting steering tools.  
-I recommend Agnès for any data analysis and process optimization assignment.  
-
-**Jérôme TOMASZEWSKI** - *Direct Manager at Eurial*
+::: {.reco-card}
+::: {.d-flex .align-items-start .justify-content-between .gap-3 .mb-2}
+<div>
+**Maëva BEAULIEU**  
+[*Colleague at Eurial*]{.text-muted .fs-6}
+</div>
+![](images/logos/malt.png){width="22px" fig-alt="Recommandation LinkedIn"}
 :::
 
-::: {.callout-note appearance="minimal"}
-I had the pleasure of working with Agnès at Eurial, where I came to appreciate her excellent work, her rigor, her curiosity, and her ease in solving problems.  
-It is therefore with confidence that I recommend Agnès. You will benefit from her experience and her qualities as a true professional, so don't hesitate: get in touch with her!  
-
-**Stéphane LEMESLE** - *Direct Manager at Eurial*
+::: {.reco-text}
+Working with Agnès was a real pleasure. In addition to her technical skills, she knows how to build a relationship of trust  
+and adapt to the needs of the people she works with. Her commitment and her sense of service make all the difference.  
+I highly recommend her services.  
+:::
 :::
 
+::::
 
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const isEn = document.documentElement.lang?.startsWith("en");
+  const labelMore = isEn ? "... Read more" : "... Lire la suite";
+  const labelLess = isEn ? "Show less" : "Réduire";
+
+  document.querySelectorAll(".reco-text").forEach((textEl) => {
+    if (textEl.scrollHeight > 85) {
+      textEl.classList.add("is-collapsed");
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "reco-toggle";
+      btn.textContent = labelMore;
+      btn.setAttribute("aria-expanded", "false");
+
+      btn.addEventListener("click", () => {
+        const collapsed = textEl.classList.toggle("is-collapsed");
+        btn.textContent = collapsed ? labelMore : labelLess;
+        btn.setAttribute("aria-expanded", String(!collapsed));
+      });
+
+      textEl.after(btn);
+    }
+  });
+});
+</script>
 
 ---
 
